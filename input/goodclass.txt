@@ -1,0 +1,15 @@
+Country
+Date
+Place
+City
+Town
+Country
+Organisation
+Number
+Duration
+Building
+Settlement
+Person
+OfficeHolder
+GovernmentAgency
+Event
