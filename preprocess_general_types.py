@@ -179,7 +179,6 @@ def parse_word(filename):
 
 
 
-
 if __name__ == '__main__':
     parse_word("input/1_corpus.txt")
     # get_tag_path("professional")
