@@ -55,21 +55,43 @@ def get_tag_path(t1):
         s = tag_list.pop(0)  # get the first tag
         hyp = s.hypernyms()
         while hyp:
+
             if not hyp:
                 break
             elif hyp[0] == wn.synset('entity.n.01'):
                 break
             elif hyp[0]._name in top_level_types:
-                t.append(hyp[0].lemma_names()[0])
-                # print(hyp[0]._name,t)
+                t.append(hyp[0].lemma_names()[0].capitalize())
                 return t
             else:
-                t.append(hyp[0].lemma_names()[0])
+                t.append(hyp[0].lemma_names()[0].capitalize())
                 hyp = hyp[0].hypernyms()
-    # print("dd",t)
-    t.clear()  # not the noun that we want to consider
+
+    t.clear()
     return t
 
+# correct the form of tag
+def check_tag(str):
+    tags = str.split('.')
+    res = []
+    # print(tags)
+    for tag in tags:
+        if tag.lower() in top_level_types.values():
+            res.clear()
+            res.append(tag.capitalize())
+        elif tag.lower()=='organisation':
+            res.clear()
+            res.append("Organization")
+        elif tag.lower() == 'place':
+            res.clear()
+            res.append('Location')
+        else:
+            res.append(tag.capitalize())
+    s = ''
+    for r in res:
+        s+=r+"."
+    s = s.strip('.')
+    return s
 
 
 def parse_word(filename):
@@ -82,37 +104,74 @@ def parse_word(filename):
         # get tag
         tmp = copy.deepcopy(words)
         for i in range(len(tmp)):
-            if tmp[i][0] == '<':
+            if(tmp[i][0]=='<' and tmp[i][-1]=='>'):
+                tmp[i] = tmp[i].split('>')[1].split('<')[0]
+            elif tmp[i][0] == '<':
                 if len(tmp[i].split('>'))>1:
-                 tmp[i] = tmp[i].split('>')[1]
-            if tmp[i][-1] == '>':
+                    tmp[i] = tmp[i].split('>')[1]
+
+            elif tmp[i][-1] == '>':
                 tmp[i] = tmp[i].split('<')[0]
         sen = ''
         for t in tmp:
             sen+=t+' '
-        sen.strip()
+        sen = sen.strip()
         text = nltk.word_tokenize(sen)
         sen_tagged = nltk.pos_tag(text)
-        # print(sen_tagged)
 
         for i in range(len(words)): # find the noun that has not been marked
+            # get the tag of word
+            flag = ''  # get the tag of word
+            wt = nltk.word_tokenize(words[i])
+            tmp_word = wt[0]  # remove . , : and other
+            punctuation = ''
+            if len(wt)>1:
+                punctuation = wt[1]
+            for t in sen_tagged:
+                if tmp_word == t[0]:
+                    flag = t[1]
+
+            # already tagged
             if words[i][0]=='<' or words[i][-1]=='>': # already marked
+                if words[i][0]=='<' and words[i][-1] == '>':
+
+                    check1 = words[i].split('>')[0].strip('<')
+                    tag1 = check_tag(check1)
+                    # print(check1,tag1)
+                    new_line+='<'+tag1+'>'+words[i].split('>')[1].split('<')[0]+'</'+tag1+'>'
+                elif words[i][0] == '<': # first tag
+                    check = words[i].split('>')
+                    if len(check)>1:
+                        new_tag = '<'+check_tag(words[i].split('>')[0].strip('<'))+ '>'
+                        new_line+=new_tag + words[i].split('>')[1]
+                elif words[i][-1] == '>' and len(words[i].split('<'))>1:
+                    check = words[i].split('<')[1]
+                    check = check.strip('/').strip('>')
+                    new_tag = '</'+check_tag(check)+'>'
+                    new_line += words[i].split('<')[0]+new_tag + " "
+                else:
+                    new_line += words[i] + " "
+                continue
+
+
+            # do not need to tag
+            elif flag not in noun_phrase:
                 new_line += words[i] + " "
                 continue
-            if sen_tagged[i][1] not in noun_phrase:
-                new_line += words[i] + " "
-                continue
-            top = get_tag_path(words[i])
+
+            # get new tag
+            top = get_tag_path(tmp_word)
             if len(top)>0:
                 tag_string = ''
                 for top_tag in reversed(top):
                     tag_string+=top_tag+'.'
                 tag_string = tag_string.strip('.')
-                new_word = "<"+tag_string+">"+words[i]+"</"+tag_string+">"
+
+                new_word = "<"+tag_string+">"+tmp_word+"</"+tag_string+">"+punctuation
                 words[i] = new_word # replace the original word with tagged word
-                # print(new_word)
             new_line+=words[i]+" "
-        new_line.strip(' ')
+        print(new_line)
+        new_line = new_line.strip(' ')
         w.write(new_line+"\n")
 
     w.close()
@@ -124,4 +183,4 @@ def parse_word(filename):
 if __name__ == '__main__':
     parse_word("input/1_corpus.txt")
     # get_tag_path("professional")
-    # print(wn.synsets("professional"))
+    # print(wn.synsets("earthquake"))
