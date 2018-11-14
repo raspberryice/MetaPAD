@@ -103,15 +103,24 @@ def parse_word(filename):
 
         # get tag
         tmp = copy.deepcopy(words)
+        tagged_word = []
+        tmp_flag = 1
         for i in range(len(tmp)):
             if(tmp[i][0]=='<' and tmp[i][-1]=='>'):
                 tmp[i] = tmp[i].split('>')[1].split('<')[0]
+                tagged_word.append(0)
             elif tmp[i][0] == '<':
                 if len(tmp[i].split('>'))>1:
                     tmp[i] = tmp[i].split('>')[1]
+                    tmp_flag = 0
+                tagged_word.append(tmp_flag)
 
             elif tmp[i][-1] == '>':
                 tmp[i] = tmp[i].split('<')[0]
+                tagged_word.append(tmp_flag)
+                tmp_flag = 1
+            else:
+                tagged_word.append(tmp_flag)
         sen = ''
         for t in tmp:
             sen+=t+' '
@@ -138,12 +147,12 @@ def parse_word(filename):
                     check1 = words[i].split('>')[0].strip('<')
                     tag1 = check_tag(check1)
                     # print(check1,tag1)
-                    new_line+='<'+tag1+'>'+words[i].split('>')[1].split('<')[0]+'</'+tag1+'>'
+                    new_line+='<'+tag1+'>'+words[i].split('>')[1].split('<')[0]+'</'+tag1+'>'+" "
                 elif words[i][0] == '<': # first tag
                     check = words[i].split('>')
                     if len(check)>1:
                         new_tag = '<'+check_tag(words[i].split('>')[0].strip('<'))+ '>'
-                        new_line+=new_tag + words[i].split('>')[1]
+                        new_line+=new_tag + words[i].split('>')[1]+" "
                 elif words[i][-1] == '>' and len(words[i].split('<'))>1:
                     check = words[i].split('<')[1]
                     check = check.strip('/').strip('>')
@@ -154,8 +163,8 @@ def parse_word(filename):
                 continue
 
 
-            # do not need to tag
-            elif flag not in noun_phrase:
+            # do not need to tag or the word is inside a tagged phase
+            elif flag not in noun_phrase or tagged_word[i]==0:
                 new_line += words[i] + " "
                 continue
 
