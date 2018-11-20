@@ -1,98 +1,98 @@
-<Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> in Sichuan <Location.Region.District.Administrative_district>Province</Location.Region.District.Administrative_district>, <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
-<Location.Populatedplace.Settlement.City>Deyang</Location.Populatedplace.Settlement.City> <Location.Region.District.Administrative_district.Municipality>City</Location.Region.District.Administrative_district.Municipality>, Sichuan <Location.Region.District.Administrative_district>Province</Location.Region.District.Administrative_district>, one of the hardest <Event.Act.Action.Accomplishment.Feat>hit</Event.Act.Action.Accomplishment.Feat> <Location.Region>areas</Location.Region>
-<Location.Populatedplace.Settlement.City>Deyang</Location.Populatedplace.Settlement.City> <Location.Region.District.Administrative_district.Municipality>City</Location.Region.District.Administrative_district.Municipality> who experienced the <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
-disaster <Event.Act.Activity>efforts</Event.Act.Activity> by the <Location.Populatedplace.Country>Chinese</Location.Populatedplace.Country> <Organization.Polity>Government</Organization.Polity>
-disaster <Event.Act.Activity>efforts</Event.Act.Activity> by the <Organization>Red Cross</Organization>
-<Event.Act.Action.Change.Change_of_state.Improvement.Repair.Reconstruction>rebuilding</Event.Act.Action.Change.Change_of_state.Improvement.Repair.Reconstruction> of <Location.Populatedplace.Settlement.City>Deyang</Location.Populatedplace.Settlement.City>
-<Number>60</Number> miles from the <Phenomenon.Natural_phenomenon.Geological_phenomenon>quake</Phenomenon.Natural_phenomenon.Geological_phenomenon>'s <Location.Point.Geographic_point>epicenter</Location.Point.Geographic_point> in Wenchun <Location.Region>County</Location.Region>
-<Event.Happening.Change>death</Event.Happening.Change> toll of <Number>6,000</Number>
-<Location.Populatedplace.Settlement.City>Deyang</Location.Populatedplace.Settlement.City> a <Location.Region.District.Administrative_district.Municipality>city</Location.Region.District.Administrative_district.Municipality> of about <Number>4</Number> million people
-<Person.Officeholder>Kim Jong-il</Person.Officeholder> on <Date>2008-05-13</Date> sent a message of sympathy to <Person.Officeholder>Hu Jintao</Person.Officeholder>
-a strong <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> hit <Location.Populatedplace.Settlement>Wenchuan county</Location.Populatedplace.Settlement> in <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
+earthquake in Sichuan Province, <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
+<Place.PopulatedPlace.Settlement.City>Deyang</Place.PopulatedPlace.Settlement.City> City, Sichuan Province, one of the hardest hit areas
+<Place.PopulatedPlace.Settlement.City>Deyang</Place.PopulatedPlace.Settlement.City> City who experienced the earthquake
+disaster efforts by the <Place.PopulatedPlace.Country>Chinese</Place.PopulatedPlace.Country> Government
+disaster efforts by the <Agent.Organisation>Red Cross</Agent.Organisation>
+rebuilding of <Place.PopulatedPlace.Settlement.City>Deyang</Place.PopulatedPlace.Settlement.City>
+<Number>60</Number> miles from the quake's epicenter in Wenchun County
+death toll of <Number>6,000</Number>
+<Place.PopulatedPlace.Settlement.City>Deyang</Place.PopulatedPlace.Settlement.City> a city of about <Number>4</Number> million people
+<Agent.Person.OfficeHolder>Kim Jong-il</Agent.Person.OfficeHolder> on <Date>2008-05-13</Date> sent a message of sympathy to <Agent.Person.OfficeHolder>Hu Jintao</Agent.Person.OfficeHolder>
+a strong earthquake hit <Place.PopulatedPlace.Settlement>Wenchuan county</Place.PopulatedPlace.Settlement> in <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
 donate <Number>1.5</Number> billion won in cash
-<Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> in <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
-<Date>2008-05-12</Date> massive <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
-<Number>200</Number> kilometers away from the <Location.Point.Geographic_point>epicenter</Location.Point.Geographic_point> of the <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
-<Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> rocked a <Location>region</Location> of southwest <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
+earthquake in <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
+<Date>2008-05-12</Date> massive earthquake
+<Number>200</Number> kilometers away from the epicenter of the earthquake
+earthquake rocked a region of southwest <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
 killing about <Number>10,000</Number> people
 measuring <Number>7.8</Number> on the Richter scale
 struck in <Date>2008-05-13</Date>
-the <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> struck at <Date>2008-05-12</Date>
-<Event.Happening.Change>death</Event.Happening.Change> toll was approaching <Number>10,000</Number>
-<Number>216</Number> more <Event.Happening.Change>deaths</Event.Happening.Change>
-<Phenomenon.Natural_phenomenon.Geological_phenomenon>quake</Phenomenon.Natural_phenomenon.Geological_phenomenon> struck <Number>55</Number> miles west-northwest of the Sichuan provincial capital of <Location.Populatedplace.Settlement.City>Chengdu</Location.Populatedplace.Settlement.City>
-centered <Number>18</Number> miles below the <Artifact>surface</Artifact>
-<Artifact.Fabric>felt</Artifact.Fabric> as far away as <Location.Populatedplace.Region.Administrativeregion>Bangkok</Location.Populatedplace.Region.Administrativeregion>
-<Person.Communicator.Negotiator.Representative.Head_of_state>Premier</Person.Communicator.Negotiator.Representative.Head_of_state> <Person.Officeholder>Wen Jiabao</Person.Officeholder>
+the earthquake struck at <Date>2008-05-12</Date>
+death toll was approaching <Number>10,000</Number>
+<Number>216</Number> more deaths
+quake struck <Number>55</Number> miles west-northwest of the Sichuan provincial capital of <Place.PopulatedPlace.Settlement.City>Chengdu</Place.PopulatedPlace.Settlement.City>
+centered <Number>18</Number> miles below the surface
+felt as far away as <Place.PopulatedPlace.Region.AdministrativeRegion>Bangkok</Place.PopulatedPlace.Region.AdministrativeRegion>
+Premier <Agent.Person.OfficeHolder>Wen Jiabao</Agent.Person.OfficeHolder>
 <Number>3,000</Number> to <Number>5,000</Number> people are believed to have died
-<Number>80</Number> percent of the <Structure>buildings</Structure> collapsed
+<Number>80</Number> percent of the buildings collapsed
 <Number>10,000</Number> people were injured
-up to <Number>900</Number> <Person.Enrollee>students</Person.Enrollee> were feared buried
-evacuated from <Location.Populatedplace.Country>mainland China</Location.Populatedplace.Country>
-<Location.Populatedplace.Country>China</Location.Populatedplace.Country> deadliest <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> in <Number>20</Number>
-hit the eastern <Location.Region.District.Administrative_district.Municipality>city</Location.Region.District.Administrative_district.Municipality> of <Location.Populatedplace.Settlement.City>Tangshan</Location.Populatedplace.Settlement.City>
+up to <Number>900</Number> students were feared buried
+evacuated from <Place.PopulatedPlace.Country>mainland China</Place.PopulatedPlace.Country>
+<Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country> deadliest earthquake in <Number>20</Number>
+hit the eastern city of <Place.PopulatedPlace.Settlement.City>Tangshan</Place.PopulatedPlace.Settlement.City>
 killing <Number>242,000</Number> people
-to help <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
-<Date>2008-05-12</Date> deadly <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> that struck the southwestern <Location.Populatedplace.Country>Chinese</Location.Populatedplace.Country>
-<Event.Naturalevent.Earthquake>earthquake measuring 7.8</Event.Naturalevent.Earthquake> on the richter scale
-<Event.Act.Action.Accomplishment.Feat>hit</Event.Act.Action.Accomplishment.Feat> Southwest <Location.Populatedplace.Country>China</Place.PopulatedPlace.Country Sichuan Province <Date>2008-05-12</Date>
-<Location.Populatedplace.Country>Chinese</Location.Populatedplace.Country> <Person>leader</Person> <Person.Officeholder>Hu Jintao</Person.Officeholder>
-<Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> <Date>2008-05-12</Date> in <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
-big <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> in southwest <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
-<Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake> in <Location.Populatedplace.Province>Sichuan province</Location.Populatedplace.Province>
+to help <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
+<Date>2008-05-12</Date> deadly earthquake that struck the southwestern <Place.PopulatedPlace.Country>Chinese</Place.PopulatedPlace.Country>
+<Event.NaturalEvent.Earthquake>earthquake measuring 7.8</Event.NaturalEvent.Earthquake> on the richter scale
+hit Southwest <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>'s Sichuan Province <Date>2008-05-12</Date>
+<Place.PopulatedPlace.Country>Chinese</Place.PopulatedPlace.Country> leader <Agent.Person.OfficeHolder>Hu Jintao</Agent.Person.OfficeHolder>
+earthquake <Date>2008-05-12</Date> in <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
+big earthquake in southwest <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
+<Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake> in <Place.PopulatedPlace.Province>Sichuan province</Place.PopulatedPlace.Province>
 left <Number>80,000</Number> people dead
-<Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake> that struck <Location.Populatedplace.Province>Sichuan</Location.Populatedplace.Province> <Date>2008-05-12</Date>
-<Person.Communicator.Negotiator.Representative.Head_of_state>Premier</Person.Communicator.Negotiator.Representative.Head_of_state> <Person.Officeholder>Wen Jiabao</Person.Officeholder>
-<Number>50,000</Number> <Organization.Militaryunit>PLA</Organization.Militaryunit> <Person.Worker.Skilled_worker.Serviceman.Enlisted_person>soldiers</Person.Worker.Skilled_worker.Serviceman.Enlisted_person> were dispatched
-<Event.Happening.Change>death</Event.Happening.Change> toll may top <Number>80,000</Number>
-<Date>2008-05-12</Date> <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
-<Event.Happening.Change>death</Event.Happening.Change> toll has passed <Number>60,000</Number>
+<Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake> that struck <Place.PopulatedPlace.Province>Sichuan</Place.PopulatedPlace.Province> <Date>2008-05-12</Date>
+Premier <Agent.Person.OfficeHolder>Wen Jiabao</Agent.Person.OfficeHolder>
+<Number>50,000</Number> <Agent.Organisation.MilitaryUnit>PLA</Agent.Organisation.MilitaryUnit> soldiers were dispatched
+death toll may top <Number>80,000</Number>
+<Date>2008-05-12</Date> earthquake
+death toll has passed <Number>60,000</Number>
 <Number>4,000</Number> remain missing
-<Number>5.36</Number> million <Structure>buildings</Structure> are known to have been destroyed
+<Number>5.36</Number> million buildings are known to have been destroyed
 A total of <Number>45.5</Number> million people have been affected
 <Number>352,290</Number> people injured
 toll at <Date>2008-05-17</Date> was <Number>60,560</Number>
-magnitude <Number>8.0</Number> <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
-<Date>2008-05</Date> devastating <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
-the <Phenomenon.Natural_phenomenon.Geological_phenomenon>quake</Phenomenon.Natural_phenomenon.Geological_phenomenon>, which happened <Date>2008-05-22</Date> in <Location.Populatedplace.Province>Sichuan</Location.Populatedplace.Province>
-<Person.Unfortunate>victims</Person.Unfortunate> of the <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake>
-rebuilding <Number>26</Number> elementary <Organization.Institution.Educational_institution>schools</Organization.Institution.Educational_institution>
-<Date>2008-05-12</Date> <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake>
-allocated <Number>$10,000</Number> from its <Event.Happening.Juncture.Crisis>emergency</Event.Happening.Juncture.Crisis> fund
-disastrous <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake> in <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
-<Event.Happening.Change>death</Event.Happening.Change> toll from <Location.Populatedplace.Country>China</Location.Populatedplace.Country> major <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake>
-<Event.Happening.Change>death</Event.Happening.Change> toll increased to <Number>55,740</Number> as of <Date>2008-05-23</Date>
+magnitude <Number>8.0</Number> earthquake
+<Date>2008-05</Date> devastating earthquake
+the quake, which happened <Date>2008-05-22</Date> in  <Place.PopulatedPlace.Province>Sichuan</Place.PopulatedPlace.Province>
+victims of the <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake>
+rebuilding <Number>26</Number> elementary schools
+<Date>2008-05-12</Date> <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake>
+allocated <Number>$10,000</Number> from its emergency fund
+disastrous <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake> in <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
+death toll from <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country> major <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake>
+death toll increased to <Number>55,740</Number> as of <Date>2008-05-23</Date>
 <Number>24,960</Number> were still listed as missing
-<Number>8.0</Number> <Phenomenon.Natural_phenomenon.Geological_phenomenon>quake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
-sympathies to the people in <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
-loss of lives in the <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake>
-<Location.Populatedplace.Country>Israel</Location.Populatedplace.Country> could help
-<Location.Populatedplace.Country>Israel</Location.Populatedplace.Country> donation
-donate <Number>1.5</Number> million dollars in aid for <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake> relief
+<Number>8.0</Number> quake
+sympathies to the people in <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
+loss of lives in the <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake>
+<Place.PopulatedPlace.Country>Israel</Place.PopulatedPlace.Country> could help
+<Place.PopulatedPlace.Country>Israel</Place.PopulatedPlace.Country> donation
+donate <Number>1.5</Number> million dollars in aid for <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake> relief
 aid will arrive in <Date>2008-05-24</Date>
-The <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>, centered in <Location.Populatedplace.Settlement>Wenchuan County</Location.Populatedplace.Settlement>
+The earthquake, centered in <Place.PopulatedPlace.Settlement>Wenchuan County</Place.PopulatedPlace.Settlement>
 has killed <Number>40,075</Number> people nationwide as of <Date>2008-05-20</Date>
-<Location.Populatedplace.Settlement.City>Tangshan</Location.Populatedplace.Settlement.City> was levelled by a <Number>7.8</Number> <Phenomenon.Natural_phenomenon.Geological_phenomenon>quake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
+<Place.PopulatedPlace.Settlement.City>Tangshan</Place.PopulatedPlace.Settlement.City> was levelled by a <Number>7.8</Number> quake
 claimed over <Number>240,000</Number> lives
-flee her hometown <Location.Populatedplace.Settlement.City>Dujiangyan</Location.Populatedplace.Settlement.City>
-<Number>2.9</Number> million <Structure.Building>houses</Structure.Building> were flattened
+flee her hometown <Place.PopulatedPlace.Settlement.City>Dujiangyan</Place.PopulatedPlace.Settlement.City>
+<Number>2.9</Number> million houses were flattened
 nearly <Number>14</Number> million others damaged
 suffered <Number>67</Number> billion yuan of direct economic loss
-<Location.Populatedplace.Country>Chinese</Location.Populatedplace.Country> economy suffered a loss of over <Number>500</Number> billion yuan
-<Event.Naturalevent.Earthquake>Tangshan earthquake</Event.Naturalevent.Earthquake> struck in <Date>1976-XX-XX</Date>
-massive <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake> which hit <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
-confirmed <Event.Happening.Change>deaths</Event.Happening.Change> exceed <Number>34,000</Number>
+<Place.PopulatedPlace.Country>Chinese</Place.PopulatedPlace.Country> economy suffered a loss of over <Number>500</Number> billion yuan
+<Event.NaturalEvent.Earthquake>Tangshan earthquake</Event.NaturalEvent.Earthquake> struck in <Date>1976-XX-XX</Date>
+massive <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake> which hit <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
+confirmed deaths exceed <Number>34,000</Number>
 measured <Number>7.9</Number> on the Richter scale
-<Phenomenon.Natural_phenomenon.Geological_phenomenon.Earthquake.Tremor>aftershock</Phenomenon.Natural_phenomenon.Geological_phenomenon.Earthquake.Tremor> <Date>2008-05-16</Date>
-<Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> damaged <Organization.Company>PetroChina</Organization.Company>
+strong aftershock <Date>2008-05-16</Date>
+earthquake damaged many <Agent.Organisation.Company>PetroChina</Agent.Organisation.Company>
 As of <Date>2008-05-14</Date> almost <Number>15,000</Number> people had died
-<Location.Populatedplace.Country>China</Location.Populatedplace.Country> worst <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> in <Duration>30Y</Duration>
-The magnitude of the latest <Phenomenon.Natural_phenomenon.Geological_phenomenon>quake</Phenomenon.Natural_phenomenon.Geological_phenomenon> was <Number>7.9</Number>
-felt by people in <Location.Populatedplace.Settlement>Shanghai</Location.Populatedplace.Settlement> about <Number>1,700</Number> kilometers away
-<Date>1995-XX-XX</Date> <Event.Naturalevent.Earthquake>Great Hanshin Earthquake</Event.Naturalevent.Earthquake> in <Location.Populatedplace.Region.Administrativeregion>Hyogo Prefecture</Location.Populatedplace.Region.Administrativeregion>
-<Location.Populatedplace.Region.Administrativeregion>Hokkaido</Location.Populatedplace.Region.Administrativeregion> about <Number>1,000</Number> kilometers from the <Location.Point.Geographic_point>epicenter</Location.Point.Geographic_point>
-<Event.Act.Action.Change.Motion.Vibration>tremor</Event.Act.Action.Change.Motion.Vibration> from <Date>2008-05-12</Date> <Phenomenon.Natural_phenomenon.Geological_phenomenon>quake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
-A magnitude <Number>5.3</Number> <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
-<Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> rattled the eastern <Location.Region>county</Location.Region> of <Location.Populatedplace.Settlement>Taitung</Location.Populatedplace.Settlement> at <Date>2008-05-14</Date>
-<Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> had an intensity of <Number>3.0</Number>
-<Location.Point.Geographic_point>epicentre</Location.Point.Geographic_point> was located <Number>12.1</Number> kilometres southwest of <Location.Populatedplace.Settlement.City>Taitung City</Location.Populatedplace.Settlement.City>
+<Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country> worst earthquake in <Duration>30Y</Duration>
+The magnitude of the latest quake was <Number>7.9</Number>
+felt by people in <Place.PopulatedPlace.Settlement>Shanghai</Place.PopulatedPlace.Settlement> about <Number>1,700</Number> kilometers away
+<Date>1995-XX-XX</Date> <Event.NaturalEvent.Earthquake>Great Hanshin Earthquake</Event.NaturalEvent.Earthquake> in <Place.PopulatedPlace.Region.AdministrativeRegion>Hyogo Prefecture</Place.PopulatedPlace.Region.AdministrativeRegion>
+<Place.PopulatedPlace.Region.AdministrativeRegion>Hokkaido</Place.PopulatedPlace.Region.AdministrativeRegion> about <Number>1,000</Number> kilometers from the epicenter
+tremor from <Date>2008-05-12</Date> quake
+A magnitude <Number>5.3</Number> earthquake
+earthquake rattled the eastern county of <Place.PopulatedPlace.Settlement>Taitung</Place.PopulatedPlace.Settlement> at <Date>2008-05-14</Date>
+earthquake had an intensity of <Number>3.0</Number>
+epicentre was located <Number>12.1</Number> kilometres southwest of <Place.PopulatedPlace.Settlement.City>Taitung City</Place.PopulatedPlace.Settlement.City>
