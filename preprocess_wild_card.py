@@ -6,7 +6,7 @@ from nltk.corpus import wordnet as wn
 import copy
 noun_phrase = ['NN','NNS','NNPS','NNP']
 adj_phrase = ['JJ','JJR','JJS']
-periodset = set(['.','?','!'])
+periodset = set(['.','?','!',','])
 top_level_types = {
     'person.n.01': 'person',
     'organization.n.01': 'organization',
@@ -22,8 +22,9 @@ top_level_types = {
 
 def parse_word(filename):
     f = open(filename,"r")
-    w = open("input/new_small.txt","w")
+    w = open("input/goodpattern_wildcard.txt","w")
     for line in f.readlines():
+        d = {}
         new_line = ''
         words = line.strip('\r\n').split()
 
@@ -53,32 +54,56 @@ def parse_word(filename):
         sen = sen.strip()
         text = nltk.word_tokenize(sen)
         sen_tagged = nltk.pos_tag(text)
-
+        for word in sen_tagged:
+            if word[0] not in d.keys():
+                d[word[0]] = [word[1]]
+            else:
+                d[word[0]].append(word[1])
         idx = 0
         added = 0  # flag for add wild card
         for i in range(len(words)): # find the noun that has not been marked
             # get the tag of word
-            flag_idx = 0
-            wt = nltk.word_tokenize(words[i])
-            if(words[i]!=sen_tagged[idx][0] and len(wt)==2 and wt[1] in periodset):
-                # print(words[i],sen_tagged[idx])
-                flag_idx=1
+
+
 
             # print(sen_tagged[idx],idx,len(sen_tagged))
-            if (sen_tagged[idx][1] in adj_phrase) and (i<len(words)-1 and (words[i+1][0]=='<' and len(words[i+1])>1)):
-                new_line+="* "
-                added = 1
+            # print(words[i])
+            if words[i] in d.keys():
+                print(words[i],d[words[i]],line)
+            if words[i] in d.keys() and d[words[i]][0] in adj_phrase and (i<len(words)-1 and (words[i+1][0]=='<' and len(words[i+1])>1 and words[i+1][1]!='/') ):
+                d[words[i]] = d[words[i]][1:]
+                if(len(d[words[i]])==0):
+                    d.pop(words[i])
+                continue
+                new_line+="WILDCARD "
+                # new_line+=""
+                # added = 1
             elif(words[i][0]=='<' and len(words[i])>1 and added==0):
                 # print(words[i])
-                new_line+="* "+words[i]+" "
+                new_line+="WILDCARD "+words[i]+" "
+                # new_line += words[i] + " "
             else:
                 # print(words[i])
                 new_line+=words[i]+" "
-                added = 0
+                # added = 0
+            # pop the tag
+            if words[i][-1] in periodset:
+                words[i] = words[i][:-1]
+            if len(words[i])>1 and (words[i][0] == '<' or words[i][-1] == '>'):
+                if words[i][0] == '<' and words[i][-1] == '>':
+                    words[i] = words[i].split('>')[1]
+                elif(words[i][0] == '<' and words[i][-1] != '>'):
+                    words[i] = words[i].split('<')[1]
+                elif(words[i][0] != '<' and words[i][-1] == '>'):
+                    words[i] = words[i].split('<')[0]
+
+            if words[i] in d.keys():
+                d[words[i]] = d[words[i]][1:]
+                if (len(d[words[i]]) == 0):
+                    d.pop(words[i])
+                # print(words[i],d[words[i]])
 
 
-            # update idx
-            idx = idx + 1 + flag_idx
 
 
 
@@ -90,6 +115,6 @@ def parse_word(filename):
     f.close()
 
 if __name__ == '__main__':
-    parse_word("input/small.txt")
+    parse_word("input/goodpattern.txt")
     # get_tag_path("professional")
     # print(wn.synsets("earthquake"))
