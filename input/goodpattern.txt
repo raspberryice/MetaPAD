@@ -1,48 +1,40 @@
-earthquake in Sichuan Province, <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
-<Place.PopulatedPlace.Settlement.City>Deyang</Place.PopulatedPlace.Settlement.City> City, Sichuan Province, one of the hardest hit areas
-<Place.PopulatedPlace.Settlement.City>Deyang</Place.PopulatedPlace.Settlement.City> City who experienced the earthquake
-disaster efforts by the <Place.PopulatedPlace.Country>Chinese</Place.PopulatedPlace.Country> Government
-disaster efforts by the <Agent.Organisation>Red Cross</Agent.Organisation>
-rebuilding of <Place.PopulatedPlace.Settlement.City>Deyang</Place.PopulatedPlace.Settlement.City>
-<Number>60</Number> miles from the quake's epicenter in Wenchun County
-death toll of <Number>6,000</Number>
-<Place.PopulatedPlace.Settlement.City>Deyang</Place.PopulatedPlace.Settlement.City> a city of about <Number>4</Number> million people
-<Agent.Person.OfficeHolder>Kim Jong-il</Agent.Person.OfficeHolder> on <Date>2008-05-13</Date> sent a message of sympathy to <Agent.Person.OfficeHolder>Hu Jintao</Agent.Person.OfficeHolder>
-a strong earthquake hit <Place.PopulatedPlace.Settlement>Wenchuan county</Place.PopulatedPlace.Settlement> in <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
-donate <Number>1.5</Number> billion won in cash
 earthquake in <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
+<Place.PopulatedPlace.Settlement.City>Deyang</Place.PopulatedPlace.Settlement.City> , one of the hardest hit areas
+<Place.PopulatedPlace.Settlement.City>Deyang</Place.PopulatedPlace.Settlement.City> experienced earthquake
+<Number>60</Number> miles from the quake's epicenter in <Place.PopulatedPlace.Settlement>Wenchun County</Place.PopulatedPlace.Settlement>
+death toll of <Number>6,000</Number>
+<Place.PopulatedPlace.Settlement.City>Deyang</Place.PopulatedPlace.Settlement.City>, a city of <Number>4</Number> million people
+a strong earthquake hit <Place.PopulatedPlace.Settlement>Wenchuan county</Place.PopulatedPlace.Settlement> in <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
+donate <Number>1.5</Number> billion
 <Date>2008-05-12</Date> massive earthquake
+<Number> 7.8 </Number> earthquake
 <Number>200</Number> kilometers away from the epicenter of the earthquake
-earthquake rocked a region of southwest <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
-killing about <Number>10,000</Number> people
+earthquake rocked <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
+killing <Number>10,000</Number> people
 measuring <Number>7.8</Number> on the Richter scale
 struck in <Date>2008-05-13</Date>
 the earthquake struck at <Date>2008-05-12</Date>
-death toll was approaching <Number>10,000</Number>
-<Number>216</Number> more deaths
-quake struck <Number>55</Number> miles west-northwest of the Sichuan provincial capital of <Place.PopulatedPlace.Settlement.City>Chengdu</Place.PopulatedPlace.Settlement.City>
+death toll was <Number>10,000</Number>
+<Number>216</Number> deaths
+quake struck <Number>55</Number> miles west-northwest of <Place.PopulatedPlace.Settlement.City>Chengdu</Place.PopulatedPlace.Settlement.City>
 centered <Number>18</Number> miles below the surface
 felt as far away as <Place.PopulatedPlace.Region.AdministrativeRegion>Bangkok</Place.PopulatedPlace.Region.AdministrativeRegion>
 Premier <Agent.Person.OfficeHolder>Wen Jiabao</Agent.Person.OfficeHolder>
 <Number>3,000</Number> to <Number>5,000</Number> people are believed to have died
 <Number>80</Number> percent of the buildings collapsed
 <Number>10,000</Number> people were injured
-up to <Number>900</Number> students were feared buried
+up to <Number>900</Number> students were buried
 evacuated from <Place.PopulatedPlace.Country>mainland China</Place.PopulatedPlace.Country>
-<Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country> deadliest earthquake in <Number>20</Number>
+<Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country> deadliest earthquake in <Duration>20Y</Duration>
 hit the eastern city of <Place.PopulatedPlace.Settlement.City>Tangshan</Place.PopulatedPlace.Settlement.City>
 killing <Number>242,000</Number> people
-to help <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
-<Date>2008-05-12</Date> deadly earthquake that struck the southwestern <Place.PopulatedPlace.Country>Chinese</Place.PopulatedPlace.Country>
-<Event.NaturalEvent.Earthquake>earthquake measuring 7.8</Event.NaturalEvent.Earthquake> on the richter scale
-hit Southwest <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>'s Sichuan Province <Date>2008-05-12</Date>
+hit Southwest <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country> <Date>2008-05-12</Date>
 <Place.PopulatedPlace.Country>Chinese</Place.PopulatedPlace.Country> leader <Agent.Person.OfficeHolder>Hu Jintao</Agent.Person.OfficeHolder>
 earthquake <Date>2008-05-12</Date> in <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
 big earthquake in southwest <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
 <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake> in <Place.PopulatedPlace.Province>Sichuan province</Place.PopulatedPlace.Province>
 left <Number>80,000</Number> people dead
 <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake> that struck <Place.PopulatedPlace.Province>Sichuan</Place.PopulatedPlace.Province> <Date>2008-05-12</Date>
-Premier <Agent.Person.OfficeHolder>Wen Jiabao</Agent.Person.OfficeHolder>
 <Number>50,000</Number> <Agent.Organisation.MilitaryUnit>PLA</Agent.Organisation.MilitaryUnit> soldiers were dispatched
 death toll may top <Number>80,000</Number>
 <Date>2008-05-12</Date> earthquake
@@ -55,10 +47,9 @@ toll at <Date>2008-05-17</Date> was <Number>60,560</Number>
 magnitude <Number>8.0</Number> earthquake
 <Date>2008-05</Date> devastating earthquake
 the quake, which happened <Date>2008-05-22</Date> in  <Place.PopulatedPlace.Province>Sichuan</Place.PopulatedPlace.Province>
-victims of the <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake>
 rebuilding <Number>26</Number> elementary schools
 <Date>2008-05-12</Date> <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake>
-allocated <Number>$10,000</Number> from its emergency fund
+allocated <Number>$10,000</Number> from emergency fund
 disastrous <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake> in <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
 death toll from <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country> major <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake>
 death toll increased to <Number>55,740</Number> as of <Date>2008-05-23</Date>
@@ -66,15 +57,14 @@ death toll increased to <Number>55,740</Number> as of <Date>2008-05-23</Date>
 <Number>8.0</Number> quake
 sympathies to the people in <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country>
 loss of lives in the <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake>
-<Place.PopulatedPlace.Country>Israel</Place.PopulatedPlace.Country> could help
 <Place.PopulatedPlace.Country>Israel</Place.PopulatedPlace.Country> donation
 donate <Number>1.5</Number> million dollars in aid for <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake> relief
 aid will arrive in <Date>2008-05-24</Date>
 The earthquake, centered in <Place.PopulatedPlace.Settlement>Wenchuan County</Place.PopulatedPlace.Settlement>
-has killed <Number>40,075</Number> people nationwide as of <Date>2008-05-20</Date>
+earthquake has killed <Number>40,075</Number> people nationwide as of <Date>2008-05-20</Date>
 <Place.PopulatedPlace.Settlement.City>Tangshan</Place.PopulatedPlace.Settlement.City> was levelled by a <Number>7.8</Number> quake
 claimed over <Number>240,000</Number> lives
-flee her hometown <Place.PopulatedPlace.Settlement.City>Dujiangyan</Place.PopulatedPlace.Settlement.City>
+flee hometown <Place.PopulatedPlace.Settlement.City>Dujiangyan</Place.PopulatedPlace.Settlement.City>
 <Number>2.9</Number> million houses were flattened
 nearly <Number>14</Number> million others damaged
 suffered <Number>67</Number> billion yuan of direct economic loss
@@ -84,15 +74,15 @@ massive <Event.NaturalEvent.Earthquake>earthquake</Event.NaturalEvent.Earthquake
 confirmed deaths exceed <Number>34,000</Number>
 measured <Number>7.9</Number> on the Richter scale
 strong aftershock <Date>2008-05-16</Date>
-earthquake damaged many <Agent.Organisation.Company>PetroChina</Agent.Organisation.Company>
-As of <Date>2008-05-14</Date> almost <Number>15,000</Number> people had died
+earthquake damaged <Agent.Organisation.Company>PetroChina</Agent.Organisation.Company>
+As of <Date>2008-05-14</Date> <Number>15,000</Number> people had died
 <Place.PopulatedPlace.Country>China</Place.PopulatedPlace.Country> worst earthquake in <Duration>30Y</Duration>
 The magnitude of the latest quake was <Number>7.9</Number>
 felt by people in <Place.PopulatedPlace.Settlement>Shanghai</Place.PopulatedPlace.Settlement> about <Number>1,700</Number> kilometers away
 <Date>1995-XX-XX</Date> <Event.NaturalEvent.Earthquake>Great Hanshin Earthquake</Event.NaturalEvent.Earthquake> in <Place.PopulatedPlace.Region.AdministrativeRegion>Hyogo Prefecture</Place.PopulatedPlace.Region.AdministrativeRegion>
-<Place.PopulatedPlace.Region.AdministrativeRegion>Hokkaido</Place.PopulatedPlace.Region.AdministrativeRegion> about <Number>1,000</Number> kilometers from the epicenter
+<Place.PopulatedPlace.Region.AdministrativeRegion>Hokkaido</Place.PopulatedPlace.Region.AdministrativeRegion> <Number>1,000</Number> kilometers from the epicenter
 tremor from <Date>2008-05-12</Date> quake
 A magnitude <Number>5.3</Number> earthquake
-earthquake rattled the eastern county of <Place.PopulatedPlace.Settlement>Taitung</Place.PopulatedPlace.Settlement> at <Date>2008-05-14</Date>
+earthquake rattled <Place.PopulatedPlace.Settlement>Taitung</Place.PopulatedPlace.Settlement> at <Date>2008-05-14</Date>
 earthquake had an intensity of <Number>3.0</Number>
 epicentre was located <Number>12.1</Number> kilometres southwest of <Place.PopulatedPlace.Settlement.City>Taitung City</Place.PopulatedPlace.Settlement.City>
