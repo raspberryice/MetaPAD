@@ -22,7 +22,8 @@ top_level_types = {
 
 def parse_word(filename):
     f = open(filename,"r")
-    w = open("input/goodpattern_wildcard.txt","w")
+    # w = open("input/goodpattern_wildcard.txt","w")
+    w = open("input/corpus_wildcard.txt", "w")
     for line in f.readlines():
         d = {}
         new_line = ''
@@ -64,46 +65,51 @@ def parse_word(filename):
         for i in range(len(words)): # find the noun that has not been marked
             # get the tag of word
 
-
+            tmp_word = words[i]
+            label = ''
+            if tmp_word[-1] in periodset:
+                tmp_word = tmp_word[:-1]
+            if len(tmp_word) > 1 and (tmp_word[0] == '<' or tmp_word[-1] == '>'):
+                if tmp_word[0] == '<' and tmp_word[-1] == '>':
+                    label = tmp_word.split('>')[0][1:]
+                    tmp_word = tmp_word.split('>')[1].split('<')[0]
+                elif (tmp_word[0] == '<' and tmp_word[-1] != '>'):
+                    tmp_word = tmp_word.split('>')[1]
+                elif (tmp_word[0] != '<' and tmp_word[-1] == '>'):
+                    tmp_word = tmp_word.split('<')[0]
 
             # print(sen_tagged[idx],idx,len(sen_tagged))
             # print(words[i])
-            if words[i] in d.keys():
-                print(words[i],d[words[i]],line)
-            if words[i] in d.keys() and d[words[i]][0] in adj_phrase and (i<len(words)-1 and (words[i+1][0]=='<' and len(words[i+1])>1 and words[i+1][1]!='/') ):
+            # if words[i] in d.keys():
+            #     print(words[i],d[words[i]],line)
+            if label!='Date' and words[i] in d.keys() and d[words[i]][0] in adj_phrase and (i<len(words)-1 and (words[i+1][0]=='<' and len(words[i+1])>1 and words[i+1][1]!='/') ):
                 d[words[i]] = d[words[i]][1:]
+                added = 1
+                new_line += "WILDCARD "
                 if(len(d[words[i]])==0):
                     d.pop(words[i])
-                continue
-                new_line+="WILDCARD "
+                    continue
+
+
                 # new_line+=""
                 # added = 1
-            elif(words[i][0]=='<' and len(words[i])>1 and added==0):
+            elif(label!='Date' and words[i][0]=='<' and len(words[i])>1 and words[i][1]!='/' and added==0):
                 # print(words[i])
                 new_line+="WILDCARD "+words[i]+" "
                 # new_line += words[i] + " "
             else:
                 # print(words[i])
                 new_line+=words[i]+" "
+                added = 0
                 # added = 0
             # pop the tag
-            if words[i][-1] in periodset:
-                words[i] = words[i][:-1]
-            if len(words[i])>1 and (words[i][0] == '<' or words[i][-1] == '>'):
-                if words[i][0] == '<' and words[i][-1] == '>':
-                    words[i] = words[i].split('>')[1]
-                elif(words[i][0] == '<' and words[i][-1] != '>'):
-                    words[i] = words[i].split('<')[1]
-                elif(words[i][0] != '<' and words[i][-1] == '>'):
-                    words[i] = words[i].split('<')[0]
 
-            if words[i] in d.keys():
-                d[words[i]] = d[words[i]][1:]
-                if (len(d[words[i]]) == 0):
-                    d.pop(words[i])
+
+            if tmp_word in d.keys():
+                d[tmp_word] = d[tmp_word][1:]
+                if (len(d[tmp_word]) == 0):
+                    d.pop(tmp_word)
                 # print(words[i],d[words[i]])
-
-
 
 
 
@@ -115,6 +121,7 @@ def parse_word(filename):
     f.close()
 
 if __name__ == '__main__':
-    parse_word("input/goodpattern.txt")
+    # parse_word("input/goodpattern.txt")
+    parse_word("input/new_corpus.txt")
     # get_tag_path("professional")
     # print(wn.synsets("earthquake"))
