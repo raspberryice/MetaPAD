@@ -23,7 +23,7 @@ top_level_types = {
 def parse_word(filename):
     f = open(filename,"r")
     # w = open("input/goodpattern_wildcard.txt","w")
-    w = open("input/corpus_wildcard.txt", "w")
+    w = open("data/corpus_wildcard2.txt", "w")
     for line in f.readlines():
         d = {}
         new_line = ''
@@ -122,6 +122,6 @@ def parse_word(filename):
 
 if __name__ == '__main__':
     # parse_word("input/goodpattern.txt")
-    parse_word("input/new_corpus.txt")
+    parse_word("data/new_corpus2.txt")
     # get_tag_path("professional")
     # print(wn.synsets("earthquake"))

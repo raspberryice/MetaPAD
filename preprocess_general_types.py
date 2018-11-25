@@ -18,31 +18,31 @@ top_level_types = {
     #'process.n.06':'process', #decline, increase 
 }
 
-def get_top_level_type(t1):
-    '''
-    t1 is the head word of a noun phrase. Multiple types are allowed in case of ambiguity.
-    '''
-    
-    if t1 in {'datetime','numeric','person','organization','location'}:
-        return {t1}
-
-    t = set()
-    ss_list = wn.synsets(t1,pos=wn.NOUN)[:3]   # find all the wordset that the word is in（synsets）
-    # print(ss_list)
-    while ss_list:
-        s = ss_list.pop(0)
-        hyp = s.hypernyms()   # get all the nearest upper tag set
-        # print(hyp)
-        if not hyp:
-            break 
-        elif (hyp[0]._name in top_level_types): # the nearest top
-            # print(top_level_types[hyp[0]._name])
-            t.add(top_level_types[hyp[0]._name])
-        elif hyp[0] == wn.synset('entity.n.01'):  # no other upper tag set
-            break
-        else:
-            ss_list.extend(hyp)
-    return t
+# def get_top_level_type(t1):
+#     '''
+#     t1 is the head word of a noun phrase. Multiple types are allowed in case of ambiguity.
+#     '''
+#
+#     if t1 in {'datetime','numeric','person','organization','location'}:
+#         return {t1}
+#
+#     t = set()
+#     ss_list = wn.synsets(t1,pos=wn.NOUN)[:3]   # find all the wordset that the word is in（synsets）
+#     # print(ss_list)
+#     while ss_list:
+#         s = ss_list.pop(0)
+#         hyp = s.hypernyms()   # get all the nearest upper tag set
+#         # print(hyp)
+#         if not hyp:
+#             break
+#         elif (hyp[0]._name in top_level_types): # the nearest top
+#             # print(top_level_types[hyp[0]._name])
+#             t.add(top_level_types[hyp[0]._name])
+#         elif hyp[0] == wn.synset('entity.n.01'):  # no other upper tag set
+#             break
+#         else:
+#             ss_list.extend(hyp)
+#     return t
 
 # get the second tag that beyond the current tag of word
 def get_tag_path(t1):
@@ -96,7 +96,7 @@ def check_tag(str):
 
 def parse_word(filename):
     f = open(filename,"r")
-    w = open("input/new_corpus.txt","w")
+    w = open("data/new_corpus2.txt","w")
     for line in f.readlines():
         new_line = ''
         words = line.strip('\r\n').split()
@@ -189,6 +189,7 @@ def parse_word(filename):
 
 
 if __name__ == '__main__':
-    parse_word("input/1_corpus.txt")
-    # get_tag_path("professional")
+    parse_word("data/corpus.txt")
+    # a = get_tag_path("earthquake")
+    # print(a)
     # print(wn.synsets("earthquake"))
