@@ -1,0 +1,503 @@
+WILDCARD <Event.Law>Referendum</Event.Law> Law provisions
+WILDCARD <Phenomenon.Natural_phenomenon.Physical_phenomenon>transparency</Phenomenon.Natural_phenomenon.Physical_phenomenon> of the WILDCARD <Location.Country>Singapore</Location.Country> property WILDCARD <Event.Act.Activity>market</Event.Act.Activity>
+WILDCARD <Location.City>Taiwan</Location.City> businessmen investing in the mainland
+WILDCARD <Location.City>Taiwan</Location.City> WILDCARD <Organization.Enterprise>business</Organization.Enterprise> leaders
+WILDCARD <Event.Act.Activity.Work.Labor.Effort>difficulty</Event.Act.Activity.Work.Labor.Effort> WILDCARD <Location.City>Taiwan</Location.City> businessmen face
+WILDCARD <Location.City>Taiwan</Location.City> businessmen face in WILDCARD <Location.Province>Fujian Province</Location.Province>
+typhoon-day notice on the WILDCARD <Organization>Central Personnel Administration</Organization>
+WILDCARD <Organization.Government>Research Department</Organization.Government> under the WILDCARD <Organization.Politicalparty>Kuomintang</Organization.Politicalparty>
+played down WILDCARD <Person.Politician.Vicepresident>Tang</Person.Politician.Vicepresident> 's statement
+WILDCARD <Person.Advocate.Spokesperson>spokesman</Person.Advocate.Spokesperson> WILDCARD <Person.Politician.Spokesperson>Hsieh Kung-ping</Person.Politician.Spokesperson>
+no WILDCARD <Event.Act.Group_action.Military_action>war</Event.Act.Group_action.Military_action> , no WILDCARD <Location.City>Taiwan</Location.City> independence
+maintaining the status quo of the WILDCARD <Location.Country>Republic of China</Location.Country>
+WILDCARD <Location.City>Taipei City</Location.City> councilor said on WILDCARD <Weekday>Monday</Weekday>
+teenage WILDCARD <Person.Relative.Ancestor.Progenitor.Genitor.Parent>mothers</Person.Relative.Ancestor.Progenitor.Genitor.Parent> give birth to some WILDCARD <Digit>15,000</Digit> WILDCARD <Person.Relative.Offspring.Child>babies</Person.Relative.Offspring.Child> in WILDCARD <Location.City>Taiwan</Location.City> each year
+WILDCARD <Location.City>Taipei City</Location.City> athletes performed particularly well in swimming
+WILDCARD <Organization.Institution.Educational_institution.School>Tech</Organization.Institution.Educational_institution.School> WILDCARD <Organization.Company>Pavilion</Organization.Company>
+WILDCARD <Location.City>Taiwan</Location.City> and WILDCARD <Location.Ethnicity>Japanese</Location.Ethnicity> WILDCARD <Artifact.Instrumentality.Device.Instrument.Weapon.Projectile>bullet</Artifact.Instrumentality.Device.Instrument.Weapon.Projectile> WILDCARD <Artifact.Instrumentality.Conveyance.Public_transport>train</Artifact.Instrumentality.Conveyance.Public_transport> WILDCARD <Event.Act.Activity.Work>project</Event.Act.Activity.Work>
+WILDCARD <Artifact.Instrumentality.Device.Instrument.Weapon.Projectile>bullet</Artifact.Instrumentality.Device.Instrument.Weapon.Projectile> WILDCARD <Artifact.Instrumentality.Conveyance.Public_transport>train</Artifact.Instrumentality.Conveyance.Public_transport> WILDCARD <Event.Act.Activity.Work>project</Event.Act.Activity.Work> to link WILDCARD <Location.City>Taiwan</Location.City> 's two WILDCARD <Location.Region.District.Administrative_district.Municipality>cities</Location.Region.District.Administrative_district.Municipality>
+WILDCARD <Location.Ethnicity>Chinese</Location.Ethnicity> WILDCARD <Organization.Unit.Military_unit.Army_unit.Detachment>patrol</Organization.Unit.Military_unit.Army_unit.Detachment> WILDCARD <Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel>boat</Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel>
+WILDCARD <Location.City>Taiwan</Location.City> WILDCARD <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker>
+WILDCARD <Person.Politician.President>Wu</Person.Politician.President> and his group WILDCARD <Person.Peer.Associate>members</Person.Peer.Associate>
+WILDCARD <Location.City>Taiwan</Location.City> 's donation of US $ WILDCARD <Digit>200,000</Digit>
+WILDCARD <Location.Province>Altai Krai</Location.Province> WILDCARD <Location.Region>territory</Location.Region>
+bordering WILDCARD <Location.Country>Russia</Location.Country> , WILDCARD <Location.Country>Mongolia</Location.Country> , WILDCARD <Location.Country>China</Location.Country> and WILDCARD <Location.Country>Kazakhstan</Location.Country>
+WILDCARD <Person.Worker.Skilled_worker>Officials</Person.Worker.Skilled_worker> from the WILDCARD <Organization>Ministry of Economic Affairs</Organization>
+commitment to invest in WILDCARD <Location.City>Taiwan</Location.City>
+WILDCARD <Event.Act.Group_action.Social_control.Duty>prerequisite</Event.Act.Group_action.Social_control.Duty> of the WILDCARD <Location.Country>China</Location.Country> WILDCARD <Event.Act.Activity.Work>project</Event.Act.Activity.Work>
+WILDCARD <Year>1990</Year> , WILDCARD <Location.City>Taiwan</Location.City> astonished the world
+WILDCARD <Person.Politician.President>Chen</Person.Politician.President> 's WILDCARD <Event.Act>departure</Event.Act>
+WILDCARD <Person.Politician>Ker Chien-ming</Person.Politician> , head of the WILDCARD <Event.Act.Action>opposition</Event.Act.Action> WILDCARD <Organization.Politicalparty>Democratic Progressive Party</Organization.Politicalparty> 's policy WILDCARD <Organization.Unit.Administrative_unit>committee</Organization.Unit.Administrative_unit>
+WILDCARD <Location.City>Taiwan</Location.City> could also expect very WILDCARD <Phenomenon.Natural_phenomenon.Physical_phenomenon.Atmospheric_phenomenon>weather</Phenomenon.Natural_phenomenon.Physical_phenomenon.Atmospheric_phenomenon>
+WILDCARD <Location.City>Taiwan</Location.City> 's sustainable economic growth
+WILDCARD <Location.Ethnicity>Taiwanese</Location.Ethnicity> ring WILDCARD <Person.Peer.Associate>members</Person.Peer.Associate>
+WILDCARD <Location.Ethnicity>Vietnamese</Location.Ethnicity> WILDCARD <Person.Traveler.Migrant>immigrants</Person.Traveler.Migrant>
+WILDCARD <Location.Province>Fujian</Location.Province> WILDCARD <Person.Worker.Skilled_worker.Official>Provincial</Person.Worker.Skilled_worker.Official> WILDCARD <Person.Leader.Politician>Governor</Person.Leader.Politician> WILDCARD <Person.Politician.Governor>Huang Xiaojing</Person.Politician.Governor>
+ground WILDCARD <Event.Act.Activity.Sensory_activity.Sensing.Look.Observation>monitoring</Event.Act.Activity.Sensory_activity.Sensing.Look.Observation> WILDCARD <Event.Act.Activity.Worship.Prayer.Devotion>stations</Event.Act.Activity.Worship.Prayer.Devotion> in WILDCARD <Location.City>Panchiao</Location.City> , WILDCARD <Location.City>Taichung</Location.City> , WILDCARD <Location.City>Kaohsiung</Location.City>
+director-general of the WILDCARD <Organization.Company>Civil Aeronautics Administration</Organization.Company> ( WILDCARD <Organization>CAA</Organization> )
+WILDCARD <Organization.Unit>team</Organization.Unit> of WILDCARD <Location.Ethnicity>Taiwanese</Location.Ethnicity> WILDCARD <Person.Communicator>negotiators</Person.Communicator>
+WILDCARD <Location.Ethnicity>French</Location.Ethnicity> music circle
+WILDCARD <Location.City>Taiwan</Location.City> WILDCARD <Event.Act.Activity.Diversion.Sport.Outdoor_sport>fishing</Event.Act.Activity.Diversion.Sport.Outdoor_sport> WILDCARD <Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel>boats</Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel>
+fly WILDCARD <Location.Country>PRC</Location.Country> WILDCARD <Artifact.Decoration.Design.Emblem>flag</Artifact.Decoration.Design.Emblem>
+evade the WILDCARD <Location.Ethnicity>Japanese</Location.Ethnicity> WILDCARD <Organization.Unit.Military_unit.Army_unit.Detachment>patrol</Organization.Unit.Military_unit.Army_unit.Detachment> WILDCARD <Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel>boats</Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel> ' WILDCARD <Event.Act.Hindrance.Prevention.Suppression>crackdown</Event.Act.Hindrance.Prevention.Suppression>
+protect the WILDCARD <Location.City>Taiwan</Location.City> WILDCARD <Event.Act.Activity.Diversion.Sport.Outdoor_sport>fishing</Event.Act.Activity.Diversion.Sport.Outdoor_sport> WILDCARD <Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel>boats</Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel>
+hit by a WILDCARD <Location.City>Taiwan</Location.City> WILDCARD <Artifact.Instrumentality.Conveyance.Vehicle.Military_vehicle>warship</Artifact.Instrumentality.Conveyance.Vehicle.Military_vehicle> in WILDCARD <Phenomenon.Natural_phenomenon.Physical_phenomenon.Cloud.Aerosol>fog</Phenomenon.Natural_phenomenon.Physical_phenomenon.Cloud.Aerosol> on WILDCARD <Weekday>Sunday</Weekday>
+WILDCARD <Person.Leader>lawmakers</Person.Leader> from the WILDCARD <Event.Act.Action>opposition</Event.Act.Action> WILDCARD <Organization.Politicalparty>Kuomintang</Organization.Politicalparty>
+WILDCARD <Person.Leader.Head.Administrator.Executive.Corporate_executive>President</Person.Leader.Head.Administrator.Executive.Corporate_executive> WILDCARD <Person.Politician.President>Chen Shui-bian</Person.Politician.President> to postpone his forthcoming WILDCARD <Event.Act.Action.Change.Motion.Travel.Journey>trip</Event.Act.Action.Change.Motion.Travel.Journey>
+WILDCARD <Location.City>Taiwan</Location.City> 's civilian leaders
+WILDCARD <Person.Leader>lawmaker</Person.Leader> of the WILDCARD <Event.Act.Action>opposition</Event.Act.Action> WILDCARD <Organization.Politicalparty>New Party</Organization.Politicalparty>
+WILDCARD <Location.Country>China</Location.Country> 's WILDCARD <Person.Communicator>negotiator</Person.Communicator>
+WILDCARD <Person.Politician.Vicepresident>Gore</Person.Politician.Vicepresident> 's plan to visit WILDCARD <Location.City>Taiwan</Location.City>
+WILDCARD <Location.County>Tainan County</Location.County> , WILDCARD <Location.City>Taiwan</Location.City>
+WILDCARD <Person.Adult.Professional.Educator>academics</Person.Adult.Professional.Educator> from WILDCARD <Location.City>Taiwan</Location.City> and WILDCARD <Location.Country>South Korea</Location.Country>
+WILDCARD <Organization>KHB</Organization> WILDCARD <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker>
+WILDCARD <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker> of the WILDCARD <Organization>Strait Exchange Foundation</Organization>
+considered themselves as both WILDCARD <Location.Ethnicity>Taiwanese</Location.Ethnicity> and WILDCARD <Location.Ethnicity>Chinese</Location.Ethnicity>
+high-ranking WILDCARD <Location.Ethnicity>Chinese</Location.Ethnicity> WILDCARD <Person.Worker.Skilled_worker>official</Person.Worker.Skilled_worker>
+planned WILDCARD <Event.Act.Group_action.Assembly.Meeting>visit</Event.Act.Group_action.Assembly.Meeting> of a WILDCARD <Location.Ethnicity>Chinese</Location.Ethnicity> WILDCARD <Person.Worker.Skilled_worker>official</Person.Worker.Skilled_worker> to WILDCARD <Location.City>Taiwan</Location.City>
+WILDCARD <Event.Act.Group_action.Assembly.Meeting>visit</Event.Act.Group_action.Assembly.Meeting> by the WILDCARD <Event.Act.Action>opposition</Event.Act.Action> WILDCARD <Organization.Politicalparty>Democratic Progressive Party</Organization.Politicalparty>
+extort WILDCARD <Organization.Nongovernmental_organization>NT</Organization.Nongovernmental_organization> $ WILDCARD <Digit>168.8</Digit> million ( US $ WILDCARD <Digit>5.21</Digit> million ) from WILDCARD <Organization.Company>Taipei Fubon Bank</Organization.Company>
+WILDCARD <Person.Politician.Mayor>Yeh</Person.Politician.Mayor> delivered a WILDCARD <Event.Act.Speech_act>speech</Event.Act.Speech_act> at the WILDCARD <Organization>APEC</Organization> meeting
+WILDCARD <Location.City>Taiwan</Location.City> 's rich natural beauty
+WILDCARD <Organization>APEC</Organization> WILDCARD <Person.Peer.Associate>colleagues</Person.Peer.Associate>
+WILDCARD <Location.City>Zhoushan</Location.City> island group off WILDCARD <Location.Country>China</Location.Country> 's southeastern coast
+WILDCARD <Location.Country>India</Location.Country> , with its WILDCARD <Digit>4,000</Digit> years of history
+WILDCARD <Location.Country>Brazil</Location.Country> , WILDCARD <Location.Country>Russia</Location.Country> and WILDCARD <Location.Country>China</Location.Country> , known collectively as the WILDCARD <Organization>BRIC</Organization>
+news WILDCARD <Organization.Unit.Administrative_unit>agencies</Organization.Unit.Administrative_unit> in WILDCARD <Location.City>Taiwan</Location.City> and WILDCARD <Location.Country>India</Location.Country>
+WILDCARD <Organization>CAA</Organization> WILDCARD <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker>
+WILDCARD <Phenomenon.Consequence>response</Phenomenon.Consequence> from WILDCARD <Location.City>Beijing</Location.City> on WILDCARD <Weekday>Tuesday</Weekday>
+WILDCARD <Location.Country>Republic of China</Location.Country> WILDCARD <Person.Communicator.Negotiator.Representative.Head_of_state>Premier</Person.Communicator.Negotiator.Representative.Head_of_state> WILDCARD <Person.Politician.Vicepresident>Vincent Siew</Person.Politician.Vicepresident>
+WILDCARD <Person.Advocate.Spokesperson>spokesman</Person.Advocate.Spokesperson> for mainland WILDCARD <Location.Country>China</Location.Country> 's WILDCARD <Organization>Taiwan Affairs Office</Organization> under the WILDCARD <Organization.Government>State Council</Organization.Government>
+WILDCARD <Location.Country>Singapore</Location.Country> in WILDCARD <Month>April</Month> WILDCARD <Year>1993</Year>
+WILDCARD <Location.Country>India</Location.Country> 's WILDCARD <Person.Leader.Head.Administrator>commissioner</Person.Leader.Head.Administrator> to WILDCARD <Location.Country>Canada</Location.Country>
+WILDCARD <Location.Country>China</Location.Country> has no intention to treat WILDCARD <Location.City>Taiwan</Location.City> well
+operating WILDCARD <Event.Act.Activity.Work.Labor.Effort>difficulties</Event.Act.Activity.Work.Labor.Effort> for WILDCARD <Location.City>Taiwan</Location.City> WILDCARD <Organization.Enterprise>businesses</Organization.Enterprise>
+WILDCARD <Person.Politician.Minister>Yen</Person.Politician.Minister> also criticized WILDCARD <Location.City>Beijing</Location.City>
+WILDCARD <Organization.Company>ITRI</Organization.Company> 's microalgal biofuel WILDCARD <Event.Act>production</Event.Act> WILDCARD <Event.Act.Activity.Use.Application>technology</Event.Act.Activity.Use.Application> WILDCARD <Event.Act.Action.Change.Change_of_state.Improvement>development</Event.Act.Action.Change.Change_of_state.Improvement>
+WILDCARD <Location.City>Taiwan</Location.City> 's WILDCARD <Event.Act.Action.Change.Change_of_state.Improvement>development</Event.Act.Action.Change.Change_of_state.Improvement>
+membership of the WILDCARD <Organization>United Nations</Organization>
+WILDCARD <Location.City>Taiwan</Location.City> 's agricultural and WILDCARD <Location.Point.Geographic_point.Workplace>fishery</Location.Point.Geographic_point.Workplace> WILDCARD <Artifact.Commodity>products</Artifact.Commodity>
+WILDCARD <Location.Ethnicity>Chinese</Location.Ethnicity> WILDCARD <Organization.Polity>authorities</Organization.Polity>
+legal problems in WILDCARD <Location.Country>China</Location.Country>
+WILDCARD <Event.Act.Activity>assistance</Event.Act.Activity> from WILDCARD <Location.City>Taiwan</Location.City>
+WILDCARD <Location.Country>Communist China</Location.Country> 's WILDCARD <Event.Act.Group_action.Transaction.Commerce.Payment>spending</Event.Act.Group_action.Transaction.Commerce.Payment> is somewhere between US $ WILDCARD <Digit>35</Digit> billion and US $ WILDCARD <Digit>55</Digit> billion
+WILDCARD <Organization>European Organization for Nuclear Research</Organization> ( WILDCARD <Organization>CERN</Organization> )
+WILDCARD <Digit>15</Digit> WILDCARD <Organization.Unit.Political_unit>countries</Organization.Unit.Political_unit> have participated in the WILDCARD <Organization.Company>AMS</Organization.Company> WILDCARD <Event.Act.Activity.Work.Investigation.Research.Scientific_research>experiment</Event.Act.Activity.Work.Investigation.Research.Scientific_research>
+WILDCARD <Location.Ethnicity>American</Location.Ethnicity> Nobel WILDCARD <Person.Acquirer.Recipient.Honoree>laureate</Person.Acquirer.Recipient.Honoree> WILDCARD <Person>Sam Ting</Person>
+WILDCARD <Person.Politician.President>Ma</Person.Politician.President> 's special WILDCARD <Event.Act.Group_action.Transaction.Commerce.Payment>spending</Event.Act.Group_action.Transaction.Commerce.Payment>
+WILDCARD <Location.Country>China</Location.Country> offered to WILDCARD <Location.City>Taiwan</Location.City>
+WILDCARD <Location.Country>Indonesia</Location.Country> was the WILDCARD <Organization.Unit.Political_unit>nation</Organization.Unit.Political_unit> in the WILDCARD <Month>Dec</Month> WILDCARD <Day>26</Day> magnitude WILDCARD <Digit>9</Digit> WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
+magnitude WILDCARD <Digit>9</Digit> WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> offshore its WILDCARD <Location.Region.District.Administrative_district.Municipality>city</Location.Region.District.Administrative_district.Municipality> of WILDCARD <Location.City>Banda Aceh</Location.City>
+WILDCARD <Person.Politician.Mayor>Chen</Person.Politician.Mayor> 's WILDCARD <Event.Act.Group_action.Vote>election</Event.Act.Group_action.Vote> WILDCARD <Event.Happening.Ending>victory</Event.Happening.Ending>
+WILDCARD <Location.Ethnicity>Chinese</Location.Ethnicity> WILDCARD <Person.Traveler>visitors</Person.Traveler>
+WILDCARD <Location.City>Taiwan</Location.City> 's WILDCARD <Event.Act.Group_action.Transaction.Commerce>trade</Event.Act.Group_action.Transaction.Commerce>
+WILDCARD <Location.Country>United States</Location.Country> is playing the WILDCARD <Event.Act.Activity.Work.Duty>role</Event.Act.Activity.Work.Duty> of WILDCARD <Person.Communicator.Negotiator.Mediator>peacemaker</Person.Communicator.Negotiator.Mediator>
+two WILDCARD <Location.Region>sides</Location.Region> of the WILDCARD <Location>Taiwan Strait</Location>
+WILDCARD <Organization.Government>Defense Department</Organization.Government> WILDCARD <Person.Advocate.Spokesperson>Spokesman</Person.Advocate.Spokesperson> WILDCARD <Person.Politician.Spokesperson>Kenneth Bacon</Person.Politician.Spokesperson>
+WILDCARD <Location.Country>China</Location.Country> 's WILDCARD <Event.Act.Action.Change.Change_of_magnitude.Increase.Accumulation>buildup</Event.Act.Action.Change.Change_of_magnitude.Increase.Accumulation>
+WILDCARD <Event.Act.Action.Interaction>contacts</Event.Act.Action.Interaction> between WILDCARD <Location.City>Beijing</Location.City> and WILDCARD <Location.City>Washington</Location.City>
+WILDCARD <Location.Country>China</Location.Country> severed WILDCARD <Phenomenon.Natural_phenomenon.Chemical_phenomenon>exchanges</Phenomenon.Natural_phenomenon.Chemical_phenomenon>
+WILDCARD <Organization.Government>NATO</Organization.Government> WILDCARD <Artifact.Instrumentality.Conveyance.Vehicle.Craft.Aircraft.Heavier-than-air_craft.Airplane>jet</Artifact.Instrumentality.Conveyance.Vehicle.Craft.Aircraft.Heavier-than-air_craft.Airplane> WILDCARD <Person>fighter</Person>
+accidentally bombed WILDCARD <Location.City>Beijing</Location.City> 's WILDCARD <Structure.Building.Government_building.Diplomatic_building>embassy</Structure.Building.Government_building.Diplomatic_building> in Belgrade
+WILDCARD <Person.Leader.Head.Administrator.Executive.Corporate_executive>President</Person.Leader.Head.Administrator.Executive.Corporate_executive> WILDCARD <Person.Politician.President>Lee Teng-hui</Person.Politician.President>
+WILDCARD <Organization.Unit.Political_unit>country</Organization.Unit.Political_unit> of WILDCARD <Location.Country>Haiti</Location.Country>
+WILDCARD <Organization.Institute>Academia Sinica</Organization.Institute> , the WILDCARD <Organization.Unit.Political_unit>country</Organization.Unit.Political_unit> 's WILDCARD <Event.Act.Activity.Work.Investigation>research</Event.Act.Activity.Work.Investigation> WILDCARD <Organization>institution</Organization>
+WILDCARD <Organization>Financial Supervisory Commission</Organization> WILDCARD <Person.Leader.Presiding_officer>Chairman</Person.Leader.Presiding_officer> WILDCARD <Person.Politician.Minister>Sean Chen</Person.Politician.Minister>
+WILDCARD <Location.City>Taiwan</Location.City> 's foreign currency
+WILDCARD <Organization.Government>Legislative Yuan</Organization.Government> WILDCARD <Person.Communicator.Articulator>Speaker</Person.Communicator.Articulator> WILDCARD <Person.Politician.President>Wang Jin-pyng</Person.Politician.President>
+inter-party negotiations WILDCARD <Month>June</Month> WILDCARD <Day>12</Day>
+WILDCARD <Event.Happening.Change>transformation</Event.Happening.Change> of WILDCARD <Location.City>Tainan</Location.City> 's economy
+WILDCARD <Entity>continued medical treatment</Entity> ( WILDCARD <Digit>22</Digit> % )
+WILDCARD <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Surgical_procedures,_operative>percutaneous coronary intervention</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Surgical_procedures,_operative> ( PCI ; WILDCARD <Digit>22</Digit> % )
+WILDCARD <Artifact.Way.Road.Highway>bypass</Artifact.Way.Road.Highway> WILDCARD <Event.Act.Action.Change.Change_of_integrity.Combination.Attachment>grafting</Event.Act.Action.Change.Change_of_integrity.Combination.Attachment> ( WILDCARD <Event.Act.Activity.Procedure.Medical_procedure.Operation.Heart_surgery.Open-heart_surgery>CABG</Event.Act.Activity.Procedure.Medical_procedure.Operation.Heart_surgery.Open-heart_surgery> ; WILDCARD <Digit>34</Digit> % )
+investigations such as WILDCARD <Entity>pressure wire</Entity> WILDCARD <Event.Act.Activity.Work.Investigation.Examination>studies</Event.Act.Activity.Work.Investigation.Examination> , WILDCARD <Entity>dobutamine stress echo</Entity> or WILDCARD <Entity>cardiac magnetic resonance imaging</Entity> ( WILDCARD <Digit>22</Digit> % )
+WILDCARD <Entity>cardiac magnetic resonance imaging</Entity> ( WILDCARD <Digit>22</Digit> % )
+WILDCARD <Event.Happening.Change>decrease</Event.Happening.Change> in WILDCARD <Entity>mean heart rate</Entity> , WILDCARD <Entity>ejection fraction</Entity> , and WILDCARD <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>cardiac output</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>
+WILDCARD <Event.Act.Activity.Work.Labor.Effort.Exercise.Leg_exercise>squatting</Event.Act.Activity.Work.Labor.Effort.Exercise.Leg_exercise> and WILDCARD <Entity>dobutamine echocardiography</Entity> are equally useful
+identify WILDCARD <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Investigative_entityniques>risk factors</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Investigative_entityniques> for WILDCARD <Event.Act.Action.Arrival.Entrance.Admission>readmission</Event.Act.Action.Arrival.Entrance.Admission>
+mice were subjected to WILDCARD <Entity>transverse aortic constriction</Entity> ( WILDCARD <Entity>TAC</Entity> )
+WILDCARD <Entity>cardiac arrest</Entity> ( WILDCARD <Entity>CA</Entity> ) or WILDCARD <Entity>medical emergency</Entity> ( WILDCARD <Entity>ME</Entity> )
+required activation of the WILDCARD <Structure.Building.Medical_building>hospital</Structure.Building.Medical_building> WILDCARD <Event.Happening.Change.Transformation.Improvement.Revival>resuscitation</Event.Happening.Change.Transformation.Improvement.Revival> WILDCARD <Organization.Unit>team</Organization.Unit> between WILDCARD <Day>1</Day> WILDCARD <Month>December</Month> WILDCARD <Year>2009</Year> and WILDCARD <Day>30</Day> WILDCARD <Month>April</Month> WILDCARD <Year>2010</Year>
+WILDCARD <Chemicals_and_drugs.Heterocyclic_compounds>Ezetimibe</Chemicals_and_drugs.Heterocyclic_compounds> ( WILDCARD <Digit>10</Digit> mg ) was added to basal WILDCARD <Event.Act.Activity.Work.Care.Treatment.Medical_care>therapy</Event.Act.Activity.Work.Care.Treatment.Medical_care> for WILDCARD <Digit>12</Digit> weeks in WILDCARD <Digit>35</Digit> WILDCARD <Person.Case>patients</Person.Case> with hypercholesterolemia
+Myc induced WILDCARD <Event.Happening.Movement.Change_of_location.Translation>shifts</Event.Happening.Movement.Change_of_location.Translation> in substrate utilization signal and promote WILDCARD <Entity>compensated hypertrophy</Entity>
+wavebreak occurred along the WILDCARD <Entity>anterior right ventricular insertion</Entity> ( WILDCARD <Entity>ARVI</Entity> ) in WILDCARD <Digit>26</Digit> of WILDCARD <Digit>32</Digit> VF WILDCARD <Event.Happening>episodes</Event.Happening>
+mitral valvuloplasty for a WILDCARD <Entity>parachute mitral valve</Entity> with a WILDCARD <Entity>single papillary muscle</Entity> in an WILDCARD <Person.Adult>woman</Person.Adult>
+percentage of WILDCARD <Entity>systolic pressure</Entity> times WILDCARD <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>cardiac output</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>
+pathophysiology of smoking WILDCARD <Entity>ischemic heart disease</Entity>
+WILDCARD <Entity>Aortic valve malformation</Entity> ( WILDCARD <Entity>AVM</Entity> ) underlies the majority of WILDCARD <Event.Happening>cases</Event.Happening>
+more powerful WILDCARD <Person.Intellectual.Visionary>predictors</Person.Intellectual.Visionary> of WILDCARD <Entity>end points</Entity> than the LV WILDCARD <Entity>ejection fraction</Entity>
+WILDCARD <Entity>Logistic regression</Entity> WILDCARD <Event.Act.Activity.Work.Investigation>analyses</Event.Act.Activity.Work.Investigation> were used to study the potential relationships between CAC and these WILDCARD <Artifact>markers</Artifact>
+significant correlation was detected between N/OFQ and WILDCARD <Entity>white blood cell count</Entity> ( WILDCARD <Entity>WBC</Entity> )
+WILDCARD <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>platelet count</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis> ( WILDCARD <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>PLT</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis> )
+WILDCARD <Chemicals_and_drugs.Enzymes_and_coenzymes>creatine kinase</Chemicals_and_drugs.Enzymes_and_coenzymes> ( WILDCARD <Chemicals_and_drugs.Enzymes_and_coenzymes>CK</Chemicals_and_drugs.Enzymes_and_coenzymes> )
+WILDCARD <Entity>glutamate oxaloacetate transaminase</Entity> ( WILDCARD <Entity>GOT</Entity> )
+presence of WILDCARD <Entity>cardiovascular disease</Entity>
+WILDCARD <Diseases.Cardiovascular_diseases>myocardial infarction</Diseases.Cardiovascular_diseases> ( WILDCARD <Diseases.Cardiovascular_diseases>STEMI</Diseases.Cardiovascular_diseases> )
+WILDCARD <Diseases.Cardiovascular_diseases>atrial fibrillation</Diseases.Cardiovascular_diseases> required AV WILDCARD <Event.Act.Activity.Procedure.Medical_procedure.Operation>ablation</Event.Act.Activity.Procedure.Medical_procedure.Operation>
+prevented by inhibiting CaMKII with WILDCARD <Digit>2.5</Digit> mumol/L KN WILDCARD <Digit>93</Digit>
+significant burden of WILDCARD <Entity>cardiovascular risk factors</Entity>
+WILDCARD <Entity>Acute myocardial infarction</Entity> was the WILDCARD <Event.Act.Discovery.Determination.Designation>diagnosis</Event.Act.Discovery.Determination.Designation> in WILDCARD <Digit>17</Digit> % of WILDCARD <Person.Case>patients</Person.Case>
+precision of WILDCARD <Entity>stent placement</Entity>
+WILDCARD <Entity>total cholesterol</Entity> ( WILDCARD <Entity>TC</Entity> )
+WILDCARD <Event.Act.Activity.Procedure.Medical_procedure.Operation>catheterization</Event.Act.Activity.Procedure.Medical_procedure.Operation> was performed on WILDCARD <Digit>1,706</Digit> ( WILDCARD <Digit>57</Digit> % )
+in-hospital revascularization on WILDCARD <Digit>1,408</Digit> WILDCARD <Person.Case>patients</Person.Case> ( WILDCARD <Digit>47</Digit> % )
+prevalence of the WILDCARD <Entity>metabolic syndrome</Entity> was WILDCARD <Digit>42.5</Digit> %
+prospective PCI registry at a WILDCARD <Location.Ethnicity>Canadian</Location.Ethnicity> WILDCARD <Location.Hospital>teaching hospital</Location.Hospital>
+WILDCARD <Chemicals_and_drugs.Hormones,_hormone_substitutes,_and_hormone_antagonists>Calcitonin</Chemicals_and_drugs.Hormones,_hormone_substitutes,_and_hormone_antagonists> gene-related peptide receptor WILDCARD <Person>antagonists</Person>
+WILDCARD <Chemicals_and_drugs.Chemical>telcagepant</Chemicals_and_drugs.Chemical> , may be useful for acute migraine WILDCARD <Event.Act.Activity.Work.Care>treatment</Event.Act.Activity.Work.Care> in WILDCARD <Person.Case>patients</Person.Case> with WILDCARD <Entity>cardiovascular disease</Entity>
+Median SQR was significantly higher in WILDCARD <Entity>Group A</Entity>
+significantly higher in WILDCARD <Entity>Group A</Entity> ( A = WILDCARD <Digit>2.02</Digit> vs B = WILDCARD <Digit>1.08</Digit> vs C = WILDCARD <Digit>0.57</Digit> ; p &lt WILDCARD <Digit>0.001</Digit> )
+WILDCARD <Digit>41,066</Digit> WILDCARD <Person.Peer.Associate>participants</Person.Peer.Associate> , mostly WILDCARD <Digit>30</Digit> - WILDCARD <Digit>65</Digit> years old , and free of WILDCARD <Entity>cardiovascular disease</Entity> at baseline ( WILDCARD <Digit>1992</Digit> - WILDCARD <Digit>1996</Digit> )
+detection of WILDCARD <Entity>significant coronary artery disease</Entity> and a WILDCARD <Entity>negative predictive value</Entity>
+WILDCARD <Entity>Williams-Beuren syndrome</Entity> is a multysistem genetic disorder caused by the WILDCARD <Digit>1.6</Digit> Mb hemizygous deletion
+WILDCARD <Person.Intellectual.Visionary>predictors</Person.Intellectual.Visionary> of WILDCARD <Entity>lumen area</Entity> increase were WILDCARD <Entity>occlusion duration</Entity>
+identifying a WILDCARD <Diseases.Cardiovascular_diseases>coronary artery disease</Diseases.Cardiovascular_diseases> ( WILDCARD <Diseases.Cardiovascular_diseases>CAD</Diseases.Cardiovascular_diseases> ) WILDCARD <Event.Happening>case</Event.Happening> with MPS
+indication for WILDCARD <Entity>surgical repair</Entity> of WILDCARD <Entity>atrial septal defect</Entity>
+WILDCARD <Entity>atrial septal defect</Entity> ( WILDCARD <Entity>ASD</Entity> )
+Core WILDCARD <Diseases.Cardiovascular_diseases>heart failure</Diseases.Cardiovascular_diseases> drug
+WILDCARD <Organisms.Bacteria>Klebsiella</Organisms.Bacteria> or WILDCARD <Organisms.Bacteria>Escherichia</Organisms.Bacteria> species
+WILDCARD <Person.Adult.Professional.Health_professional.Medical_practitioner.Doctor.Specialist>cardiologist</Person.Adult.Professional.Health_professional.Medical_practitioner.Doctor.Specialist> performed WILDCARD <Entity>transthoracic echocardiography</Entity>
+early deterioration in WILDCARD <Entity>systolic function</Entity> in WILDCARD <Person.Case>patients</Person.Case>
+WILDCARD <Entity>Computed tomographic angiography</Entity> ( WILDCARD <Entity>CTA</Entity> ) and WILDCARD <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>cardiac catheterization</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis> are useful adjuncts to echocardiography
+WILDCARD <Chemicals_and_drugs.Enzymes_and_coenzymes>Creatine kinase</Chemicals_and_drugs.Enzymes_and_coenzymes> ( WILDCARD <Chemicals_and_drugs.Enzymes_and_coenzymes>CK</Chemicals_and_drugs.Enzymes_and_coenzymes> ) was measured in the WILDCARD <Entity>coronary effluent</Entity>
+double-outlet WILDCARD <Entity>right ventricle</Entity> and WILDCARD <Entity>total anomalous pulmonary venous connection</Entity> ( WILDCARD <Entity>TAPVC</Entity> )
+WILDCARD <Entity>left main</Entity> WILDCARD <Anatomy.Cardiovascular_system>pulmonary artery</Anatomy.Cardiovascular_system> ( WILDCARD <Anatomy.Cardiovascular_system>PA</Anatomy.Cardiovascular_system> ) stenosis
+WILDCARD <Diseases.Cardiovascular_diseases>heart failure</Diseases.Cardiovascular_diseases> caused by WILDCARD <Entity>pulmonary blood flow</Entity>
+WILDCARD <Event.Happening.Ending>outcomes</Event.Happening.Ending> of WILDCARD <Person.Case>patients</Person.Case> attending for WILDCARD <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Therapeutics>cardiac resynchronization therapy</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Therapeutics> ( WILDCARD <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Therapeutics>CRT</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Therapeutics> )
+whether WILDCARD <Artifact.Instrumentality.Device.Electronic_device.Tube.Gas-discharge_tube>CRT</Artifact.Instrumentality.Device.Electronic_device.Tube.Gas-discharge_tube> has an WILDCARD <Phenomenon>effect</Phenomenon> on WILDCARD <Entity>depressive symptoms</Entity>
+subsidizing the infarcted heart with boluses of WILDCARD <Entity>autologous stem cells</Entity> from the WILDCARD <Anatomy.Hemic_and_immune_systems>bone marrow</Anatomy.Hemic_and_immune_systems>
+WILDCARD <Event.Act.Activity>use</Event.Act.Activity> of CMR obviates the potential risks of WILDCARD <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>cardiac catheterization</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>
+advantage of WILDCARD <Entity>therapeutic hypothermia</Entity> in WILDCARD <Person>adult</Person> WILDCARD <Entity>cardiac arrest</Entity>
+WILDCARD <Event.Act.Activity.Work.Investigation.Examination>studies</Event.Act.Activity.Work.Investigation.Examination> treated with WILDCARD <Entity>conventional therapy</Entity>
+WILDCARD <Event.Act.Activity.Procedure.Medical_procedure.Operation>catheterization</Event.Act.Activity.Procedure.Medical_procedure.Operation> was used as the WILDCARD <Entity>standard of reference</Entity>
+WILDCARD <Entity>cardiac rehabilitation</Entity> may improve physical well-being
+levels of WILDCARD <Entity>physical activity</Entity>
+levels of WILDCARD <Phenomena_and_processes.Musculoskeletal_and_neural_physiological_phenomena>physical fitness</Phenomena_and_processes.Musculoskeletal_and_neural_physiological_phenomena>
+WILDCARD <Entity>exercise capacity</Entity> in WILDCARD <Person.Case>patients</Person.Case> with WILDCARD <Diseases.Cardiovascular_diseases>heart failure</Diseases.Cardiovascular_diseases> following WILDCARD <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Therapeutics>cardiac resynchronization therapy</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Therapeutics>
+WILDCARD <Entity>left ventricular dysfunction</Entity> and WILDCARD <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>glomerular filtration rate</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis> were independently associated
+specific features of WILDCARD <Entity>heart rhythm disturbances</Entity>
+WILDCARD <Event.Act.Action.Change.Change_of_state.Improvement.Repair.Restoration>rehabilitation</Event.Act.Action.Change.Change_of_state.Improvement.Repair.Restoration> of WILDCARD <Digit>432</Digit> WILDCARD <Person.Case>patients</Person.Case> after WILDCARD <Entity>first myocardial infarction</Entity>
+WILDCARD <Person>inhabitants</Person> of WILDCARD <Location.City>Novosibirsk</Location.City> ( WILDCARD <Digit>129</Digit> WILDCARD <Organization.Force>men</Organization.Force> and WILDCARD <Digit>170</Digit> WILDCARD <Person.Adult>women</Person.Adult> )
+with WILDCARD <Digit>24</Digit> % having WILDCARD <Diseases.Nutritional_and_metabolic_diseases>diabetes mellitus</Diseases.Nutritional_and_metabolic_diseases>
+WILDCARD <Digit>70</Digit> -year-old WILDCARD <Person.Adult>man</Person.Adult> with a two-month earlier history of WILDCARD <Entity>stent implantation</Entity> on the WILDCARD <Entity>right coronary artery</Entity>
+WILDCARD <Entity>total occlusion</Entity> was admitted to our WILDCARD <Organization>institution</Organization> with symptoms of WILDCARD <Entity>congestive heart failure</Entity>
+progression of atherosclerosis and WILDCARD <Entity>cardiovascular disease</Entity>
+WILDCARD <Diseases.Cardiovascular_diseases>heart failure</Diseases.Cardiovascular_diseases> WILDCARD <Event.Act.Activity.Work>care</Event.Act.Activity.Work>
+progression of WILDCARD <Diseases.Cardiovascular_diseases>heart failure</Diseases.Cardiovascular_diseases> ( WILDCARD <Diseases.Cardiovascular_diseases>HF</Diseases.Cardiovascular_diseases> )
+WILDCARD <Anatomy.Hemic_and_immune_systems>bone marrow</Anatomy.Hemic_and_immune_systems> WILDCARD <Event.Act.Action.Change.Change_of_state.Arousal>stimulation</Event.Act.Action.Change.Change_of_state.Arousal>
+WILDCARD <Entity>digital subtraction angiography</Entity> WILDCARD <Event.Act.Activity>measurements</Event.Act.Activity>
+WILDCARD <Entity>detection rate</Entity> reached WILDCARD <Digit>99.62</Digit> %
+literature WILDCARD <Phenomenon>results</Phenomenon> of WILDCARD <Entity>conventional aortic valve replacement</Entity>
+WILDCARD <Digit>three</Digit> in WILDCARD <Entity>group I</Entity> ( WILDCARD <Digit>1.87</Digit> % )
+WILDCARD <Entity>atrial dilatation</Entity> ( WILDCARD <Digit>44</Digit> WILDCARD <Digit>8</Digit> mm versus WILDCARD <Digit>40</Digit> +/- WILDCARD <Digit>8</Digit> mm )
+WILDCARD <Gene.Gene>IL-18</Gene.Gene> at WILDCARD <Digit>2</Digit> days
+WILDCARD <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Investigative_entityniques>survival rate</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Investigative_entityniques> at WILDCARD <Digit>7</Digit> years was WILDCARD <Digit>89.3</Digit> WILDCARD <Digit>2.1</Digit> %
+free of WILDCARD <Entity>major cardiac events</Entity> at WILDCARD <Digit>7</Digit> years
+WILDCARD <Gene.Gene>S1P</Gene.Gene> by echocardiogram
+parameters of Doppler WILDCARD <Entity>coronary flow velocities</Entity> correlate significantly with WILDCARD <Entity>coronary angiographic</Entity> data
+WILDCARD <Organization.Politicalparty>Labour</Organization.Politicalparty> WILDCARD <Person>leader</Person> WILDCARD <Person>Ed Miliband</Person>
+WILDCARD <Location.Country>Yemen</Location.Country> 's feuding WILDCARD <Organization>parties</Organization>
+WILDCARD <Organization.Company>Apple</Organization.Company> had sales of $ WILDCARD <Digit>18</Digit> billion
+WILDCARD <Person.Politician.Representative>Schultz</Person.Politician.Representative> praised the WILDCARD <Person.Authority.Civil_authority>mayors</Person.Authority.Civil_authority> of WILDCARD <Location.City>New York</Location.City> and WILDCARD <Location.City>Columbus</Location.City> for their WILDCARD <Event.Act.Speech_act>bids</Event.Act.Speech_act>
+Prime WILDCARD <Person.Leader.Spiritual_leader.Clergyman>Minister</Person.Leader.Spiritual_leader.Clergyman> WILDCARD <Person.Politician.Minister.Primeminister>Benjamin Netanyahu</Person.Politician.Minister.Primeminister>
+conciliatory to the WILDCARD <Location.Ethnicity>Palestinians</Location.Ethnicity>
+WILDCARD <Person.Contestant>challenger</Person.Contestant> WILDCARD <Person>Isaac Herzog</Person> in WILDCARD <Location.Country>Israel</Location.Country> 's WILDCARD <Event.Act.Group_action.Vote>election</Event.Act.Group_action.Vote>
+Constitution of the WILDCARD <Location.Country>United States</Location.Country>
+WILDCARD <Person.Politician.President>Obama</Person.Politician.President> said in an WILDCARD <Event.Act.Speech_act.Request.Questioning.Interrogation>interview</Event.Act.Speech_act.Request.Questioning.Interrogation> on WILDCARD <Organization.Newsagency>NBC</Organization.Newsagency>
+WILDCARD <Weekday>Sunday</Weekday> night 's WILDCARD <Event.Sportsevent>Super Bowl</Event.Sportsevent>
+WILDCARD <Month>Jan</Month> WILDCARD <Day>18</Day> WILDCARD <Event.Social_event.Contest>playoff</Event.Social_event.Contest> WILDCARD <Event.Act.Activity>game</Event.Act.Activity> between the WILDCARD <Organization.Sportsteam>New England Patriots</Organization.Sportsteam> and the WILDCARD <Organization.Sportsteam>Indianapolis Colts</Organization.Sportsteam>
+WILDCARD <Event.Act.Activity.Wrongdoing.Transgression.Crime>violations</Event.Act.Activity.Wrongdoing.Transgression.Crime> recorded in WILDCARD <Location.City>Debaltseve</Location.City>
+prevented from entering WILDCARD <Location.City>Debaltseve</Location.City>
+WILDCARD <Person.Politician.Spokesperson>Bambang Sulistyo</Person.Politician.Spokesperson> , head of WILDCARD <Location.Country>Indonesia</Location.Country> 's WILDCARD <Event.Act.Activity>search</Event.Act.Activity> and WILDCARD <Event.Act.Recovery>rescue</Event.Act.Recovery> WILDCARD <Organization.Unit.Administrative_unit>agency</Organization.Unit.Administrative_unit>
+WILDCARD <Person>Trump</Person> speaks in WILDCARD <Location.City>Sarasota</Location.City> , WILDCARD <Location.Usstate>Florida</Location.Usstate>
+WILDCARD <Location.City>Sarasota</Location.City> WILDCARD <Organization.Politicalparty>GOP</Organization.Politicalparty> dinner in WILDCARD <Month>August</Month> WILDCARD <Year>2012</Year>
+WILDCARD <Location.City>Flint</Location.City> 's water supply
+from WILDCARD <Location.Lake>Lake Huron</Location.Lake> ( via WILDCARD <Location.City>Detroit</Location.City> 's water WILDCARD <Artifact.Instrumentality>system</Artifact.Instrumentality> ) to the WILDCARD <Location.River>Flint River</Location.River>
+WILDCARD <Person.Scientist>researchers</Person.Scientist> from WILDCARD <Organization.Institute>Virginia Tech</Organization.Institute>
+WILDCARD <Location.Ethnicity>French</Location.Ethnicity> WILDCARD <Location.Region>Interior</Location.Region> WILDCARD <Person.Leader.Spiritual_leader.Clergyman>Minister</Person.Leader.Spiritual_leader.Clergyman> WILDCARD <Person.Politician>Bernard Cazeneuve</Person.Politician>
+Amid tensions across WILDCARD <Location.Country>France</Location.Country>
+veiled WILDCARD <Religion>Muslim</Religion> WILDCARD <Person.Adult>woman</Person.Adult>
+operation was headed by WILDCARD <Person.Politician>Robby Mook</Person.Politician>
+WILDCARD <Person.Politician>Robby Mook</Person.Politician> , who is now WILDCARD <Person.Politician>Clinton</Person.Politician> 's WILDCARD <Event.Social_event.Contest.Race>campaign</Event.Social_event.Contest.Race> WILDCARD <Person.Leader.Head.Administrator>manager</Person.Leader.Head.Administrator>
+WILDCARD <Person.Politician.Senator>Ted</Person.Politician.Senator> , throughout this WILDCARD <Event.Social_event.Contest.Race>campaign</Event.Social_event.Contest.Race>
+WILDCARD <Organization.Company>Durst</Organization.Company> 's WILDCARD <Person.Adult.Professional>attorney</Person.Adult.Professional> , WILDCARD <Person>Dick DeGuerin</Person>
+Stephanie WILDCARD <Location>Lunder</Location> , WILDCARD <Digit>34</Digit> ,
+WILDCARD <Person.Bad_person.Wrongdoer>attackers</Person.Bad_person.Wrongdoer> charged into WILDCARD <Location.City>Damaturu</Location.City>
+shouting " WILDCARD <Organization.Military>Allahu Akbar</Organization.Military> "
+people at the WILDCARD <Location.Region.Area>scene</Location.Region.Area> told WILDCARD <Organization.Newsagency>Reuters</Organization.Newsagency>
+WILDCARD <Organization.Newsagency>Reuters</Organization.Newsagency> reported
+detained WILDCARD <Organization.Military>Al Qaeda</Organization.Military> WILDCARD <Person.Communicator.Negotiator.Representative.Agent>operative</Person.Communicator.Negotiator.Representative.Agent> was threatened
+WILDCARD <Location.Province>Saskatchewan</Location.Province> , WILDCARD <Location.Country>Canada</Location.Country>
+WILDCARD <Event.Happening>incident</Event.Happening> occurred at a WILDCARD <Location.City>Saskatoon</Location.City>
+WILDCARD <Location.City>Saskatoon</Location.City> WILDCARD <Person.Athlete.Hockeyplayer>Tim Horton</Person.Athlete.Hockeyplayer> 's WILDCARD <Structure.Building>restaurant</Structure.Building>
+WILDCARD <Person.Leader>Chief</Person.Leader> WILDCARD <Organization.Government>White House</Organization.Government> WILDCARD <Person.Communicator>Correspondent</Person.Communicator> WILDCARD <Person.Politician.Mayor>Ed Henry</Person.Politician.Mayor>
+WILDCARD <Person.Politician.Mayor>Ed Henry</Person.Politician.Mayor> is in WILDCARD <Location.Usstate>Iowa</Location.Usstate>
+WILDCARD <Location>The World Trade Center</Location> came down during the reign of WILDCARD <Person.Politician.President>George Bush</Person.Politician.President>
+WILDCARD <Person.Politician.Minister.Primeminister>Modi</Person.Politician.Minister.Primeminister> 's WILDCARD <Person.Contestant>opponents</Person.Contestant>
+WILDCARD <Location.Region.District.Administrative_district>state</Location.Region.District.Administrative_district> of WILDCARD <Location>Gujarat</Location>
+clean the WILDCARD <Location.Cemetery>Ganges river</Location.Cemetery>
+WILDCARD <Person.Leader.Head.Administrator.Executive.Corporate_executive>President</Person.Leader.Head.Administrator.Executive.Corporate_executive> WILDCARD <Person.Politician.President>Barack Obama</Person.Politician.President>
+WILDCARD <Religion>Islamic</Religion> authority
+WILDCARD <Person.Adult.Professional>critic</Person.Adult.Professional> of WILDCARD <Organization.Military>Boko Haram</Organization.Military>
+WILDCARD <Organization.Government>New York Police</Organization.Government> WILDCARD <Person.Worker.Skilled_worker.Serviceman>Officer</Person.Worker.Skilled_worker.Serviceman> WILDCARD <Person.Officer.Policeofficer>Daniel Pantaleo</Person.Officer.Policeofficer>
+WILDCARD <Event.Happening.Change>death</Event.Happening.Change> of WILDCARD <Person.Victim>Eric Garner</Person.Victim>
+WILDCARD <Person.Victim>Garner</Person.Victim> 's WILDCARD <Person.Domestic_partner.Spouse>wife</Person.Domestic_partner.Spouse>
+condolences offered by WILDCARD <Person.Officer.Policeofficer>Pantaleo</Person.Officer.Policeofficer>
+WILDCARD <Location.Province>Queensland</Location.Province> WILDCARD <Location.Region.District.Administrative_district>state</Location.Region.District.Administrative_district> WILDCARD <Organization.Force>police</Organization.Force>
+WILDCARD <Location.City>Cairns</Location.City> WILDCARD <Location.Region.District.Residential_district>suburb</Location.Region.District.Residential_district>
+WILDCARD <Location.Ethnicity>Ukrainian</Location.Ethnicity> WILDCARD <Event.Act.Group_action.Transaction.Commerce.Commercial_enterprise>Finance</Event.Act.Group_action.Transaction.Commerce.Commercial_enterprise> WILDCARD <Person.Leader.Spiritual_leader.Clergyman>Minister</Person.Leader.Spiritual_leader.Clergyman> WILDCARD <Person.Politician.Minister>Natalia Yaresko</Person.Politician.Minister>
+a WILDCARD <Event.Act.Group_action.Transaction>deal</Event.Act.Group_action.Transaction> with the WILDCARD <Organization>International Monetary Fund</Organization>
+WILDCARD <Person.Journalist>Bob Simon</Person.Journalist> 's reports
+Shame of WILDCARD <Location.City>Srebrenica</Location.City>
+WILDCARD <Event.Act.Action.Change.Change_of_state.Termination.Killing.Homicide.Murder>massacre</Event.Act.Action.Change.Change_of_state.Termination.Killing.Homicide.Murder> of over WILDCARD <Digit>8,000</Digit> WILDCARD <Person.National.Citizen>civilians</Person.National.Citizen> in the WILDCARD <Event.Conflict>Bosnian War</Event.Conflict>
+WILDCARD <Organization.Institute>Virginia Tech</Organization.Institute> WILDCARD <Person.Enrollee>student</Person.Enrollee>
+WILDCARD <Digit>20</Digit> WILDCARD <Location.Usstate>Kansas</Location.Usstate> WILDCARD <Person.Adult>man</Person.Adult>
+kill WILDCARD <Location.Ethnicity>American</Location.Ethnicity> WILDCARD <Person.Worker.Skilled_worker.Serviceman.Enlisted_person>soldiers</Person.Worker.Skilled_worker.Serviceman.Enlisted_person>
+WILDCARD <Artifact.Instrumentality.Device.Explosive_device>bomb</Artifact.Instrumentality.Device.Explosive_device> WILDCARD <Location>Fort Riley</Location> on WILDCARD <Event.Act.Activity.Work.Duty.Function.Stead>behalf</Event.Act.Activity.Work.Duty.Function.Stead> of WILDCARD <Organization.Military>Islamic State</Organization.Military>
+WILDCARD <Person.Officer>Peter Hobbs</Person.Officer> , from the WILDCARD <Organization.Company>British Geological Survey</Organization.Company>
+killed more than WILDCARD <Digit>7,800</Digit> people , almost all in WILDCARD <Location>West Africa</Location>
+WILDCARD <Organization.Sportsteam>Chicago Tribune</Organization.Sportsteam> ( WILDCARD <Url>http://trib.in/1Ndp2AT</Url> )
+WILDCARD <Location.Country>Syria</Location.Country> 's WILDCARD <Event.Act.Group_action.Military_action>war</Event.Act.Group_action.Military_action>
+WILDCARD <Location.Ethnicity>Lebanese</Location.Ethnicity> group WILDCARD <Organization.Politicalparty>Hezbollah</Organization.Politicalparty>
+WILDCARD <Location.Region.District.Administrative_district.Municipality>city</Location.Region.District.Administrative_district.Municipality> of WILDCARD <Location.City>Aleppo</Location.City>
+investigate the WILDCARD <Person.Victim>Garner</Person.Victim> matter
+WILDCARD <Event.Act.Action.Change.Change_of_magnitude.Increase>expansion</Event.Act.Action.Change.Change_of_magnitude.Increase> of WILDCARD <Location.Ethnicity>Kurdish</Location.Ethnicity> influence in WILDCARD <Location.Country>Syria</Location.Country>
+WILDCARD <Structure.Establishment.Place_of_business.Office>headquarters</Structure.Establishment.Place_of_business.Office> of the WILDCARD <Location.Ethnicity>Yemeni</Location.Ethnicity> intelligence WILDCARD <Event.Act.Activity.Work>service</Event.Act.Activity.Work>
+WILDCARD <Organization.Sportsteam>Patriots</Organization.Sportsteam> will forfeit their WILDCARD <Event.Act.Action>selection</Event.Act.Action> in the WILDCARD <Year>2016</Year> draft
+last season 's WILDCARD <Event>AFC Championship game</Event>
+WILDCARD <Location.City>Pyongyang</Location.City> 's elite
+WILDCARD <Organization.Institute>Harvard University</Organization.Institute> discriminates against WILDCARD <Location.Ethnicity>Asian-American</Location.Ethnicity> WILDCARD <Person>applicants</Person>
+WILDCARD <Location.City>Los Angeles</Location.City> WILDCARD <Location.Region.District.Residential_district>suburb</Location.Region.District.Residential_district>
+WILDCARD <Organization.Force>police</Organization.Force> Lt WILDCARD <Person.Athlete.Coach>Matt Williams</Person.Athlete.Coach>
+WILDCARD <Organization.Unit>teams</Organization.Unit> of WILDCARD <Organization.Government>Marines</Organization.Government>
+WILDCARD <Location.Country>Iran</Location.Country> 's WILDCARD <Person.Leader.Religious_leader>ayatollahs</Person.Leader.Religious_leader>
+WILDCARD <Person.Politician.Senator>Cotton</Person.Politician.Senator> told WILDCARD <Organization.Newsagency>Bloomberg News</Organization.Newsagency>
+WILDCARD <Year>2016</Year> WILDCARD <Organization.Politicalparty>GOP</Organization.Politicalparty> WILDCARD <Event.Social_event.Contest.Race>campaign</Event.Social_event.Contest.Race>
+Flight MH WILDCARD <Digit>370</Digit> lost communications
+WILDCARD <Person>David Prowse</Person> and WILDCARD <Person.Politician.Spokesperson>James Earl Jones</Person.Politician.Spokesperson> , the body and voice of WILDCARD <Person>Darth Vader</Person>
+WILDCARD <Event.Act.Action.Choice>vote</Event.Act.Action.Choice> for WILDCARD <Person.Politician>Corbyn</Person.Politician>
+beating the governing WILDCARD <Organization.Politicalparty>Conservative party</Organization.Politicalparty>
+shooting WILDCARD <Event.Happening.Change>death</Event.Happening.Change> of WILDCARD <Person.Victim>Michael Brown</Person.Victim> in WILDCARD <Location.City>Ferguson</Location.City> , WILDCARD <Location.Usstate>Missouri</Location.Usstate>
+WILDCARD <Event.Happening.Change>death</Event.Happening.Change> of WILDCARD <Person.Victim>Eric Garner</Person.Victim> in WILDCARD <Location.City>New York City</Location.City>
+WILDCARD <Location.City>DC</Location.City> WILDCARD <Organization.Force>police</Organization.Force>
+WILDCARD <Structure.Building>restaurant</Structure.Building> in WILDCARD <Location.City>Waco</Location.City>
+majority in the WILDCARD <Organization.Government>House</Organization.Government>
+take control of the WILDCARD <Organization.Government>Senate</Organization.Government>
+WILDCARD <Organization.Military>Al-Shabab</Organization.Military> WILDCARD <Person.Bad_person.Wrongdoer.Principal.Criminal.Murderer>gunmen</Person.Bad_person.Wrongdoer.Principal.Criminal.Murderer>
+university in WILDCARD <Location.Country>Kenya</Location.Country>
+WILDCARD <Organization.Company>Sony</Organization.Company> 's WILDCARD <Person.Bad_person.Wrongdoer>attackers</Person.Bad_person.Wrongdoer>
+WILDCARD <Organization.Government>St Louis County Police</Organization.Government> WILDCARD <Person.Leader>Chief</Person.Leader> WILDCARD <Person.Officer.Policeofficer>Jon Belmar</Person.Officer.Policeofficer>
+WILDCARD <Event.Act.Activity.Wrongdoing.Transgression.Crime.Felony>theft</Event.Act.Activity.Wrongdoing.Transgression.Crime.Felony> WILDCARD <Person.Athlete>Martin</Person.Athlete>
+WILDCARD <Digit>8.2</Digit> WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>temblor</Phenomenon.Natural_phenomenon.Geological_phenomenon> off the coast of WILDCARD <Location.Country>Chile</Location.Country> on WILDCARD <Month>April</Month> WILDCARD <Day>1</Day> , WILDCARD <Year>2014</Year>
+WILDCARD <Person.Lawyer>Dershowitz</Person.Lawyer> issued an WILDCARD <Event.Act.Speech_act>denial</Event.Act.Speech_act>
+WILDCARD <Person.Leader.Lawgiver.Legislator.Congressman>Rep</Person.Leader.Lawgiver.Legislator.Congressman> WILDCARD <Person.Politician.Representative>Beto O'Rourke</Person.Politician.Representative>
+WILDCARD <Organization.Politicalparty>Republicans</Organization.Politicalparty> will be defending at WILDCARD <Digit>24</Digit> WILDCARD <Organization.Government>Senate</Organization.Government> seats
+WILDCARD <Person.Actor>Michael Keaton</Person.Actor> runs through WILDCARD <Location.Square>Times Square</Location.Square> in his WILDCARD <Artifact.Commodity.Consumer_goods.Clothing.Garment.Undergarment>underpants</Artifact.Commodity.Consumer_goods.Clothing.Garment.Undergarment>
+WILDCARD <Location.Sea>Black Sea</Location.Sea> peninsula
+rustbelt of WILDCARD <Location.City>Donetsk</Location.City> and WILDCARD <Location.City>Luhansk</Location.City>
+Sympathy for WILDCARD <Organization.Military>Islamic State</Organization.Military>
+WILDCARD <Digit>2.5</Digit> million WILDCARD <Location.Ethnicity>Syrians</Location.Ethnicity>
+WILDCARD <Digit>600</Digit> WILDCARD <Organization.Military>Turkish troops</Organization.Military> pushed deep into WILDCARD <Location.Country>Syria</Location.Country>
+WILDCARD <Location.Ethnicity>Turkish</Location.Ethnicity> WILDCARD <Person.Worker.Skilled_worker.Serviceman.Enlisted_person>soldiers</Person.Worker.Skilled_worker.Serviceman.Enlisted_person>
+WILDCARD <Location.Usstate>Michigan State</Location.Usstate> WILDCARD <Event.Act.Activity.Diversion>athletics</Event.Act.Activity.Diversion>
+WILDCARD <Event.Festival>Memorial Day</Event.Festival> parade
+WILDCARD <Location.City>Detroit</Location.City> WILDCARD <Location.Region.District.Residential_district>suburb</Location.Region.District.Residential_district>
+Mr WILDCARD <Person.Politician.Minister.Primeminister>Tsipras</Person.Politician.Minister.Primeminister>
+Mr WILDCARD <Person.Politician.Minister>Meimarakis</Person.Politician.Minister>
+WILDCARD <Person.Politician.Minister>Meimarakis</Person.Politician.Minister> , WILDCARD <Digit>61</Digit> ,
+WILDCARD <Person.Politician.Minister>Meimarakis</Person.Politician.Minister> , a WILDCARD <Digit>61</Digit> - year - old
+WILDCARD <Person.Politician.Senator>Bernie Sanders</Person.Politician.Senator> , the WILDCARD <Location.Usstate>Vermont</Location.Usstate> WILDCARD <Person.Leader.Lawgiver.Legislator>senator</Person.Leader.Lawgiver.Legislator>
+WILDCARD <Person>Killer Mike</Person> , the WILDCARD <Person.Entertainer.Performer.Musician.Singer>rapper</Person.Entertainer.Performer.Musician.Singer>
+WILDCARD <Location.Ethnicity>Nigerian</Location.Ethnicity> Air force
+WILDCARD <Location.Ethnicity>Nigerian</Location.Ethnicity> WILDCARD <Organization.Force>troops</Organization.Force>
+brought WILDCARD <Person.Murderer>Syed</Person.Murderer> 's WILDCARD <Event.Happening>case</Event.Happening> to WILDCARD <Person>Koenig</Person> to investigate
+WILDCARD <Person.Murderer>Adnan</Person.Murderer> is getting closer to justice
+WILDCARD <Location.Ethnicity>German</Location.Ethnicity> Vice WILDCARD <Person.Leader.Head.Administrator.Executive.Minister.Cabinet_minister>Chancellor</Person.Leader.Head.Administrator.Executive.Minister.Cabinet_minister> WILDCARD <Person.Politician>Sigmar Gabriel</Person.Politician>
+WILDCARD <Location.City>Ferguson</Location.City> WILDCARD <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker>
+WILDCARD <Organization.Company>Apple</Organization.Company> 's brand value boomed WILDCARD <Digit>67</Digit> %
+WILDCARD <Person.Leader.Head.Administrator>executive</Person.Leader.Head.Administrator> WILDCARD <Person.Creator.Maker>producer</Person.Creator.Maker> WILDCARD <Person.Politician.Judge>Nigel Lythgoe</Person.Politician.Judge>
+WILDCARD <Location.Country>Yemen</Location.Country> 's capital WILDCARD <Location.Region.District.Administrative_district.Municipality>city</Location.Region.District.Administrative_district.Municipality> , WILDCARD <Location.City>Sanaa</Location.City>
+oil spill in the WILDCARD <Location>Gulf of Mexico</Location>
+WILDCARD <Location.Ethnicity>British</Location.Ethnicity> WILDCARD <Organization.Polity>government</Organization.Polity>
+WILDCARD <Person.Director>James Cameron</Person.Director> 's WILDCARD <Digit>3</Digit> WILDCARD <Event.Act.Activity.Work.Undertaking>adventure</Event.Act.Activity.Work.Undertaking> WILDCARD <Artifact.Creation.Product>film</Artifact.Creation.Product>
+nominated for nine WILDCARD <Event.Award>Oscars</Event.Award>
+WILDCARD <Person.Director>Cameron</Person.Director> 's WILDCARD <Person>Kathryn Bigelow</Person> ,
+( Met WILDCARD <Person.Leader.Head.Administrator>manager</Person.Leader.Head.Administrator> ) WILDCARD <Person.Businessperson>Peter Gelb</Person.Businessperson>
+WILDCARD <Location.Region.District.Administrative_district>states</Location.Region.District.Administrative_district> such as WILDCARD <Location.Country>Yemen</Location.Country> and WILDCARD <Location.Country>Somalia</Location.Country>
+WILDCARD <Location.Ethnicity>Muslims</Location.Ethnicity>
+vice WILDCARD <Person.Leader.Head.Administrator.Executive.Corporate_executive>president</Person.Leader.Head.Administrator.Executive.Corporate_executive> at WILDCARD <Organization>Oxfam America</Organization>
+WILDCARD <Organization.Government>Navy</Organization.Government> 's WILDCARD <Person.Adult.Professional.Lawyer>counsel</Person.Adult.Professional.Lawyer>
+WILDCARD <Location.Country>Iran</Location.Country> 's announcement
+bankruptcy of WILDCARD <Organization.Company>Lehman Brothers Holdings</Organization.Company>
+WILDCARD <Person>Michael Oren</Person> , the WILDCARD <Location.Ethnicity>Israeli</Location.Ethnicity> WILDCARD <Person.Worker.Skilled_worker.Official.Diplomat>ambassador</Person.Worker.Skilled_worker.Official.Diplomat> to the WILDCARD <Location.Country>United States</Location.Country> ,
+WILDCARD <Person.Politician.Minister.Primeminister>Thaksin</Person.Politician.Minister.Primeminister> concealed ownership of his stake in WILDCARD <Organization.Company>Shin Corp</Organization.Company>
+WILDCARD <Location.Country>Thailand</Location.Country> 's biggest mobile-phone operator
+WILDCARD <Person.Advocate.Spokesperson>spokesman</Person.Advocate.Spokesperson> WILDCARD <Person.Politician.Spokesperson>Matthew Paton</Person.Politician.Spokesperson>
+WILDCARD <Person.Leader.Lawgiver.Legislator.Congressman>Rep</Person.Leader.Lawgiver.Legislator.Congressman> WILDCARD <Person.Politician.Senator>Roy Blunt</Person.Politician.Senator>
+won the WILDCARD <Organization.Politicalparty>Republican</Organization.Politicalparty> WILDCARD <Event.Act.Group_action.Vote.Election>primary</Event.Act.Group_action.Vote.Election>
+WILDCARD <Location.Usstate>Missouri</Location.Usstate> 's WILDCARD <Organization.Government>Senate</Organization.Government> WILDCARD <Event.Social_event.Contest>race</Event.Social_event.Contest>
+WILDCARD <Event.Act.Action.Change.Motion.Travel.Journey>trip</Event.Act.Action.Change.Motion.Travel.Journey> to WILDCARD <Location.City>Omaha</Location.City> costs $ WILDCARD <Digit>309</Digit>
+Gen WILDCARD <Person.Politician.Minister>Hussein Kamal</PERSON.POLITICIAN.MINISTER>, the top intelligence official at the WILDCARD <Organization.Government>Interior Ministry</Organization.Government> ,
+WILDCARD <Person.Politician.Minister.Primeminister>Alassane Ouattara</Person.Politician.Minister.Primeminister> as the WILDCARD <Person.Leader.Head.Administrator.Executive.Corporate_executive>president</Person.Leader.Head.Administrator.Executive.Corporate_executive> of WILDCARD <Location.Country>Ivory Coast</Location.Country>
+WILDCARD <Location.Ethnicity>Afghanistan</Location.Ethnicity> 's WILDCARD <Digit>34</Digit> WILDCARD <Location.Region.District.Administrative_district>provinces</Location.Region.District.Administrative_district>
+Gen WILDCARD <Person>Ray Odierno</Person> , the top US WILDCARD <Person.Worker.Skilled_worker.Serviceman.Military_officer>commander</Person.Worker.Skilled_worker.Serviceman.Military_officer> in WILDCARD <Location.Country>Iraq</Location.Country> ,
+WILDCARD <Organization.Politicalparty>Republican</Organization.Politicalparty> WILDCARD <Person.Leader.Lawgiver.Legislator>senator</Person.Leader.Lawgiver.Legislator> from WILDCARD <Location.Usstate>Utah</Location.Usstate>
+WILDCARD <Organization.Company>Mattel</Organization.Company> WILDCARD <Artifact.Commodity>products</Artifact.Commodity>
+WILDCARD <Location.Ethnicity>Swedish</Location.Ethnicity> WILDCARD <Person.Worker.Skilled_worker.Official>diplomats</Person.Worker.Skilled_worker.Official>
+WILDCARD <Location.Country>Greece</Location.Country> was promised aid
+WILDCARD <Location.Ethnicity>American</Location.Ethnicity> WILDCARD <Person.User>consumer</Person.User>
+$ WILDCARD <Digit>8</Digit> million has been spent by WILDCARD <Location>Arlington</Location> WILDCARD <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker>
+WILDCARD <Person.Athlete.Baseballplayer>Wilson</Person.Athlete.Baseballplayer> 's contract
+WILDCARD <Organization.Sportsteam>Yankees</Organization.Sportsteam> then sold his contract to the WILDCARD <Organization.Sportsteam>Oakland Oaks</Organization.Sportsteam>
+WILDCARD <Person.Athlete.Baseballplayer>Wilson</Person.Athlete.Baseballplayer> became WILDCARD <Location.City>Oakland</Location.City> 's first WILDCARD <Person.Contestant>player</Person.Contestant>
+WILDCARD <Religion>Muslim</Religion> WILDCARD <Person.Adult>women</Person.Adult> in WILDCARD <Artifact.Commodity.Consumer_goods.Clothing.Garment.Scarf.Kerchief>headscarves</Artifact.Commodity.Consumer_goods.Clothing.Garment.Scarf.Kerchief>
+WILDCARD <Location.Ethnicity>Sikh</Location.Ethnicity> WILDCARD <Organization.Force>men</Organization.Force> in WILDCARD <Artifact.Commodity.Consumer_goods.Clothing.Headdress>turbans</Artifact.Commodity.Consumer_goods.Clothing.Headdress>
+WILDCARD <Person.Politician.President>Geithner</Person.Politician.President> and WILDCARD <Person.Leader.Head.Administrator.Executive.Corporate_executive>President</Person.Leader.Head.Administrator.Executive.Corporate_executive> WILDCARD <Person.Politician.President>Barack Obama</Person.Politician.President> at an WILDCARD <Month>Oct</Month> WILDCARD <Day>8</Day> WILDCARD <Event.Act.Activity>game</Event.Act.Activity>
+WILDCARD <Person.Scientist.Social_scientist>economist</Person.Scientist.Social_scientist> with WILDCARD <Organization.Company>IHS Global Insight</Organization.Company>
+WILDCARD <Person>Tom Flynn</Person> WILDCARD <Person.Leader.Head.Administrator>Executive</Person.Leader.Head.Administrator> WILDCARD <Person.Leader.Head.Administrator>director</Person.Leader.Head.Administrator> , WILDCARD <Organization.Company>Council for Secular Humanism</Organization.Company>
+WILDCARD <Person.Politician.President>Obama</Person.Politician.President> WILDCARD <Event.Act.Group_action.Social_control.Management>administration</Event.Act.Group_action.Social_control.Management> WILDCARD <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker>
+WILDCARD <Organization.Government>Senate</Organization.Government> WILDCARD <Event.Act.Activity>support</Event.Act.Activity> for WILDCARD <Person.Politician.Governor>Bernanke</Person.Politician.Governor>
+WILDCARD <Location.Ethnicity>Egyptian</Location.Ethnicity> security forces
+WILDCARD <Organization.Military>Muslim Brotherhood</Organization.Military> WILDCARD <Person.Advocate>supporters</Person.Advocate>
+WILDCARD <Location.Country>Germany</Location.Country> 's budget deficit
+WILDCARD <Person.Politician.President>Nixon</Person.Politician.President> had a plan to get WILDCARD <Person>Richard Mellon Scaife</Person>
+WILDCARD <Location.Country>Denmark</Location.Country> 's euro membership
+Made in WILDCARD <Location.Country>China</Location.Country>
+WILDCARD <Organization.Politicalparty>Democrat</Organization.Politicalparty> leaders in WILDCARD <Location.City>Washington</Location.City>
+WILDCARD <Event.Act.Activity.Work.Investigation.Examination>survey</Event.Act.Activity.Work.Investigation.Examination> conducted by the WILDCARD <Organization>Consumer Electronics Association</Organization>
+WILDCARD <Location.Usstate>Missouri</Location.Usstate> WILDCARD <Person.Leader.Politician>Governor</Person.Leader.Politician> WILDCARD <Person.Politician.Governor>Jay Nixon</Person.Politician.Governor>
+WILDCARD <Person.Politician.Governor>Jay Nixon</Person.Politician.Governor> 's WILDCARD <Event.Act>actions</Event.Act>
+rising tensions in the WILDCARD <Location.City>St Louis</Location.City> WILDCARD <Location>region</Location>
+WILDCARD <Location.City>St Louis</Location.City> WILDCARD <Location>region</Location>
+WILDCARD <Month>Aug</Month> WILDCARD <Day>9</Day> shooting WILDCARD <Event.Happening.Change>death</Event.Happening.Change>
+shooting WILDCARD <Event.Happening.Change>death</Event.Happening.Change> of WILDCARD <Digit>18</Digit> WILDCARD <Person.Victim>Michael Brown</Person.Victim>
+WILDCARD <Digit>18</Digit> WILDCARD <Person.Victim>Michael Brown</Person.Victim>
+WILDCARD <Person.Leader.Politician>Governor</Person.Leader.Politician> WILDCARD <Person.Politician.Governor>Jay Nixon</Person.Politician.Governor>
+WILDCARD <Person.Politician.Governor>Jay Nixon</Person.Politician.Governor> activated the WILDCARD <Organization>Missouri National Guard</Organization>
+WILDCARD <Person.Politician.Governor>Nixon</Person.Politician.Governor> declared a WILDCARD <Location.Region.District.Administrative_district>state</Location.Region.District.Administrative_district> of WILDCARD <Event.Happening.Juncture.Crisis>emergency</Event.Happening.Juncture.Crisis>
+WILDCARD <Digit>18</Digit> WILDCARD <Person.Victim>Michael Brown</Person.Victim>
+WILDCARD <Person.Victim>Michael Brown</Person.Victim> of WILDCARD <Location.City>Ferguson</Location.City>
+WILDCARD <Location.City>Ferguson</Location.City> , a WILDCARD <Location.City>St Louis</Location.City> WILDCARD <Location.Region.District.Residential_district>suburb</Location.Region.District.Residential_district>
+WILDCARD <Person.Politician.Governor>Nixon</Person.Politician.Governor> , a WILDCARD <Digit>58</Digit> WILDCARD <Organization.Party>Democrat</Organization.Party>
+rising tensions in the WILDCARD <Location.City>St Louis</Location.City> WILDCARD <Location>region</Location>
+WILDCARD <Location.City>St Louis</Location.City> WILDCARD <Location>region</Location>
+WILDCARD <Person.Worker.Skilled_worker.Serviceman>Officer</Person.Worker.Skilled_worker.Serviceman> WILDCARD <Person.Policeofficer>Darren Wilson</Person.Policeofficer>
+WILDCARD <Person.Policeofficer>Darren Wilson</Person.Policeofficer> , who shot WILDCARD <Person.Victim>Brown</Person.Victim>
+WILDCARD <Person.Adult.Professional>Attorneys</Person.Adult.Professional> representing WILDCARD <Person.Victim>Brown</Person.Victim>
+WILDCARD <Person.Victim>Brown</Person.Victim> 's WILDCARD <Organization.Unit>family</Organization.Unit>
+WILDCARD <Person.Politician.Governor>Nixon</Person.Politician.Governor> should also warn law WILDCARD <Event.Act.Group_action.Social_control>enforcement</Event.Act.Group_action.Social_control>
+WILDCARD <Person.Attorney>Benjamin Crump</Person.Attorney> , a WILDCARD <Person.Adult.Professional>lawyer</Person.Adult.Professional>
+WILDCARD <Person.Politician.Governor>Nixon</Person.Politician.Governor> called up the WILDCARD <Organization.Government>National Guard</Organization.Government>
+WILDCARD <Organization.Government>St Louis County Police Department</Organization.Government> has been in WILDCARD <Event.Act.Activity.Operation.Attack>charge</Event.Act.Activity.Operation.Attack> of policing the WILDCARD <Event.Act.Speech_act.Objection>protests</Event.Act.Speech_act.Objection>
+WILDCARD <Organization.Government>Missouri Highway Patrol</Organization.Government> and the WILDCARD <Organization.Government>St Louis Metropolitan Police Department</Organization.Government>
+WILDCARD <Event.Act.Activity>support</Event.Act.Activity> of the WILDCARD <Organization.Government>National Guard</Organization.Government>
+WILDCARD <Organization.Government>St Louis Metropolitan Police</Organization.Government> WILDCARD <Person.Leader>Chief</Person.Leader> WILDCARD <Person>Sam Dotson</Person>
+statement released by WILDCARD <Person.Politician.Governor>Nixon</Person.Politician.Governor>
+WILDCARD <Person.Politician.Governor>Nixon</Person.Politician.Governor> 's WILDCARD <Structure.Establishment.Place_of_business>office</Structure.Establishment.Place_of_business>
+Since WILDCARD <Month>August</Month> , the WILDCARD <Organization.Government>St Louis County Police Department</Organization.Government>
+WILDCARD <Organization.Government>St Louis County Police Department</Organization.Government> has spent more than $ WILDCARD <Digit>100,000</Digit>
+a WILDCARD <Person.Advocate.Spokesperson>spokesman</Person.Advocate.Spokesperson> , WILDCARD <Person>Brian Schellman</Person>
+WILDCARD <Person.Policeofficer>Wilson</Person.Policeofficer> shot WILDCARD <Person.Victim>Brown</Person.Victim> at WILDCARD <Digit>six</Digit> times
+WILDCARD <Person.Policeofficer>Wilson</Person.Policeofficer> shot WILDCARD <Person.Victim>Brown</Person.Victim>
+WILDCARD <Person.Victim>Brown</Person.Victim> at WILDCARD <Digit>six</Digit> times
+WILDCARD <Person.Victim>Brown</Person.Victim> attacked WILDCARD <Person.Policeofficer>Wilson</Person.Policeofficer>
+WILDCARD <Person>Toluse Olorunnipa</Person> in WILDCARD <Location.City>Tallahassee</Location.City>
+WILDCARD <Location.City>Tallahassee</Location.City> , WILDCARD <Location.Usstate>Florida</Location.Usstate>
+WILDCARD <Person>Stephen Merelman</Person> at WILDCARD <Email>smerelman@bloomberg.net</Email>
+WILDCARD <Person>Pete Young</Person> , WILDCARD <Person>Theo Mullen</Person>
+WILDCARD <Artifact.Covering.Cloth_covering.Bedclothes>blanket</Artifact.Covering.Cloth_covering.Bedclothes> WILDCARD <Event.Act.Speech_act>denial</Event.Act.Speech_act> from WILDCARD <Person.Artist.Actor>Bill Cosby</Person.Artist.Actor> 's WILDCARD <Person.Adult.Professional>lawyer</Person.Adult.Professional>
+WILDCARD <Person.Artist.Actor>Bill Cosby</Person.Artist.Actor> 's WILDCARD <Person.Adult.Professional>lawyer</Person.Adult.Professional>
+WILDCARD <Organization.Newsagency>The Associated Press</Organization.Newsagency> reports
+WILDCARD <Person.Artist.Actor>Cosby</Person.Artist.Actor> 's WILDCARD <Event.Act.Speech_act>denials</Event.Act.Speech_act>
+accuser WILDCARD <Person.Athlete.Basketballplayer>Andrea Constand</Person.Athlete.Basketballplayer>
+WILDCARD <Person.Athlete.Basketballplayer>Andrea Constand</PERSON.ATHLETE.BASKETBALLPLAYER>, whose civil lawsuit
+WILDCARD <Person.Adult.Professional>lawyers</Person.Adult.Professional> for WILDCARD <Person.Artist.Actor>Cosby</Person.Artist.Actor>
+allegations against WILDCARD <Person.Artist.Actor>Cosby</Person.Artist.Actor>
+WILDCARD <Person.Athlete.Basketballplayer>Constand</Person.Athlete.Basketballplayer> had accused WILDCARD <Person.Artist.Actor>Cosby</Person.Artist.Actor>
+mass WILDCARD <Person.Bad_person.Wrongdoer.Principal.Criminal>murderer</Person.Bad_person.Wrongdoer.Principal.Criminal> WILDCARD <Person>Charles Manson</Person>
+WILDCARD <Person>Charles Manson</Person> has gotten a license to marry a WILDCARD <Digit>26</Digit> WILDCARD <Person.Adult>woman</Person.Adult>
+WILDCARD <Organization.Newsagency>AP</Organization.Newsagency> reports
+marriage license obtained WILDCARD <Weekday>Monday</Weekday> by The WILDCARD <Organization.Newsagency>Associated Press</Organization.Newsagency> was issued WILDCARD <Month>Nov</Month> WILDCARD <Day>7</Day> for the WILDCARD <Digit>80</Digit> WILDCARD <Person>Manson</Person> and WILDCARD <Person>Afton Elaine Burton</Person>
+marriage license obtained WILDCARD <Weekday>Monday</Weekday> by The WILDCARD <Organization.Newsagency>Associated Press</Organization.Newsagency>
+WILDCARD <Digit>80</Digit> WILDCARD <Person>Manson</Person>
+WILDCARD <Person>Afton Elaine Burton</Person> , who left her WILDCARD <Location>Midwestern</Location> WILDCARD <Location.Point.Geographic_point.Address.Residence>home</Location.Point.Geographic_point.Address.Residence> WILDCARD <Digit>nine</Digit> years ago
+WILDCARD <Location>Corcoran</Location> , WILDCARD <Location.Usstate>California</Location.Usstate>
+WILDCARD <Structure.Establishment.Institution.Penal_institution.Correctional_institution>prison</Structure.Establishment.Institution.Penal_institution.Correctional_institution> to be near WILDCARD <Location>Manson</Location>
+WILDCARD <Person>Burton</Person> gave an WILDCARD <Event.Act.Speech_act.Request.Questioning.Interrogation>interview</Event.Act.Speech_act.Request.Questioning.Interrogation> a year ago to WILDCARD <Organization.Company>Rolling Stone</Organization.Company> WILDCARD <Artifact.Instrumentality.Medium.Print_media.Press>magazine</Artifact.Instrumentality.Medium.Print_media.Press>
+WILDCARD <Organization.Company>Rolling Stone</Organization.Company> WILDCARD <Artifact.Instrumentality.Medium.Print_media.Press>magazine</Artifact.Instrumentality.Medium.Print_media.Press>
+WILDCARD <Location.City>New Orleans</Location.City> 's WILDCARD <Organization>Marigny Opera House</Organization>
+WILDCARD <Organization>NOLA</Organization> 's WILDCARD <Location>Treme</Location> WILDCARD <Location.Region.Area.Section>neighborhood</Location.Region.Area.Section>
+WILDCARD <Person.Perceiver.Spectator>onlooker</Person.Perceiver.Spectator> WILDCARD <Person>Taray Roberts</Person>
+WILDCARD <Person>Taray Roberts</Person> , WILDCARD <Digit>23</Digit> ,
+WILDCARD <Person>Solange</Person> and WILDCARD <Person>Alan</Person> danced
+WILDCARD <Person.Relative.Kinswoman.Female_sibling>Sister</Person.Relative.Kinswoman.Female_sibling> WILDCARD <Person>Beyonce</Person>
+WILDCARD <Person.Relative.Ancestor.Progenitor.Genitor.Parent.Mother>mom</Person.Relative.Ancestor.Progenitor.Genitor.Parent.Mother> WILDCARD <Person>Tina</Person>
+WILDCARD <Person.Relative.In-law>brother-in-law</Person.Relative.In-law> WILDCARD <Person.Artist.Singer>Jay Z</Person.Artist.Singer>
+WILDCARD <Person>Knowles</Person> WILDCARD <Person.Relative.Offspring.Child.Male_offspring>son</Person.Relative.Offspring.Child.Male_offspring> , WILDCARD <Person>Daniel Julez</Person>
+WILDCARD <Person>Daniel Julez</Person> , WILDCARD <Digit>10</Digit> ,
+WILDCARD <Person>Solange</Person> and her WILDCARD <Person.Domestic_partner.Spouse>husband</Person.Domestic_partner.Spouse>
+WILDCARD <Event.Act.Activity.Diversion.Entertainment>show</Event.Act.Activity.Diversion.Entertainment> , WILDCARD <Person>James Corden</Person>
+WILDCARD <Person>James Corden</Person> is paying a WILDCARD <Event.Act.Group_action.Assembly.Meeting>visit</Event.Act.Group_action.Assembly.Meeting> to WILDCARD <Person.Artist.Tvhost>David Letterman</Person.Artist.Tvhost>
+WILDCARD <Organization.Newsagency>AP</Organization.Newsagency> reports
+WILDCARD <Person>Corden</Person> is replacing WILDCARD <Person>Craig Ferguson</Person>
+WILDCARD <Person>Craig Ferguson</Person> next year on The Late Late WILDCARD <Event.Act.Activity.Diversion.Entertainment>Show</Event.Act.Activity.Diversion.Entertainment>
+The Late Late WILDCARD <Event.Act.Activity.Diversion.Entertainment>Show</Event.Act.Activity.Diversion.Entertainment> , the WILDCARD <Organization.Newsagency>CBS</Organization.Newsagency> late-night program
+WILDCARD <Organization.Newsagency>CBS</Organization.Newsagency> late-night program
+follows WILDCARD <Person.Artist.Tvhost>Letterman</Person.Artist.Tvhost> on the schedule
+WILDCARD <Person>Corden</Person> makes his WILDCARD <Event.Act.Action.Change.Change_of_state.Beginning>debut</Event.Act.Action.Change.Change_of_state.Beginning> WILDCARD <Month>March</Month> WILDCARD <Day>9</Day>
+WILDCARD <Person>Corden</Person> makes his WILDCARD <Event.Act.Action.Change.Change_of_state.Beginning>debut</Event.Act.Action.Change.Change_of_state.Beginning>
+WILDCARD <Person>Corden</Person> 's first appearance on WILDCARD <Person.Artist.Tvhost>Letterman</Person.Artist.Tvhost> 's WILDCARD <Event.Act.Activity.Diversion.Entertainment>show</Event.Act.Activity.Diversion.Entertainment>
+appearance on WILDCARD <Person.Artist.Tvhost>Letterman</Person.Artist.Tvhost> 's WILDCARD <Event.Act.Activity.Diversion.Entertainment>show</Event.Act.Activity.Diversion.Entertainment>
+WILDCARD <Artifact.Instrumentality.Medium.Telecommunication.Broadcasting>Television</Artifact.Instrumentality.Medium.Telecommunication.Broadcasting> WILDCARD <Person.Creator.Maker>producer</Person.Creator.Maker> WILDCARD <Person>Norman Lear</Person>
+WILDCARD <Person.Artist.Tvhost>Letterman</Person.Artist.Tvhost> on WILDCARD <Weekday>Friday</Weekday>
+WILDCARD <Person>Alexandra Shipp</Person> in the title WILDCARD <Event.Act.Activity.Work.Duty>role</Event.Act.Activity.Work.Duty>
+more than WILDCARD <Digit>3</Digit> WILDCARD <Digitunit>million</Digitunit> viewers on WILDCARD <Weekday>Saturday</Weekday> night
+WILDCARD <Person>Aaliyah</Person> WILDCARD <Event.Happening.Contact>flick</Event.Happening.Contact> had WILDCARD <Digit>3.2</Digit> WILDCARD <Digitunit>million</Digitunit> viewers
+featured WILDCARD <Person>Elise Neal</Person> as WILDCARD <Person>Gladys Knight</Person>
+WILDCARD <Person>Elise Neal</Person> as WILDCARD <Person>Gladys Knight</Person>
+WILDCARD <Person>Cle Bennett</Person> as R WILDCARD <Person>Kelly</Person>
+WILDCARD <Person>Chattrisse Dolabaille</Person> as WILDCARD <Person>Missy Elliott</Person>
+WILDCARD <Person.Leader.Head.Administrator>executive</Person.Leader.Head.Administrator> WILDCARD <Person.Creator.Maker>producer</Person.Creator.Maker> WILDCARD <Person>Wendy Williams</Person>
+relationship portrayed between WILDCARD <Person>R Kelly</Person> and WILDCARD <Person>Aaliyah</Person>
+WILDCARD <Person>Timbaland</Person> took to WILDCARD <Artifact.Instrumentality>media</Artifact.Instrumentality>
+WILDCARD <Person.Creator.Maker>Producer</Person.Creator.Maker> WILDCARD <Person>Williams</Person> seemed pleased with the WILDCARD <Artifact.Creation.Product>movie</Artifact.Creation.Product>
+WILDCARD <Person.Creator.Maker>Producer</Person.Creator.Maker> WILDCARD <Person>Williams</Person>
+WILDCARD <Person>Aaliyah</Person> WILDCARD <Artifact.Creation.Product>movie</Artifact.Creation.Product> broke the WILDCARD <Artifact.Instrumentality.System.Network.Computer_network>Internet</Artifact.Instrumentality.System.Network.Computer_network>
+WILDCARD <Person>Errbody</Person> got an opinion
+WILDCARD <Digit>36</Digit> WILDCARD <Event.Act.Activity>effort</Event.Act.Activity> to save the life of Dr WILDCARD <Person>Martin Salia</Person>
+Dr WILDCARD <Person>Martin Salia</Person>
+WILDCARD <Person>Martin Salia</Person> at the WILDCARD <Organization>Nebraska Medical Center</Organization>
+WILDCARD <Person>ZMapp</Person> , WILDCARD <Structure.Building.Medical_building>hospital</Structure.Building.Medical_building> WILDCARD <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker> disclosed WILDCARD <Weekday>Monday</Weekday>
+WILDCARD <Person>ZMapp</Person> , WILDCARD <Structure.Building.Medical_building>hospital</Structure.Building.Medical_building> WILDCARD <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker>
+treating WILDCARD <Person.Case>patients</Person.Case> in WILDCARD <Location.Country>Sierra Leone</Location.Country>
+arrived in WILDCARD <Location.City>Omaha</Location.City> on WILDCARD <Weekday>Saturday</Weekday>
+WILDCARD <Person>Salia</Person> succumbed to the disease at WILDCARD <Digit>4</Digit> am WILDCARD <Weekday>Monday</Weekday>
+WILDCARD <Person>Salia</Person> succumbed to the disease
+WILDCARD <Person>ZMapp</Person> was one of WILDCARD <Digit>two</Digit> unproven WILDCARD <Event.Act.Activity.Work.Care>treatments</Event.Act.Activity.Work.Care> WILDCARD <Person>workers</Person>
+reverse the WILDCARD <Event.Act.Activity.Education>course</Event.Act.Activity.Education> of WILDCARD <Person>Salia</Person> 's illness
+WILDCARD <Person>Salia</Person> 's illness
+Dr WILDCARD <Person>Daniel Johnson</Person> , the WILDCARD <Structure.Building.Medical_building>hospital</Structure.Building.Medical_building> 's WILDCARD <Event.Act.Activity.Work>care</Event.Act.Activity.Work> WILDCARD <Person.Leader.Head.Administrator>director</Person.Leader.Head.Administrator>
+Dr WILDCARD <Person>Daniel Johnson</Person>
+WILDCARD <Person>Salia</Person> began constant kidney WILDCARD <Event.Act.Activity.Work.Investigation.Analysis.Chemical_analysis>dialysis</Event.Act.Activity.Work.Investigation.Analysis.Chemical_analysis>
+WILDCARD <Person>Johnson</Person> told WILDCARD <Person.Communicator>reporters</Person.Communicator>
+WILDCARD <Person>Salia</Person> was being flown there for WILDCARD <Event.Act.Activity.Work.Care>treatment</Event.Act.Activity.Work.Care>
+Dr WILDCARD <Person>Christopher Kratochvil</Person>
+Dr WILDCARD <Person>Christopher Kratochvil</Person> , vice WILDCARD <Person.Leader.Head.Administrator.Executive.Minister.Cabinet_minister>chancellor</Person.Leader.Head.Administrator.Executive.Minister.Cabinet_minister> for WILDCARD <Event.Act.Activity.Work.Investigation>research</Event.Act.Activity.Work.Investigation>
+vice WILDCARD <Person.Leader.Head.Administrator.Executive.Minister.Cabinet_minister>chancellor</Person.Leader.Head.Administrator.Executive.Minister.Cabinet_minister> for WILDCARD <Event.Act.Activity.Work.Investigation>research</Event.Act.Activity.Work.Investigation> at the WILDCARD <Organization.Institute>University of Nebraska Medical Center</Organization.Institute>
+WILDCARD <Organization.Company>Mapp Biopharmaceutical Inc</Organization.Company> in WILDCARD <Location.City>San Diego</Location.City>
+WILDCARD <Organization.Government>US Department of Health and Human Services Biomedical Advanced Research and Development Authority</Organization.Government> to initiate WILDCARD <Event.Act.Activity>efforts</Event.Act.Activity>
+WILDCARD <Organization>BARDA</Organization> WILDCARD <Person.Leader.Head.Administrator>Director</Person.Leader.Head.Administrator> WILDCARD <Person>Robin Robinson</Person>
+WILDCARD <Person>Robin Robinson</Person> said in an WILDCARD <Event.Act.Communication.Transmission.Electronic_communication>email</Event.Act.Communication.Transmission.Electronic_communication> WILDCARD <Weekday>Monday</Weekday>
+WILDCARD <Organization>Kentucky BioProcessing</Organization> to produce additional doses
+WILDCARD <Person.Worker.Skilled_worker>Officials</Person.Worker.Skilled_worker> at WILDCARD <Organization>Mapp Biopharmaceutical</Organization> and WILDCARD <Organization>Kentucky BioProcessing</Organization>
+WILDCARD <Event.Act.Speech_act.Request.Questioning>questions</Event.Act.Speech_act.Request.Questioning> from WILDCARD <Organization.Newsagency>The Times</Organization.Newsagency> on WILDCARD <Weekday>Monday</Weekday>
+WILDCARD <Event.Act.Speech_act.Request.Questioning>questions</Event.Act.Speech_act.Request.Questioning> from WILDCARD <Organization.Newsagency>The Times</Organization.Newsagency>
+WILDCARD <Person>Erica Ollmann Saphire</Person> , a WILDCARD <Person.Scientist>researcher</Person.Scientist> at the WILDCARD <Organization.Institute>Scripps Research Institute</Organization.Institute>
+WILDCARD <Organization.Institute>Scripps Research Institute</Organization.Institute> in WILDCARD <Location.City>La Jolla</Location.City>
+paper published WILDCARD <Weekday>Monday</Weekday> in the journal WILDCARD <Organization>PNAS</Organization>
+WILDCARD <Organization.Sportsteam>Houston Rockets</Organization.Sportsteam> WILDCARD <Event.Act.Judgment.Evaluation>Scoring</Event.Act.Judgment.Evaluation> WILDCARD <Person.Preserver.Defender>Guard</Person.Preserver.Defender> WILDCARD <Person.Athlete.Basketballplayer>James Harden</Person.Athlete.Basketballplayer>
+WILDCARD <Organization.Sportsteam>Houston Rockets</Organization.Sportsteam> WILDCARD <Location.Region.Area>Center</Location.Region.Area> WILDCARD <Person.Athlete.Basketballplayer>Dwight Howard</Person.Athlete.Basketballplayer>
+WILDCARD <Organization.Sportsteam>Boston Celtics</Organization.Sportsteam> Power WILDCARD <Person.Contestant.Athlete.Basketball_player>Forward</Person.Contestant.Athlete.Basketball_player> WILDCARD <Person.Athlete.Basketballplayer>Kevin Garnett</Person.Athlete.Basketballplayer>
+WILDCARD <Organization.Sportsteam>Houston Rockets</Organization.Sportsteam> scoring WILDCARD <Person.Preserver.Defender>guard</Person.Preserver.Defender> WILDCARD <Person.Athlete.Basketballplayer>James Harden</Person.Athlete.Basketballplayer>
+WILDCARD <Organization.Sportsteam>Houston Rockets</Organization.Sportsteam> WILDCARD <Location.Region.Area>center</Location.Region.Area> WILDCARD <Person.Athlete.Basketballplayer>Dwight Howard</Person.Athlete.Basketballplayer>
+WILDCARD <Organization.Sportsteam>Boston Celtics</Organization.Sportsteam> power forward WILDCARD <Person.Athlete.Basketballplayer>Kevin Garnett</Person.Athlete.Basketballplayer>

@@ -1,0 +1,503 @@
+<Event.Law>Referendum</Event.Law> Law provisions
+<Phenomenon.Natural_phenomenon.Physical_phenomenon>transparency</Phenomenon.Natural_phenomenon.Physical_phenomenon> of the <Location.Country>Singapore</Location.Country> property <Event.Act.Activity>market</Event.Act.Activity>
+<Location.City>Taiwan</Location.City> businessmen investing in the mainland
+<Location.City>Taiwan</Location.City> <Organization.Enterprise>business</Organization.Enterprise> leaders
+<Event.Act.Activity.Work.Labor.Effort>difficulty</Event.Act.Activity.Work.Labor.Effort> <Location.City>Taiwan</Location.City> businessmen face
+<Location.City>Taiwan</Location.City> businessmen face in <Location.Province>Fujian Province</Location.Province>
+typhoon-day notice on the <Organization>Central Personnel Administration</Organization>
+<Organization.Government>Research Department</Organization.Government> under the <Organization.Politicalparty>Kuomintang</Organization.Politicalparty>
+played down <Person.Politician.Vicepresident>Tang</Person.Politician.Vicepresident> 's statement
+<Person.Advocate.Spokesperson>spokesman</Person.Advocate.Spokesperson> <Person.Politician.Spokesperson>Hsieh Kung-ping</Person.Politician.Spokesperson>
+no <Event.Act.Group_action.Military_action>war</Event.Act.Group_action.Military_action> , no <Location.City>Taiwan</Location.City> independence
+maintaining the status quo of the <Location.Country>Republic of China</Location.Country>
+<Location.City>Taipei City</Location.City> councilor said on <Weekday>Monday</Weekday>
+teenage <Person.Relative.Ancestor.Progenitor.Genitor.Parent>mothers</Person.Relative.Ancestor.Progenitor.Genitor.Parent> give birth to some <Digit>15,000</Digit> <Person.Relative.Offspring.Child>babies</Person.Relative.Offspring.Child> in <Location.City>Taiwan</Location.City> each year
+<Location.City>Taipei City</Location.City> athletes performed particularly well in swimming
+Green <Organization.Institution.Educational_institution.School>Tech</Organization.Institution.Educational_institution.School> <Organization.Company>Pavilion</Organization.Company>
+<Location.City>Taiwan</Location.City> and <Location.Ethnicity>Japanese</Location.Ethnicity> <Artifact.Instrumentality.Device.Instrument.Weapon.Projectile>bullet</Artifact.Instrumentality.Device.Instrument.Weapon.Projectile> <Artifact.Instrumentality.Conveyance.Public_transport>train</Artifact.Instrumentality.Conveyance.Public_transport> <Event.Act.Activity.Work>project</Event.Act.Activity.Work>
+<Artifact.Instrumentality.Device.Instrument.Weapon.Projectile>bullet</Artifact.Instrumentality.Device.Instrument.Weapon.Projectile> <Artifact.Instrumentality.Conveyance.Public_transport>train</Artifact.Instrumentality.Conveyance.Public_transport> <Event.Act.Activity.Work>project</Event.Act.Activity.Work> to link <Location.City>Taiwan</Location.City> 's two biggest <Location.Region.District.Administrative_district.Municipality>cities</Location.Region.District.Administrative_district.Municipality>
+<Location.Ethnicity>Chinese</Location.Ethnicity> <Organization.Unit.Military_unit.Army_unit.Detachment>patrol</Organization.Unit.Military_unit.Army_unit.Detachment> <Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel>boat</Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel>
+<Location.City>Taiwan</Location.City> <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker>
+<Person.Politician.President>Wu</Person.Politician.President> and his group <Person.Peer.Associate>members</Person.Peer.Associate>
+<Location.City>Taiwan</Location.City> 's donation of US $ <Digit>200,000</Digit>
+<Location.Province>Altai Krai</Location.Province> <Location.Region>territory</Location.Region>
+bordering <Location.Country>Russia</Location.Country> , <Location.Country>Mongolia</Location.Country> , <Location.Country>China</Location.Country> and <Location.Country>Kazakhstan</Location.Country>
+<Person.Worker.Skilled_worker>Officials</Person.Worker.Skilled_worker> from the <Organization>Ministry of Economic Affairs</Organization>
+commitment to invest in <Location.City>Taiwan</Location.City>
+<Event.Act.Group_action.Social_control.Duty>prerequisite</Event.Act.Group_action.Social_control.Duty> of the <Location.Country>China</Location.Country> <Event.Act.Activity.Work>project</Event.Act.Activity.Work>
+<Year>1990</Year> , <Location.City>Taiwan</Location.City> astonished the world
+<Person.Politician.President>Chen</Person.Politician.President> 's scheduled <Event.Act>departure</Event.Act>
+<Person.Politician>Ker Chien-ming</Person.Politician> , head of the <Event.Act.Action>opposition</Event.Act.Action> <Organization.Politicalparty>Democratic Progressive Party</Organization.Politicalparty> 's policy <Organization.Unit.Administrative_unit>committee</Organization.Unit.Administrative_unit>
+<Location.City>Taiwan</Location.City> could also expect very cold <Phenomenon.Natural_phenomenon.Physical_phenomenon.Atmospheric_phenomenon>weather</Phenomenon.Natural_phenomenon.Physical_phenomenon.Atmospheric_phenomenon>
+<Location.City>Taiwan</Location.City> 's sustainable economic growth
+<Location.Ethnicity>Taiwanese</Location.Ethnicity> ring <Person.Peer.Associate>members</Person.Peer.Associate>
+illegal <Location.Ethnicity>Vietnamese</Location.Ethnicity> <Person.Traveler.Migrant>immigrants</Person.Traveler.Migrant>
+<Location.Province>Fujian</Location.Province> <Person.Worker.Skilled_worker.Official>Provincial</Person.Worker.Skilled_worker.Official> <Person.Leader.Politician>Governor</Person.Leader.Politician> <Person.Politician.Governor>Huang Xiaojing</Person.Politician.Governor>
+ground <Event.Act.Activity.Sensory_activity.Sensing.Look.Observation>monitoring</Event.Act.Activity.Sensory_activity.Sensing.Look.Observation> <Event.Act.Activity.Worship.Prayer.Devotion>stations</Event.Act.Activity.Worship.Prayer.Devotion> in <Location.City>Panchiao</Location.City> , <Location.City>Taichung</Location.City> , <Location.City>Kaohsiung</Location.City>
+director-general of the <Organization.Company>Civil Aeronautics Administration</Organization.Company> ( <Organization>CAA</Organization> )
+<Organization.Unit>team</Organization.Unit> of <Location.Ethnicity>Taiwanese</Location.Ethnicity> <Person.Communicator>negotiators</Person.Communicator>
+<Location.Ethnicity>French</Location.Ethnicity> music circle
+<Location.City>Taiwan</Location.City> <Event.Act.Activity.Diversion.Sport.Outdoor_sport>fishing</Event.Act.Activity.Diversion.Sport.Outdoor_sport> <Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel>boats</Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel>
+fly <Location.Country>PRC</Location.Country> <Artifact.Decoration.Design.Emblem>flag</Artifact.Decoration.Design.Emblem>
+evade the <Location.Ethnicity>Japanese</Location.Ethnicity> <Organization.Unit.Military_unit.Army_unit.Detachment>patrol</Organization.Unit.Military_unit.Army_unit.Detachment> <Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel>boats</Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel> ' <Event.Act.Hindrance.Prevention.Suppression>crackdown</Event.Act.Hindrance.Prevention.Suppression>
+protect the <Location.City>Taiwan</Location.City> <Event.Act.Activity.Diversion.Sport.Outdoor_sport>fishing</Event.Act.Activity.Diversion.Sport.Outdoor_sport> <Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel>boats</Artifact.Instrumentality.Conveyance.Vehicle.Craft.Vessel>
+hit by a <Location.City>Taiwan</Location.City> <Artifact.Instrumentality.Conveyance.Vehicle.Military_vehicle>warship</Artifact.Instrumentality.Conveyance.Vehicle.Military_vehicle> in heavy <Phenomenon.Natural_phenomenon.Physical_phenomenon.Cloud.Aerosol>fog</Phenomenon.Natural_phenomenon.Physical_phenomenon.Cloud.Aerosol> on <Weekday>Sunday</Weekday>
+<Person.Leader>lawmakers</Person.Leader> from the <Event.Act.Action>opposition</Event.Act.Action> <Organization.Politicalparty>Kuomintang</Organization.Politicalparty>
+<Person.Leader.Head.Administrator.Executive.Corporate_executive>President</Person.Leader.Head.Administrator.Executive.Corporate_executive> <Person.Politician.President>Chen Shui-bian</Person.Politician.President> to postpone his forthcoming <Event.Act.Action.Change.Motion.Travel.Journey>trip</Event.Act.Action.Change.Motion.Travel.Journey>
+<Location.City>Taiwan</Location.City> 's civilian leaders
+<Person.Leader>lawmaker</Person.Leader> of the <Event.Act.Action>opposition</Event.Act.Action> <Organization.Politicalparty>New Party</Organization.Politicalparty>
+<Location.Country>China</Location.Country> 's top <Person.Communicator>negotiator</Person.Communicator>
+<Person.Politician.Vicepresident>Gore</Person.Politician.Vicepresident> 's plan to visit <Location.City>Taiwan</Location.City>
+<Location.County>Tainan County</Location.County> , southern <Location.City>Taiwan</Location.City>
+<Person.Adult.Professional.Educator>academics</Person.Adult.Professional.Educator> from <Location.City>Taiwan</Location.City> and <Location.Country>South Korea</Location.Country>
+<Organization>KHB</Organization> <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker>
+<Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker> of the <Organization>Strait Exchange Foundation</Organization>
+considered themselves as both <Location.Ethnicity>Taiwanese</Location.Ethnicity> and <Location.Ethnicity>Chinese</Location.Ethnicity>
+high-ranking <Location.Ethnicity>Chinese</Location.Ethnicity> <Person.Worker.Skilled_worker>official</Person.Worker.Skilled_worker>
+planned <Event.Act.Group_action.Assembly.Meeting>visit</Event.Act.Group_action.Assembly.Meeting> of a high-ranking <Location.Ethnicity>Chinese</Location.Ethnicity> <Person.Worker.Skilled_worker>official</Person.Worker.Skilled_worker> to <Location.City>Taiwan</Location.City>
+<Event.Act.Group_action.Assembly.Meeting>visit</Event.Act.Group_action.Assembly.Meeting> by the <Event.Act.Action>opposition</Event.Act.Action> <Organization.Politicalparty>Democratic Progressive Party</Organization.Politicalparty>
+extort <Organization.Nongovernmental_organization>NT</Organization.Nongovernmental_organization> $ <Digit>168.8</Digit> million ( US $ <Digit>5.21</Digit> million ) from <Organization.Company>Taipei Fubon Bank</Organization.Company>
+<Person.Politician.Mayor>Yeh</Person.Politician.Mayor> delivered a <Event.Act.Speech_act>speech</Event.Act.Speech_act> at the <Organization>APEC</Organization> meeting
+<Location.City>Taiwan</Location.City> 's rich natural beauty
+<Organization>APEC</Organization> <Person.Peer.Associate>colleagues</Person.Peer.Associate>
+<Location.City>Zhoushan</Location.City> island group off <Location.Country>China</Location.Country> 's southeastern coast
+<Location.Country>India</Location.Country> , with its <Digit>4,000</Digit> years of history
+<Location.Country>Brazil</Location.Country> , <Location.Country>Russia</Location.Country> and <Location.Country>China</Location.Country> , known collectively as the <Organization>BRIC</Organization>
+news <Organization.Unit.Administrative_unit>agencies</Organization.Unit.Administrative_unit> in <Location.City>Taiwan</Location.City> and <Location.Country>India</Location.Country>
+<Organization>CAA</Organization> <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker>
+positive <Phenomenon.Consequence>response</Phenomenon.Consequence> from <Location.City>Beijing</Location.City> on <Weekday>Tuesday</Weekday>
+<Location.Country>Republic of China</Location.Country> <Person.Communicator.Negotiator.Representative.Head_of_state>Premier</Person.Communicator.Negotiator.Representative.Head_of_state> <Person.Politician.Vicepresident>Vincent Siew</Person.Politician.Vicepresident>
+<Person.Advocate.Spokesperson>spokesman</Person.Advocate.Spokesperson> for mainland <Location.Country>China</Location.Country> 's <Organization>Taiwan Affairs Office</Organization> under the <Organization.Government>State Council</Organization.Government>
+<Location.Country>Singapore</Location.Country> in <Month>April</Month> <Year>1993</Year>
+<Location.Country>India</Location.Country> 's high <Person.Leader.Head.Administrator>commissioner</Person.Leader.Head.Administrator> to <Location.Country>Canada</Location.Country>
+<Location.Country>China</Location.Country> has no intention to treat <Location.City>Taiwan</Location.City> well
+operating <Event.Act.Activity.Work.Labor.Effort>difficulties</Event.Act.Activity.Work.Labor.Effort> for <Location.City>Taiwan</Location.City> <Organization.Enterprise>businesses</Organization.Enterprise>
+<Person.Politician.Minister>Yen</Person.Politician.Minister> also criticized <Location.City>Beijing</Location.City>
+<Organization.Company>ITRI</Organization.Company> 's microalgal biofuel <Event.Act>production</Event.Act> <Event.Act.Activity.Use.Application>technology</Event.Act.Activity.Use.Application> <Event.Act.Action.Change.Change_of_state.Improvement>development</Event.Act.Action.Change.Change_of_state.Improvement>
+<Location.City>Taiwan</Location.City> 's normal <Event.Act.Action.Change.Change_of_state.Improvement>development</Event.Act.Action.Change.Change_of_state.Improvement>
+membership of the <Organization>United Nations</Organization>
+<Location.City>Taiwan</Location.City> 's agricultural and <Location.Point.Geographic_point.Workplace>fishery</Location.Point.Geographic_point.Workplace> <Artifact.Commodity>products</Artifact.Commodity>
+<Location.Ethnicity>Chinese</Location.Ethnicity> <Organization.Polity>authorities</Organization.Polity>
+legal problems in <Location.Country>China</Location.Country>
+legal <Event.Act.Activity>assistance</Event.Act.Activity> from <Location.City>Taiwan</Location.City>
+<Location.Country>Communist China</Location.Country> 's military <Event.Act.Group_action.Transaction.Commerce.Payment>spending</Event.Act.Group_action.Transaction.Commerce.Payment> is somewhere between US $ <Digit>35</Digit> billion and US $ <Digit>55</Digit> billion
+<Organization>European Organization for Nuclear Research</Organization> ( <Organization>CERN</Organization> )
+<Digit>15</Digit> <Organization.Unit.Political_unit>countries</Organization.Unit.Political_unit> have participated in the <Organization.Company>AMS</Organization.Company> <Event.Act.Activity.Work.Investigation.Research.Scientific_research>experiment</Event.Act.Activity.Work.Investigation.Research.Scientific_research>
+<Location.Ethnicity>American</Location.Ethnicity> Nobel <Person.Acquirer.Recipient.Honoree>laureate</Person.Acquirer.Recipient.Honoree> <Person>Sam Ting</Person>
+<Person.Politician.President>Ma</Person.Politician.President> 's special municipal <Event.Act.Group_action.Transaction.Commerce.Payment>spending</Event.Act.Group_action.Transaction.Commerce.Payment>
+pandas <Location.Country>China</Location.Country> offered to <Location.City>Taiwan</Location.City>
+<Location.Country>Indonesia</Location.Country> was the hardest-hit <Organization.Unit.Political_unit>nation</Organization.Unit.Political_unit> in the <Month>Dec</Month> <Day>26</Day> magnitude <Digit>9</Digit> <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
+magnitude <Digit>9</Digit> <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> offshore its western <Location.Region.District.Administrative_district.Municipality>city</Location.Region.District.Administrative_district.Municipality> of <Location.City>Banda Aceh</Location.City>
+<Person.Politician.Mayor>Chen</Person.Politician.Mayor> 's <Event.Act.Group_action.Vote>election</Event.Act.Group_action.Vote> <Event.Happening.Ending>victory</Event.Happening.Ending>
+rule-breaking <Location.Ethnicity>Chinese</Location.Ethnicity> <Person.Traveler>visitors</Person.Traveler>
+<Location.City>Taiwan</Location.City> 's foreign <Event.Act.Group_action.Transaction.Commerce>trade</Event.Act.Group_action.Transaction.Commerce>
+<Location.Country>United States</Location.Country> is playing the <Event.Act.Activity.Work.Duty>role</Event.Act.Activity.Work.Duty> of <Person.Communicator.Negotiator.Mediator>peacemaker</Person.Communicator.Negotiator.Mediator>
+two <Location.Region>sides</Location.Region> of the <Location>Taiwan Strait</Location>
+<Organization.Government>Defense Department</Organization.Government> <Person.Advocate.Spokesperson>Spokesman</Person.Advocate.Spokesperson> <Person.Politician.Spokesperson>Kenneth Bacon</Person.Politician.Spokesperson>
+<Location.Country>China</Location.Country> 's military <Event.Act.Action.Change.Change_of_magnitude.Increase.Accumulation>buildup</Event.Act.Action.Change.Change_of_magnitude.Increase.Accumulation>
+military <Event.Act.Action.Interaction>contacts</Event.Act.Action.Interaction> between <Location.City>Beijing</Location.City> and <Location.City>Washington</Location.City>
+<Location.Country>China</Location.Country> severed military <Phenomenon.Natural_phenomenon.Chemical_phenomenon>exchanges</Phenomenon.Natural_phenomenon.Chemical_phenomenon>
+<Organization.Government>NATO</Organization.Government> <Artifact.Instrumentality.Conveyance.Vehicle.Craft.Aircraft.Heavier-than-air_craft.Airplane>jet</Artifact.Instrumentality.Conveyance.Vehicle.Craft.Aircraft.Heavier-than-air_craft.Airplane> <Person>fighter</Person>
+accidentally bombed <Location.City>Beijing</Location.City> 's <Structure.Building.Government_building.Diplomatic_building>embassy</Structure.Building.Government_building.Diplomatic_building> in Belgrade
+<Person.Leader.Head.Administrator.Executive.Corporate_executive>President</Person.Leader.Head.Administrator.Executive.Corporate_executive> <Person.Politician.President>Lee Teng-hui</Person.Politician.President>
+Caribbean <Organization.Unit.Political_unit>country</Organization.Unit.Political_unit> of <Location.Country>Haiti</Location.Country>
+<Organization.Institute>Academia Sinica</Organization.Institute> , the <Organization.Unit.Political_unit>country</Organization.Unit.Political_unit> 's top <Event.Act.Activity.Work.Investigation>research</Event.Act.Activity.Work.Investigation> <Organization>institution</Organization>
+<Organization>Financial Supervisory Commission</Organization> <Person.Leader.Presiding_officer>Chairman</Person.Leader.Presiding_officer> <Person.Politician.Minister>Sean Chen</Person.Politician.Minister>
+<Location.City>Taiwan</Location.City> 's foreign currency
+<Organization.Government>Legislative Yuan</Organization.Government> <Person.Communicator.Articulator>Speaker</Person.Communicator.Articulator> <Person.Politician.President>Wang Jin-pyng</Person.Politician.President>
+inter-party negotiations <Month>June</Month> <Day>12</Day>
+<Event.Happening.Change>transformation</Event.Happening.Change> of <Location.City>Tainan</Location.City> 's economy
+<Entity>continued medical treatment</Entity> ( <Digit>22</Digit> % )
+<Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Surgical_procedures,_operative>percutaneous coronary intervention</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Surgical_procedures,_operative> ( PCI ; <Digit>22</Digit> % )
+coronary-artery <Artifact.Way.Road.Highway>bypass</Artifact.Way.Road.Highway> <Event.Act.Action.Change.Change_of_integrity.Combination.Attachment>grafting</Event.Act.Action.Change.Change_of_integrity.Combination.Attachment> ( <Event.Act.Activity.Procedure.Medical_procedure.Operation.Heart_surgery.Open-heart_surgery>CABG</Event.Act.Activity.Procedure.Medical_procedure.Operation.Heart_surgery.Open-heart_surgery> ; <Digit>34</Digit> % )
+investigations such as <Entity>pressure wire</Entity> <Event.Act.Activity.Work.Investigation.Examination>studies</Event.Act.Activity.Work.Investigation.Examination> , <Entity>dobutamine stress echo</Entity> or <Entity>cardiac magnetic resonance imaging</Entity> ( <Digit>22</Digit> % )
+<Entity>cardiac magnetic resonance imaging</Entity> ( <Digit>22</Digit> % )
+<Event.Happening.Change>decrease</Event.Happening.Change> in <Entity>mean heart rate</Entity> , <Entity>ejection fraction</Entity> , and <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>cardiac output</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>
+<Event.Act.Activity.Work.Labor.Effort.Exercise.Leg_exercise>squatting</Event.Act.Activity.Work.Labor.Effort.Exercise.Leg_exercise> and <Entity>dobutamine echocardiography</Entity> are equally useful
+identify potential <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Investigative_entityniques>risk factors</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Investigative_entityniques> for <Event.Act.Action.Arrival.Entrance.Admission>readmission</Event.Act.Action.Arrival.Entrance.Admission>
+mice were subjected to <Entity>transverse aortic constriction</Entity> ( <Entity>TAC</Entity> )
+in-hospital <Entity>cardiac arrest</Entity> ( <Entity>CA</Entity> ) or <Entity>medical emergency</Entity> ( <Entity>ME</Entity> )
+required activation of the <Structure.Building.Medical_building>hospital</Structure.Building.Medical_building> <Event.Happening.Change.Transformation.Improvement.Revival>resuscitation</Event.Happening.Change.Transformation.Improvement.Revival> <Organization.Unit>team</Organization.Unit> between <Day>1</Day> <Month>December</Month> <Year>2009</Year> and <Day>30</Day> <Month>April</Month> <Year>2010</Year>
+<Chemicals_and_drugs.Heterocyclic_compounds>Ezetimibe</Chemicals_and_drugs.Heterocyclic_compounds> ( <Digit>10</Digit> mg ) was added to basal statin <Event.Act.Activity.Work.Care.Treatment.Medical_care>therapy</Event.Act.Activity.Work.Care.Treatment.Medical_care> for <Digit>12</Digit> weeks in <Digit>35</Digit> <Person.Case>patients</Person.Case> with hypercholesterolemia
+Myc induced <Event.Happening.Movement.Change_of_location.Translation>shifts</Event.Happening.Movement.Change_of_location.Translation> in substrate utilization signal and promote <Entity>compensated hypertrophy</Entity>
+wavebreak occurred along the <Entity>anterior right ventricular insertion</Entity> ( <Entity>ARVI</Entity> ) in <Digit>26</Digit> of <Digit>32</Digit> VF <Event.Happening>episodes</Event.Happening>
+mitral valvuloplasty for a <Entity>parachute mitral valve</Entity> with a <Entity>single papillary muscle</Entity> in an elderly <Person.Adult>woman</Person.Adult>
+percentage of preischemic <Entity>systolic pressure</Entity> times <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>cardiac output</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>
+pathophysiology of smoking related <Entity>ischemic heart disease</Entity>
+<Entity>Aortic valve malformation</Entity> ( <Entity>AVM</Entity> ) underlies the majority of <Event.Happening>cases</Event.Happening>
+more powerful independent <Person.Intellectual.Visionary>predictors</Person.Intellectual.Visionary> of clinical <Entity>end points</Entity> than the LV <Entity>ejection fraction</Entity>
+<Entity>Logistic regression</Entity> <Event.Act.Activity.Work.Investigation>analyses</Event.Act.Activity.Work.Investigation> were used to study the potential relationships between CAC and these <Artifact>markers</Artifact>
+significant correlation was detected between N/OFQ and <Entity>white blood cell count</Entity> ( <Entity>WBC</Entity> )
+<Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>platelet count</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis> ( <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>PLT</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis> )
+<Chemicals_and_drugs.Enzymes_and_coenzymes>creatine kinase</Chemicals_and_drugs.Enzymes_and_coenzymes> ( <Chemicals_and_drugs.Enzymes_and_coenzymes>CK</Chemicals_and_drugs.Enzymes_and_coenzymes> )
+<Entity>glutamate oxaloacetate transaminase</Entity> ( <Entity>GOT</Entity> )
+presence of acute <Entity>cardiovascular disease</Entity>
+<Diseases.Cardiovascular_diseases>myocardial infarction</Diseases.Cardiovascular_diseases> ( <Diseases.Cardiovascular_diseases>STEMI</Diseases.Cardiovascular_diseases> )
+<Diseases.Cardiovascular_diseases>atrial fibrillation</Diseases.Cardiovascular_diseases> required AV node <Event.Act.Activity.Procedure.Medical_procedure.Operation>ablation</Event.Act.Activity.Procedure.Medical_procedure.Operation>
+prevented by inhibiting CaMKII with <Digit>2.5</Digit> mumol/L KN <Digit>93</Digit>
+significant burden of <Entity>cardiovascular risk factors</Entity>
+<Entity>Acute myocardial infarction</Entity> was the final <Event.Act.Discovery.Determination.Designation>diagnosis</Event.Act.Discovery.Determination.Designation> in <Digit>17</Digit> % of <Person.Case>patients</Person.Case>
+precision of <Entity>stent placement</Entity>
+<Entity>total cholesterol</Entity> ( <Entity>TC</Entity> )
+Cardiac <Event.Act.Activity.Procedure.Medical_procedure.Operation>catheterization</Event.Act.Activity.Procedure.Medical_procedure.Operation> was performed on <Digit>1,706</Digit> ( <Digit>57</Digit> % )
+in-hospital revascularization on <Digit>1,408</Digit> <Person.Case>patients</Person.Case> ( <Digit>47</Digit> % )
+prevalence of the <Entity>metabolic syndrome</Entity> was <Digit>42.5</Digit> %
+prospective PCI registry at a large <Location.Ethnicity>Canadian</Location.Ethnicity> <Location.Hospital>teaching hospital</Location.Hospital>
+<Chemicals_and_drugs.Hormones,_hormone_substitutes,_and_hormone_antagonists>Calcitonin</Chemicals_and_drugs.Hormones,_hormone_substitutes,_and_hormone_antagonists> gene-related peptide receptor <Person>antagonists</Person>
+<Chemicals_and_drugs.Chemical>telcagepant</Chemicals_and_drugs.Chemical> , may be useful for acute migraine <Event.Act.Activity.Work.Care>treatment</Event.Act.Activity.Work.Care> in <Person.Case>patients</Person.Case> with <Entity>cardiovascular disease</Entity>
+Median SQR was significantly higher in <Entity>Group A</Entity>
+significantly higher in <Entity>Group A</Entity> ( A = <Digit>2.02</Digit> vs B = <Digit>1.08</Digit> vs C = <Digit>0.57</Digit> ; p &lt <Digit>0.001</Digit> )
+<Digit>41,066</Digit> <Person.Peer.Associate>participants</Person.Peer.Associate> , mostly <Digit>30</Digit> - <Digit>65</Digit> years old , and free of <Entity>cardiovascular disease</Entity> at baseline ( <Digit>1992</Digit> - <Digit>1996</Digit> )
+detection of <Entity>significant coronary artery disease</Entity> and a <Entity>negative predictive value</Entity>
+<Entity>Williams-Beuren syndrome</Entity> is a multysistem genetic disorder caused by the <Digit>1.6</Digit> Mb hemizygous deletion
+Independent <Person.Intellectual.Visionary>predictors</Person.Intellectual.Visionary> of <Entity>lumen area</Entity> increase were <Entity>occlusion duration</Entity>
+identifying a <Diseases.Cardiovascular_diseases>coronary artery disease</Diseases.Cardiovascular_diseases> ( <Diseases.Cardiovascular_diseases>CAD</Diseases.Cardiovascular_diseases> ) <Event.Happening>case</Event.Happening> with MPS
+indication for <Entity>surgical repair</Entity> of <Entity>atrial septal defect</Entity>
+<Entity>atrial septal defect</Entity> ( <Entity>ASD</Entity> )
+Core <Diseases.Cardiovascular_diseases>heart failure</Diseases.Cardiovascular_diseases> drug
+<Organisms.Bacteria>Klebsiella</Organisms.Bacteria> or <Organisms.Bacteria>Escherichia</Organisms.Bacteria> species
+<Person.Adult.Professional.Health_professional.Medical_practitioner.Doctor.Specialist>cardiologist</Person.Adult.Professional.Health_professional.Medical_practitioner.Doctor.Specialist> performed <Entity>transthoracic echocardiography</Entity>
+early deterioration in ventricular <Entity>systolic function</Entity> in <Person.Case>patients</Person.Case>
+<Entity>Computed tomographic angiography</Entity> ( <Entity>CTA</Entity> ) and <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>cardiac catheterization</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis> are useful adjuncts to echocardiography
+<Chemicals_and_drugs.Enzymes_and_coenzymes>Creatine kinase</Chemicals_and_drugs.Enzymes_and_coenzymes> ( <Chemicals_and_drugs.Enzymes_and_coenzymes>CK</Chemicals_and_drugs.Enzymes_and_coenzymes> ) was measured in the <Entity>coronary effluent</Entity>
+double-outlet <Entity>right ventricle</Entity> and <Entity>total anomalous pulmonary venous connection</Entity> ( <Entity>TAPVC</Entity> )
+<Entity>left main</Entity> <Anatomy.Cardiovascular_system>pulmonary artery</Anatomy.Cardiovascular_system> ( <Anatomy.Cardiovascular_system>PA</Anatomy.Cardiovascular_system> ) stenosis
+<Diseases.Cardiovascular_diseases>heart failure</Diseases.Cardiovascular_diseases> caused by increased <Entity>pulmonary blood flow</Entity>
+clinical <Event.Happening.Ending>outcomes</Event.Happening.Ending> of <Person.Case>patients</Person.Case> attending for <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Therapeutics>cardiac resynchronization therapy</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Therapeutics> ( <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Therapeutics>CRT</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Therapeutics> )
+whether <Artifact.Instrumentality.Device.Electronic_device.Tube.Gas-discharge_tube>CRT</Artifact.Instrumentality.Device.Electronic_device.Tube.Gas-discharge_tube> has an <Phenomenon>effect</Phenomenon> on <Entity>depressive symptoms</Entity>
+subsidizing the infarcted heart with boluses of <Entity>autologous stem cells</Entity> from the <Anatomy.Hemic_and_immune_systems>bone marrow</Anatomy.Hemic_and_immune_systems>
+<Event.Act.Activity>use</Event.Act.Activity> of CMR obviates the potential risks of <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>cardiac catheterization</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>
+advantage of <Entity>therapeutic hypothermia</Entity> in <Person>adult</Person> <Entity>cardiac arrest</Entity>
+previous <Event.Act.Activity.Work.Investigation.Examination>studies</Event.Act.Activity.Work.Investigation.Examination> treated with <Entity>conventional therapy</Entity>
+Cardiac <Event.Act.Activity.Procedure.Medical_procedure.Operation>catheterization</Event.Act.Activity.Procedure.Medical_procedure.Operation> was used as the <Entity>standard of reference</Entity>
+<Entity>cardiac rehabilitation</Entity> may improve physical well-being
+levels of <Entity>physical activity</Entity>
+levels of <Phenomena_and_processes.Musculoskeletal_and_neural_physiological_phenomena>physical fitness</Phenomena_and_processes.Musculoskeletal_and_neural_physiological_phenomena>
+<Entity>exercise capacity</Entity> in <Person.Case>patients</Person.Case> with <Diseases.Cardiovascular_diseases>heart failure</Diseases.Cardiovascular_diseases> following <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Therapeutics>cardiac resynchronization therapy</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Therapeutics>
+<Entity>left ventricular dysfunction</Entity> and <Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis>glomerular filtration rate</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Diagnosis> were independently associated
+specific features of <Entity>heart rhythm disturbances</Entity>
+outpatient <Event.Act.Action.Change.Change_of_state.Improvement.Repair.Restoration>rehabilitation</Event.Act.Action.Change.Change_of_state.Improvement.Repair.Restoration> of <Digit>432</Digit> <Person.Case>patients</Person.Case> after <Entity>first myocardial infarction</Entity>
+<Person>inhabitants</Person> of <Location.City>Novosibirsk</Location.City> ( <Digit>129</Digit> <Organization.Force>men</Organization.Force> and <Digit>170</Digit> <Person.Adult>women</Person.Adult> )
+with <Digit>24</Digit> % having <Diseases.Nutritional_and_metabolic_diseases>diabetes mellitus</Diseases.Nutritional_and_metabolic_diseases>
+<Digit>70</Digit> -year-old diabetic <Person.Adult>man</Person.Adult> with a two-month earlier history of successful <Entity>stent implantation</Entity> on the proximal <Entity>right coronary artery</Entity>
+<Entity>total occlusion</Entity> was admitted to our <Organization>institution</Organization> with symptoms of <Entity>congestive heart failure</Entity>
+progression of atherosclerosis and <Entity>cardiovascular disease</Entity>
+aggressive <Diseases.Cardiovascular_diseases>heart failure</Diseases.Cardiovascular_diseases> <Event.Act.Activity.Work>care</Event.Act.Activity.Work>
+progression of <Diseases.Cardiovascular_diseases>heart failure</Diseases.Cardiovascular_diseases> ( <Diseases.Cardiovascular_diseases>HF</Diseases.Cardiovascular_diseases> )
+<Anatomy.Hemic_and_immune_systems>bone marrow</Anatomy.Hemic_and_immune_systems> <Event.Act.Action.Change.Change_of_state.Arousal>stimulation</Event.Act.Action.Change.Change_of_state.Arousal>
+<Entity>digital subtraction angiography</Entity> <Event.Act.Activity>measurements</Event.Act.Activity>
+<Entity>detection rate</Entity> reached <Digit>99.62</Digit> %
+literature <Phenomenon>results</Phenomenon> of <Entity>conventional aortic valve replacement</Entity>
+<Digit>three</Digit> in <Entity>group I</Entity> ( <Digit>1.87</Digit> % )
+<Entity>atrial dilatation</Entity> ( <Digit>44</Digit> +/- <Digit>8</Digit> mm versus <Digit>40</Digit> +/- <Digit>8</Digit> mm )
+<Gene.Gene>IL-18</Gene.Gene> at <Digit>2</Digit> days
+<Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Investigative_entityniques>survival rate</Analytical,_diagnostic_and_therapeutic_entityniques_and_equipments.Investigative_entityniques> at <Digit>7</Digit> years was <Digit>89.3</Digit> +/- <Digit>2.1</Digit> %
+free of <Entity>major cardiac events</Entity> at <Digit>7</Digit> years
+<Gene.Gene>S1P</Gene.Gene> by echocardiogram
+parameters of Doppler <Entity>coronary flow velocities</Entity> correlate significantly with <Entity>coronary angiographic</Entity> data
+<Organization.Politicalparty>Labour</Organization.Politicalparty> <Person>leader</Person> <Person>Ed Miliband</Person>
+<Location.Country>Yemen</Location.Country> 's feuding <Organization>parties</Organization>
+<Organization.Company>Apple</Organization.Company> had sales of $ <Digit>18</Digit> billion
+<Person.Politician.Representative>Schultz</Person.Politician.Representative> praised the <Person.Authority.Civil_authority>mayors</Person.Authority.Civil_authority> of <Location.City>New York</Location.City> and <Location.City>Columbus</Location.City> for their <Event.Act.Speech_act>bids</Event.Act.Speech_act>
+Prime <Person.Leader.Spiritual_leader.Clergyman>Minister</Person.Leader.Spiritual_leader.Clergyman> <Person.Politician.Minister.Primeminister>Benjamin Netanyahu</Person.Politician.Minister.Primeminister>
+conciliatory to the <Location.Ethnicity>Palestinians</Location.Ethnicity>
+<Person.Contestant>challenger</Person.Contestant> <Person>Isaac Herzog</Person> in <Location.Country>Israel</Location.Country> 's <Event.Act.Group_action.Vote>election</Event.Act.Group_action.Vote>
+Constitution of the <Location.Country>United States</Location.Country>
+<Person.Politician.President>Obama</Person.Politician.President> said in an <Event.Act.Speech_act.Request.Questioning.Interrogation>interview</Event.Act.Speech_act.Request.Questioning.Interrogation> on <Organization.Newsagency>NBC</Organization.Newsagency>
+<Weekday>Sunday</Weekday> night 's <Event.Sportsevent>Super Bowl</Event.Sportsevent>
+<Month>Jan</Month> <Day>18</Day> <Event.Social_event.Contest>playoff</Event.Social_event.Contest> <Event.Act.Activity>game</Event.Act.Activity> between the <Organization.Sportsteam>New England Patriots</Organization.Sportsteam> and the <Organization.Sportsteam>Indianapolis Colts</Organization.Sportsteam>
+<Event.Act.Activity.Wrongdoing.Transgression.Crime>violations</Event.Act.Activity.Wrongdoing.Transgression.Crime> recorded in <Location.City>Debaltseve</Location.City>
+prevented from entering <Location.City>Debaltseve</Location.City>
+<Person.Politician.Spokesperson>Bambang Sulistyo</Person.Politician.Spokesperson> , head of <Location.Country>Indonesia</Location.Country> 's national <Event.Act.Activity>search</Event.Act.Activity> and <Event.Act.Recovery>rescue</Event.Act.Recovery> <Organization.Unit.Administrative_unit>agency</Organization.Unit.Administrative_unit>
+<Person>Trump</Person> speaks in <Location.City>Sarasota</Location.City> , <Location.Usstate>Florida</Location.Usstate>
+<Location.City>Sarasota</Location.City> <Organization.Politicalparty>GOP</Organization.Politicalparty> dinner in <Month>August</Month> <Year>2012</Year>
+<Location.City>Flint</Location.City> 's water supply
+from <Location.Lake>Lake Huron</Location.Lake> ( via <Location.City>Detroit</Location.City> 's water <Artifact.Instrumentality>system</Artifact.Instrumentality> ) to the <Location.River>Flint River</Location.River>
+<Person.Scientist>researchers</Person.Scientist> from <Organization.Institute>Virginia Tech</Organization.Institute>
+<Location.Ethnicity>French</Location.Ethnicity> <Location.Region>Interior</Location.Region> <Person.Leader.Spiritual_leader.Clergyman>Minister</Person.Leader.Spiritual_leader.Clergyman> <Person.Politician>Bernard Cazeneuve</Person.Politician>
+Amid tensions across <Location.Country>France</Location.Country>
+veiled <Religion>Muslim</Religion> <Person.Adult>woman</Person.Adult>
+operation was headed by <Person.Politician>Robby Mook</Person.Politician>
+<Person.Politician>Robby Mook</Person.Politician> , who is now <Person.Politician>Clinton</Person.Politician> 's <Event.Social_event.Contest.Race>campaign</Event.Social_event.Contest.Race> <Person.Leader.Head.Administrator>manager</Person.Leader.Head.Administrator>
+<Person.Politician.Senator>Ted</Person.Politician.Senator> , throughout this <Event.Social_event.Contest.Race>campaign</Event.Social_event.Contest.Race>
+<Organization.Company>Durst</Organization.Company> 's <Person.Adult.Professional>attorney</Person.Adult.Professional> , <Person>Dick DeGuerin</Person>
+Stephanie <Location>Lunder</Location> , <Digit>34</Digit> ,
+<Person.Bad_person.Wrongdoer>attackers</Person.Bad_person.Wrongdoer> charged into <Location.City>Damaturu</Location.City>
+shouting " <Organization.Military>Allahu Akbar</Organization.Military> "
+people at the <Location.Region.Area>scene</Location.Region.Area> told <Organization.Newsagency>Reuters</Organization.Newsagency>
+<Organization.Newsagency>Reuters</Organization.Newsagency> reported
+detained <Organization.Military>Al Qaeda</Organization.Military> <Person.Communicator.Negotiator.Representative.Agent>operative</Person.Communicator.Negotiator.Representative.Agent> was threatened
+<Location.Province>Saskatchewan</Location.Province> , <Location.Country>Canada</Location.Country>
+<Event.Happening>incident</Event.Happening> occurred at a <Location.City>Saskatoon</Location.City>
+<Location.City>Saskatoon</Location.City> <Person.Athlete.Hockeyplayer>Tim Horton</Person.Athlete.Hockeyplayer> 's <Structure.Building>restaurant</Structure.Building>
+<Person.Leader>Chief</Person.Leader> <Organization.Government>White House</Organization.Government> <Person.Communicator>Correspondent</Person.Communicator> <Person.Politician.Mayor>Ed Henry</Person.Politician.Mayor>
+<Person.Politician.Mayor>Ed Henry</Person.Politician.Mayor> is in <Location.Usstate>Iowa</Location.Usstate>
+<Location>The World Trade Center</Location> came down during the reign of <Person.Politician.President>George Bush</Person.Politician.President>
+<Person.Politician.Minister.Primeminister>Modi</Person.Politician.Minister.Primeminister> 's political <Person.Contestant>opponents</Person.Contestant>
+<Location.Region.District.Administrative_district>state</Location.Region.District.Administrative_district> of <Location>Gujarat</Location>
+clean the <Location.Cemetery>Ganges river</Location.Cemetery>
+<Person.Leader.Head.Administrator.Executive.Corporate_executive>President</Person.Leader.Head.Administrator.Executive.Corporate_executive> <Person.Politician.President>Barack Obama</Person.Politician.President>
+<Religion>Islamic</Religion> authority
+vocal <Person.Adult.Professional>critic</Person.Adult.Professional> of <Organization.Military>Boko Haram</Organization.Military>
+<Organization.Government>New York Police</Organization.Government> <Person.Worker.Skilled_worker.Serviceman>Officer</Person.Worker.Skilled_worker.Serviceman> <Person.Officer.Policeofficer>Daniel Pantaleo</Person.Officer.Policeofficer>
+<Event.Happening.Change>death</Event.Happening.Change> of <Person.Victim>Eric Garner</Person.Victim>
+<Person.Victim>Garner</Person.Victim> 's <Person.Domestic_partner.Spouse>wife</Person.Domestic_partner.Spouse>
+condolences offered by <Person.Officer.Policeofficer>Pantaleo</Person.Officer.Policeofficer>
+<Location.Province>Queensland</Location.Province> <Location.Region.District.Administrative_district>state</Location.Region.District.Administrative_district> <Organization.Force>police</Organization.Force>
+<Location.City>Cairns</Location.City> <Location.Region.District.Residential_district>suburb</Location.Region.District.Residential_district>
+<Location.Ethnicity>Ukrainian</Location.Ethnicity> <Event.Act.Group_action.Transaction.Commerce.Commercial_enterprise>Finance</Event.Act.Group_action.Transaction.Commerce.Commercial_enterprise> <Person.Leader.Spiritual_leader.Clergyman>Minister</Person.Leader.Spiritual_leader.Clergyman> <Person.Politician.Minister>Natalia Yaresko</Person.Politician.Minister>
+a <Event.Act.Group_action.Transaction>deal</Event.Act.Group_action.Transaction> with the <Organization>International Monetary Fund</Organization>
+<Person.Journalist>Bob Simon</Person.Journalist> 's reports
+Shame of <Location.City>Srebrenica</Location.City>
+<Event.Act.Action.Change.Change_of_state.Termination.Killing.Homicide.Murder>massacre</Event.Act.Action.Change.Change_of_state.Termination.Killing.Homicide.Murder> of over <Digit>8,000</Digit> <Person.National.Citizen>civilians</Person.National.Citizen> in the <Event.Conflict>Bosnian War</Event.Conflict>
+<Organization.Institute>Virginia Tech</Organization.Institute> <Person.Enrollee>student</Person.Enrollee>
+<Digit>20</Digit> -year-old <Location.Usstate>Kansas</Location.Usstate> <Person.Adult>man</Person.Adult>
+kill <Location.Ethnicity>American</Location.Ethnicity> <Person.Worker.Skilled_worker.Serviceman.Enlisted_person>soldiers</Person.Worker.Skilled_worker.Serviceman.Enlisted_person>
+<Artifact.Instrumentality.Device.Explosive_device>bomb</Artifact.Instrumentality.Device.Explosive_device> <Location>Fort Riley</Location> on <Event.Act.Activity.Work.Duty.Function.Stead>behalf</Event.Act.Activity.Work.Duty.Function.Stead> of <Organization.Military>Islamic State</Organization.Military>
+<Person.Officer>Peter Hobbs</Person.Officer> , from the <Organization.Company>British Geological Survey</Organization.Company>
+killed more than <Digit>7,800</Digit> people , almost all in <Location>West Africa</Location>
+<Organization.Sportsteam>Chicago Tribune</Organization.Sportsteam> ( <Url>http://trib.in/1Ndp2AT</Url> )
+<Location.Country>Syria</Location.Country> 's <Event.Act.Group_action.Military_action>war</Event.Act.Group_action.Military_action>
+<Location.Ethnicity>Lebanese</Location.Ethnicity> group <Organization.Politicalparty>Hezbollah</Organization.Politicalparty>
+northern <Location.Region.District.Administrative_district.Municipality>city</Location.Region.District.Administrative_district.Municipality> of <Location.City>Aleppo</Location.City>
+investigate the <Person.Victim>Garner</Person.Victim> matter
+<Event.Act.Action.Change.Change_of_magnitude.Increase>expansion</Event.Act.Action.Change.Change_of_magnitude.Increase> of <Location.Ethnicity>Kurdish</Location.Ethnicity> influence in northern <Location.Country>Syria</Location.Country>
+<Structure.Establishment.Place_of_business.Office>headquarters</Structure.Establishment.Place_of_business.Office> of the <Location.Ethnicity>Yemeni</Location.Ethnicity> intelligence <Event.Act.Activity.Work>service</Event.Act.Activity.Work>
+<Organization.Sportsteam>Patriots</Organization.Sportsteam> will forfeit their first-round <Event.Act.Action>selection</Event.Act.Action> in the <Year>2016</Year> draft
+last season 's <Event>AFC Championship game</Event>
+<Location.City>Pyongyang</Location.City> 's elite
+<Organization.Institute>Harvard University</Organization.Institute> discriminates against <Location.Ethnicity>Asian-American</Location.Ethnicity> <Person>applicants</Person>
+<Location.City>Los Angeles</Location.City> <Location.Region.District.Residential_district>suburb</Location.Region.District.Residential_district>
+<Organization.Force>police</Organization.Force> Lt <Person.Athlete.Coach>Matt Williams</Person.Athlete.Coach>
+<Organization.Unit>teams</Organization.Unit> of <Organization.Government>Marines</Organization.Government>
+<Location.Country>Iran</Location.Country> 's <Person.Leader.Religious_leader>ayatollahs</Person.Leader.Religious_leader>
+<Person.Politician.Senator>Cotton</Person.Politician.Senator> told <Organization.Newsagency>Bloomberg News</Organization.Newsagency>
+<Year>2016</Year> <Organization.Politicalparty>GOP</Organization.Politicalparty> <Event.Social_event.Contest.Race>campaign</Event.Social_event.Contest.Race>
+Flight MH <Digit>370</Digit> lost communications
+<Person>David Prowse</Person> and <Person.Politician.Spokesperson>James Earl Jones</Person.Politician.Spokesperson> , the body and voice of <Person>Darth Vader</Person>
+<Event.Act.Action.Choice>vote</Event.Act.Action.Choice> for <Person.Politician>Corbyn</Person.Politician>
+beating the governing <Organization.Politicalparty>Conservative party</Organization.Politicalparty>
+shooting <Event.Happening.Change>death</Event.Happening.Change> of <Person.Victim>Michael Brown</Person.Victim> in <Location.City>Ferguson</Location.City> , <Location.Usstate>Missouri</Location.Usstate>
+chokehold <Event.Happening.Change>death</Event.Happening.Change> of <Person.Victim>Eric Garner</Person.Victim> in <Location.City>New York City</Location.City>
+<Location.City>DC</Location.City> <Organization.Force>police</Organization.Force>
+<Structure.Building>restaurant</Structure.Building> in <Location.City>Waco</Location.City>
+majority in the <Organization.Government>House</Organization.Government>
+take control of the <Organization.Government>Senate</Organization.Government>
+<Organization.Military>Al-Shabab</Organization.Military> <Person.Bad_person.Wrongdoer.Principal.Criminal.Murderer>gunmen</Person.Bad_person.Wrongdoer.Principal.Criminal.Murderer>
+university in northeastern <Location.Country>Kenya</Location.Country>
+<Organization.Company>Sony</Organization.Company> 's <Person.Bad_person.Wrongdoer>attackers</Person.Bad_person.Wrongdoer>
+<Organization.Government>St Louis County Police</Organization.Government> <Person.Leader>Chief</Person.Leader> <Person.Officer.Policeofficer>Jon Belmar</Person.Officer.Policeofficer>
+<Event.Act.Activity.Wrongdoing.Transgression.Crime.Felony>theft</Event.Act.Activity.Wrongdoing.Transgression.Crime.Felony> <Person.Athlete>Martin</Person.Athlete>
+<Digit>8.2</Digit> <Phenomenon.Natural_phenomenon.Geological_phenomenon>temblor</Phenomenon.Natural_phenomenon.Geological_phenomenon> off the coast of <Location.Country>Chile</Location.Country> on <Month>April</Month> <Day>1</Day> , <Year>2014</Year>
+<Person.Lawyer>Dershowitz</Person.Lawyer> issued an adamant <Event.Act.Speech_act>denial</Event.Act.Speech_act>
+<Person.Leader.Lawgiver.Legislator.Congressman>Rep</Person.Leader.Lawgiver.Legislator.Congressman> <Person.Politician.Representative>Beto O'Rourke</Person.Politician.Representative>
+<Organization.Politicalparty>Republicans</Organization.Politicalparty> will be defending at least <Digit>24</Digit> <Organization.Government>Senate</Organization.Government> seats
+<Person.Actor>Michael Keaton</Person.Actor> runs through <Location.Square>Times Square</Location.Square> in his <Artifact.Commodity.Consumer_goods.Clothing.Garment.Undergarment>underpants</Artifact.Commodity.Consumer_goods.Clothing.Garment.Undergarment>
+<Location.Sea>Black Sea</Location.Sea> peninsula
+rustbelt of <Location.City>Donetsk</Location.City> and <Location.City>Luhansk</Location.City>
+Sympathy for <Organization.Military>Islamic State</Organization.Military>
+<Digit>2.5</Digit> million <Location.Ethnicity>Syrians</Location.Ethnicity>
+<Digit>600</Digit> <Organization.Military>Turkish troops</Organization.Military> pushed deep into <Location.Country>Syria</Location.Country>
+<Location.Ethnicity>Turkish</Location.Ethnicity> <Person.Worker.Skilled_worker.Serviceman.Enlisted_person>soldiers</Person.Worker.Skilled_worker.Serviceman.Enlisted_person>
+<Location.Usstate>Michigan State</Location.Usstate> <Event.Act.Activity.Diversion>athletics</Event.Act.Activity.Diversion>
+<Event.Festival>Memorial Day</Event.Festival> parade
+<Location.City>Detroit</Location.City> <Location.Region.District.Residential_district>suburb</Location.Region.District.Residential_district>
+Mr <Person.Politician.Minister.Primeminister>Tsipras</Person.Politician.Minister.Primeminister>
+Mr <Person.Politician.Minister>Meimarakis</Person.Politician.Minister>
+<Person.Politician.Minister>Meimarakis</Person.Politician.Minister> , <Digit>61</Digit> ,
+<Person.Politician.Minister>Meimarakis</Person.Politician.Minister> , a <Digit>61</Digit> - year - old
+<Person.Politician.Senator>Bernie Sanders</Person.Politician.Senator> , the <Location.Usstate>Vermont</Location.Usstate> <Person.Leader.Lawgiver.Legislator>senator</Person.Leader.Lawgiver.Legislator>
+<Person>Killer Mike</Person> , the famous <Person.Entertainer.Performer.Musician.Singer>rapper</Person.Entertainer.Performer.Musician.Singer>
+<Location.Ethnicity>Nigerian</Location.Ethnicity> Air force
+<Location.Ethnicity>Nigerian</Location.Ethnicity> <Organization.Force>troops</Organization.Force>
+brought <Person.Murderer>Syed</Person.Murderer> 's <Event.Happening>case</Event.Happening> to <Person>Koenig</Person> to investigate
+<Person.Murderer>Adnan</Person.Murderer> is getting closer to justice
+<Location.Ethnicity>German</Location.Ethnicity> Vice <Person.Leader.Head.Administrator.Executive.Minister.Cabinet_minister>Chancellor</Person.Leader.Head.Administrator.Executive.Minister.Cabinet_minister> <Person.Politician>Sigmar Gabriel</Person.Politician>
+<Location.City>Ferguson</Location.City> <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker>
+<Organization.Company>Apple</Organization.Company> 's brand value boomed <Digit>67</Digit> %
+<Person.Leader.Head.Administrator>executive</Person.Leader.Head.Administrator> <Person.Creator.Maker>producer</Person.Creator.Maker> <Person.Politician.Judge>Nigel Lythgoe</Person.Politician.Judge>
+<Location.Country>Yemen</Location.Country> 's capital <Location.Region.District.Administrative_district.Municipality>city</Location.Region.District.Administrative_district.Municipality> , <Location.City>Sanaa</Location.City>
+oil spill in the <Location>Gulf of Mexico</Location>
+<Location.Ethnicity>British</Location.Ethnicity> <Organization.Polity>government</Organization.Polity>
+<Person.Director>James Cameron</Person.Director> 's <Digit>3</Digit> -D <Event.Act.Activity.Work.Undertaking>adventure</Event.Act.Activity.Work.Undertaking> <Artifact.Creation.Product>film</Artifact.Creation.Product>
+nominated for nine <Event.Award>Oscars</Event.Award>
+<Person.Director>Cameron</Person.Director> 's ex-wife <Person>Kathryn Bigelow</Person> ,
+( Met general <Person.Leader.Head.Administrator>manager</Person.Leader.Head.Administrator> ) <Person.Businessperson>Peter Gelb</Person.Businessperson>
+unstable <Location.Region.District.Administrative_district>states</Location.Region.District.Administrative_district> such as <Location.Country>Yemen</Location.Country> and <Location.Country>Somalia</Location.Country>
+young <Location.Ethnicity>Muslims</Location.Ethnicity>
+vice <Person.Leader.Head.Administrator.Executive.Corporate_executive>president</Person.Leader.Head.Administrator.Executive.Corporate_executive> at <Organization>Oxfam America</Organization>
+<Organization.Government>Navy</Organization.Government> 's general <Person.Adult.Professional.Lawyer>counsel</Person.Adult.Professional.Lawyer>
+<Location.Country>Iran</Location.Country> 's announcement
+bankruptcy of <Organization.Company>Lehman Brothers Holdings</Organization.Company>
+<Person>Michael Oren</Person> , the <Location.Ethnicity>Israeli</Location.Ethnicity> <Person.Worker.Skilled_worker.Official.Diplomat>ambassador</Person.Worker.Skilled_worker.Official.Diplomat> to the <Location.Country>United States</Location.Country> ,
+<Person.Politician.Minister.Primeminister>Thaksin</Person.Politician.Minister.Primeminister> concealed ownership of his stake in <Organization.Company>Shin Corp</Organization.Company>
+<Location.Country>Thailand</Location.Country> 's biggest mobile-phone operator
+<Person.Advocate.Spokesperson>spokesman</Person.Advocate.Spokesperson> <Person.Politician.Spokesperson>Matthew Paton</Person.Politician.Spokesperson>
+<Person.Leader.Lawgiver.Legislator.Congressman>Rep</Person.Leader.Lawgiver.Legislator.Congressman> <Person.Politician.Senator>Roy Blunt</Person.Politician.Senator>
+won the <Organization.Politicalparty>Republican</Organization.Politicalparty> <Event.Act.Group_action.Vote.Election>primary</Event.Act.Group_action.Vote.Election>
+<Location.Usstate>Missouri</Location.Usstate> 's <Organization.Government>Senate</Organization.Government> <Event.Social_event.Contest>race</Event.Social_event.Contest>
+<Event.Act.Action.Change.Motion.Travel.Journey>trip</Event.Act.Action.Change.Motion.Travel.Journey> to <Location.City>Omaha</Location.City> costs $ <Digit>309</Digit>
+Gen <Person.Politician.Minister>Hussein Kamal</PERSON.POLITICIAN.MINISTER>, the top intelligence official at the <Organization.Government>Interior Ministry</Organization.Government> ,
+<Person.Politician.Minister.Primeminister>Alassane Ouattara</Person.Politician.Minister.Primeminister> as the new <Person.Leader.Head.Administrator.Executive.Corporate_executive>president</Person.Leader.Head.Administrator.Executive.Corporate_executive> of <Location.Country>Ivory Coast</Location.Country>
+<Location.Ethnicity>Afghanistan</Location.Ethnicity> 's <Digit>34</Digit> <Location.Region.District.Administrative_district>provinces</Location.Region.District.Administrative_district>
+Gen <Person>Ray Odierno</Person> , the top US <Person.Worker.Skilled_worker.Serviceman.Military_officer>commander</Person.Worker.Skilled_worker.Serviceman.Military_officer> in <Location.Country>Iraq</Location.Country> ,
+<Organization.Politicalparty>Republican</Organization.Politicalparty> <Person.Leader.Lawgiver.Legislator>senator</Person.Leader.Lawgiver.Legislator> from <Location.Usstate>Utah</Location.Usstate>
+<Organization.Company>Mattel</Organization.Company> <Artifact.Commodity>products</Artifact.Commodity>
+<Location.Ethnicity>Swedish</Location.Ethnicity> <Person.Worker.Skilled_worker.Official>diplomats</Person.Worker.Skilled_worker.Official>
+<Location.Country>Greece</Location.Country> was promised aid
+<Location.Ethnicity>American</Location.Ethnicity> <Person.User>consumer</Person.User>
+$ <Digit>8</Digit> million has been spent by <Location>Arlington</Location> <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker>
+<Person.Athlete.Baseballplayer>Wilson</Person.Athlete.Baseballplayer> 's contract
+<Organization.Sportsteam>Yankees</Organization.Sportsteam> then sold his contract to the <Organization.Sportsteam>Oakland Oaks</Organization.Sportsteam>
+<Person.Athlete.Baseballplayer>Wilson</Person.Athlete.Baseballplayer> became <Location.City>Oakland</Location.City> 's first black <Person.Contestant>player</Person.Contestant>
+<Religion>Muslim</Religion> <Person.Adult>women</Person.Adult> in <Artifact.Commodity.Consumer_goods.Clothing.Garment.Scarf.Kerchief>headscarves</Artifact.Commodity.Consumer_goods.Clothing.Garment.Scarf.Kerchief>
+<Location.Ethnicity>Sikh</Location.Ethnicity> <Organization.Force>men</Organization.Force> in <Artifact.Commodity.Consumer_goods.Clothing.Headdress>turbans</Artifact.Commodity.Consumer_goods.Clothing.Headdress>
+<Person.Politician.President>Geithner</Person.Politician.President> and <Person.Leader.Head.Administrator.Executive.Corporate_executive>President</Person.Leader.Head.Administrator.Executive.Corporate_executive> <Person.Politician.President>Barack Obama</Person.Politician.President> at an <Month>Oct</Month> <Day>8</Day> <Event.Act.Activity>game</Event.Act.Activity>
+<Person.Scientist.Social_scientist>economist</Person.Scientist.Social_scientist> with <Organization.Company>IHS Global Insight</Organization.Company>
+<Person>Tom Flynn</Person> <Person.Leader.Head.Administrator>Executive</Person.Leader.Head.Administrator> <Person.Leader.Head.Administrator>director</Person.Leader.Head.Administrator> , <Organization.Company>Council for Secular Humanism</Organization.Company>
+<Person.Politician.President>Obama</Person.Politician.President> <Event.Act.Group_action.Social_control.Management>administration</Event.Act.Group_action.Social_control.Management> <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker>
+<Organization.Government>Senate</Organization.Government> <Event.Act.Activity>support</Event.Act.Activity> for <Person.Politician.Governor>Bernanke</Person.Politician.Governor>
+<Location.Ethnicity>Egyptian</Location.Ethnicity> security forces
+<Organization.Military>Muslim Brotherhood</Organization.Military> <Person.Advocate>supporters</Person.Advocate>
+<Location.Country>Germany</Location.Country> 's budget deficit
+<Person.Politician.President>Nixon</Person.Politician.President> had a plan to get <Person>Richard Mellon Scaife</Person>
+<Location.Country>Denmark</Location.Country> 's euro membership
+Made in <Location.Country>China</Location.Country>
+<Organization.Politicalparty>Democrat</Organization.Politicalparty> leaders in <Location.City>Washington</Location.City>
+<Event.Act.Activity.Work.Investigation.Examination>survey</Event.Act.Activity.Work.Investigation.Examination> conducted by the <Organization>Consumer Electronics Association</Organization>
+<Location.Usstate>Missouri</Location.Usstate> <Person.Leader.Politician>Governor</Person.Leader.Politician> <Person.Politician.Governor>Jay Nixon</Person.Politician.Governor>
+<Person.Politician.Governor>Jay Nixon</Person.Politician.Governor> 's <Event.Act>actions</Event.Act>
+rising tensions in the <Location.City>St Louis</Location.City> <Location>region</Location>
+<Location.City>St Louis</Location.City> <Location>region</Location>
+<Month>Aug</Month> <Day>9</Day> shooting <Event.Happening.Change>death</Event.Happening.Change>
+shooting <Event.Happening.Change>death</Event.Happening.Change> of <Digit>18</Digit> -year-old <Person.Victim>Michael Brown</Person.Victim>
+<Digit>18</Digit> -year-old <Person.Victim>Michael Brown</Person.Victim>
+<Person.Leader.Politician>Governor</Person.Leader.Politician> <Person.Politician.Governor>Jay Nixon</Person.Politician.Governor>
+<Person.Politician.Governor>Jay Nixon</Person.Politician.Governor> activated the <Organization>Missouri National Guard</Organization>
+<Person.Politician.Governor>Nixon</Person.Politician.Governor> declared a <Location.Region.District.Administrative_district>state</Location.Region.District.Administrative_district> of <Event.Happening.Juncture.Crisis>emergency</Event.Happening.Juncture.Crisis>
+<Digit>18</Digit> -year-old <Person.Victim>Michael Brown</Person.Victim>
+<Person.Victim>Michael Brown</Person.Victim> of <Location.City>Ferguson</Location.City>
+<Location.City>Ferguson</Location.City> , a <Location.City>St Louis</Location.City> <Location.Region.District.Residential_district>suburb</Location.Region.District.Residential_district>
+<Person.Politician.Governor>Nixon</Person.Politician.Governor> , a <Digit>58</Digit> -year-old <Organization.Party>Democrat</Organization.Party>
+rising tensions in the <Location.City>St Louis</Location.City> <Location>region</Location>
+<Location.City>St Louis</Location.City> <Location>region</Location>
+<Person.Worker.Skilled_worker.Serviceman>Officer</Person.Worker.Skilled_worker.Serviceman> <Person.Policeofficer>Darren Wilson</Person.Policeofficer>
+<Person.Policeofficer>Darren Wilson</Person.Policeofficer> , who shot <Person.Victim>Brown</Person.Victim>
+<Person.Adult.Professional>Attorneys</Person.Adult.Professional> representing <Person.Victim>Brown</Person.Victim>
+<Person.Victim>Brown</Person.Victim> 's <Organization.Unit>family</Organization.Unit>
+<Person.Politician.Governor>Nixon</Person.Politician.Governor> should also warn law <Event.Act.Group_action.Social_control>enforcement</Event.Act.Group_action.Social_control>
+<Person.Attorney>Benjamin Crump</Person.Attorney> , a <Person.Adult.Professional>lawyer</Person.Adult.Professional>
+<Person.Politician.Governor>Nixon</Person.Politician.Governor> called up the <Organization.Government>National Guard</Organization.Government>
+<Organization.Government>St Louis County Police Department</Organization.Government> has been in <Event.Act.Activity.Operation.Attack>charge</Event.Act.Activity.Operation.Attack> of policing the <Event.Act.Speech_act.Objection>protests</Event.Act.Speech_act.Objection>
+<Organization.Government>Missouri Highway Patrol</Organization.Government> and the <Organization.Government>St Louis Metropolitan Police Department</Organization.Government>
+<Event.Act.Activity>support</Event.Act.Activity> of the <Organization.Government>National Guard</Organization.Government>
+<Organization.Government>St Louis Metropolitan Police</Organization.Government> <Person.Leader>Chief</Person.Leader> <Person>Sam Dotson</Person>
+statement released by <Person.Politician.Governor>Nixon</Person.Politician.Governor>
+<Person.Politician.Governor>Nixon</Person.Politician.Governor> 's <Structure.Establishment.Place_of_business>office</Structure.Establishment.Place_of_business>
+Since <Month>August</Month> , the <Organization.Government>St Louis County Police Department</Organization.Government>
+<Organization.Government>St Louis County Police Department</Organization.Government> has spent more than $ <Digit>100,000</Digit>
+a <Person.Advocate.Spokesperson>spokesman</Person.Advocate.Spokesperson> , <Person>Brian Schellman</Person>
+<Person.Policeofficer>Wilson</Person.Policeofficer> shot <Person.Victim>Brown</Person.Victim> at least <Digit>six</Digit> times
+<Person.Policeofficer>Wilson</Person.Policeofficer> shot <Person.Victim>Brown</Person.Victim>
+shot <Person.Victim>Brown</Person.Victim> at least <Digit>six</Digit> times
+<Person.Victim>Brown</Person.Victim> attacked <Person.Policeofficer>Wilson</Person.Policeofficer>
+<Person>Toluse Olorunnipa</Person> in <Location.City>Tallahassee</Location.City>
+<Location.City>Tallahassee</Location.City> , <Location.Usstate>Florida</Location.Usstate>
+<Person>Stephen Merelman</Person> at <Email>smerelman@bloomberg.net</Email>
+<Person>Pete Young</Person> , <Person>Theo Mullen</Person>
+<Artifact.Covering.Cloth_covering.Bedclothes>blanket</Artifact.Covering.Cloth_covering.Bedclothes> <Event.Act.Speech_act>denial</Event.Act.Speech_act> from <Person.Artist.Actor>Bill Cosby</Person.Artist.Actor> 's <Person.Adult.Professional>lawyer</Person.Adult.Professional>
+<Person.Artist.Actor>Bill Cosby</Person.Artist.Actor> 's <Person.Adult.Professional>lawyer</Person.Adult.Professional>
+<Organization.Newsagency>The Associated Press</Organization.Newsagency> reports
+<Person.Artist.Actor>Cosby</Person.Artist.Actor> 's <Event.Act.Speech_act>denials</Event.Act.Speech_act>
+accuser <Person.Athlete.Basketballplayer>Andrea Constand</Person.Athlete.Basketballplayer>
+<Person.Athlete.Basketballplayer>Andrea Constand</PERSON.ATHLETE.BASKETBALLPLAYER>, whose civil lawsuit
+<Person.Adult.Professional>lawyers</Person.Adult.Professional> for <Person.Artist.Actor>Cosby</Person.Artist.Actor>
+allegations against <Person.Artist.Actor>Cosby</Person.Artist.Actor>
+<Person.Athlete.Basketballplayer>Constand</Person.Athlete.Basketballplayer> had accused <Person.Artist.Actor>Cosby</Person.Artist.Actor>
+mass <Person.Bad_person.Wrongdoer.Principal.Criminal>murderer</Person.Bad_person.Wrongdoer.Principal.Criminal> <Person>Charles Manson</Person>
+<Person>Charles Manson</Person> has gotten a license to marry a <Digit>26</Digit> -year-old <Person.Adult>woman</Person.Adult>
+<Organization.Newsagency>AP</Organization.Newsagency> reports
+marriage license obtained <Weekday>Monday</Weekday> by The <Organization.Newsagency>Associated Press</Organization.Newsagency> was issued <Month>Nov</Month> <Day>7</Day> for the <Digit>80</Digit> -year-old <Person>Manson</Person> and <Person>Afton Elaine Burton</Person>
+marriage license obtained <Weekday>Monday</Weekday> by The <Organization.Newsagency>Associated Press</Organization.Newsagency>
+<Digit>80</Digit> -year-old <Person>Manson</Person>
+<Person>Afton Elaine Burton</Person> , who left her <Location>Midwestern</Location> <Location.Point.Geographic_point.Address.Residence>home</Location.Point.Geographic_point.Address.Residence> <Digit>nine</Digit> years ago
+<Location>Corcoran</Location> , <Location.Usstate>California</Location.Usstate>
+<Structure.Establishment.Institution.Penal_institution.Correctional_institution>prison</Structure.Establishment.Institution.Penal_institution.Correctional_institution> to be near <Location>Manson</Location>
+<Person>Burton</Person> gave an <Event.Act.Speech_act.Request.Questioning.Interrogation>interview</Event.Act.Speech_act.Request.Questioning.Interrogation> a year ago to <Organization.Company>Rolling Stone</Organization.Company> <Artifact.Instrumentality.Medium.Print_media.Press>magazine</Artifact.Instrumentality.Medium.Print_media.Press>
+<Organization.Company>Rolling Stone</Organization.Company> <Artifact.Instrumentality.Medium.Print_media.Press>magazine</Artifact.Instrumentality.Medium.Print_media.Press>
+<Location.City>New Orleans</Location.City> 's <Organization>Marigny Opera House</Organization>
+<Organization>NOLA</Organization> 's historic <Location>Treme</Location> <Location.Region.Area.Section>neighborhood</Location.Region.Area.Section>
+<Person.Perceiver.Spectator>onlooker</Person.Perceiver.Spectator> <Person>Taray Roberts</Person>
+<Person>Taray Roberts</Person> , <Digit>23</Digit> ,
+<Person>Solange</Person> and <Person>Alan</Person> danced
+<Person.Relative.Kinswoman.Female_sibling>Sister</Person.Relative.Kinswoman.Female_sibling> <Person>Beyonce</Person>
+<Person.Relative.Ancestor.Progenitor.Genitor.Parent.Mother>mom</Person.Relative.Ancestor.Progenitor.Genitor.Parent.Mother> <Person>Tina</Person>
+<Person.Relative.In-law>brother-in-law</Person.Relative.In-law> <Person.Artist.Singer>Jay Z</Person.Artist.Singer>
+<Person>Knowles</Person> <Person.Relative.Offspring.Child.Male_offspring>son</Person.Relative.Offspring.Child.Male_offspring> , <Person>Daniel Julez</Person>
+<Person>Daniel Julez</Person> , <Digit>10</Digit> ,
+<Person>Solange</Person> and her <Person.Domestic_partner.Spouse>husband</Person.Domestic_partner.Spouse>
+late-night <Event.Act.Activity.Diversion.Entertainment>show</Event.Act.Activity.Diversion.Entertainment> , <Person>James Corden</Person>
+<Person>James Corden</Person> is paying a <Event.Act.Group_action.Assembly.Meeting>visit</Event.Act.Group_action.Assembly.Meeting> to <Person.Artist.Tvhost>David Letterman</Person.Artist.Tvhost>
+<Organization.Newsagency>AP</Organization.Newsagency> reports
+<Person>Corden</Person> is replacing <Person>Craig Ferguson</Person>
+<Person>Craig Ferguson</Person> next year on The Late Late <Event.Act.Activity.Diversion.Entertainment>Show</Event.Act.Activity.Diversion.Entertainment>
+The Late Late <Event.Act.Activity.Diversion.Entertainment>Show</Event.Act.Activity.Diversion.Entertainment> , the <Organization.Newsagency>CBS</Organization.Newsagency> late-night program
+<Organization.Newsagency>CBS</Organization.Newsagency> late-night program
+follows <Person.Artist.Tvhost>Letterman</Person.Artist.Tvhost> on the schedule
+<Person>Corden</Person> makes his <Event.Act.Action.Change.Change_of_state.Beginning>debut</Event.Act.Action.Change.Change_of_state.Beginning> <Month>March</Month> <Day>9</Day>
+<Person>Corden</Person> makes his <Event.Act.Action.Change.Change_of_state.Beginning>debut</Event.Act.Action.Change.Change_of_state.Beginning>
+<Person>Corden</Person> 's first appearance on <Person.Artist.Tvhost>Letterman</Person.Artist.Tvhost> 's <Event.Act.Activity.Diversion.Entertainment>show</Event.Act.Activity.Diversion.Entertainment>
+appearance on <Person.Artist.Tvhost>Letterman</Person.Artist.Tvhost> 's <Event.Act.Activity.Diversion.Entertainment>show</Event.Act.Activity.Diversion.Entertainment>
+<Artifact.Instrumentality.Medium.Telecommunication.Broadcasting>Television</Artifact.Instrumentality.Medium.Telecommunication.Broadcasting> <Person.Creator.Maker>producer</Person.Creator.Maker> <Person>Norman Lear</Person>
+<Person.Artist.Tvhost>Letterman</Person.Artist.Tvhost> on <Weekday>Friday</Weekday>
+<Person>Alexandra Shipp</Person> in the title <Event.Act.Activity.Work.Duty>role</Event.Act.Activity.Work.Duty>
+more than <Digit>3</Digit> <Digitunit>million</Digitunit> viewers on <Weekday>Saturday</Weekday> night
+<Person>Aaliyah</Person> <Event.Happening.Contact>flick</Event.Happening.Contact> had <Digit>3.2</Digit> <Digitunit>million</Digitunit> viewers
+featured <Person>Elise Neal</Person> as <Person>Gladys Knight</Person>
+<Person>Elise Neal</Person> as <Person>Gladys Knight</Person>
+<Person>Cle Bennett</Person> as R <Person>Kelly</Person>
+<Person>Chattrisse Dolabaille</Person> as <Person>Missy Elliott</Person>
+<Person.Leader.Head.Administrator>executive</Person.Leader.Head.Administrator> <Person.Creator.Maker>producer</Person.Creator.Maker> <Person>Wendy Williams</Person>
+relationship portrayed between <Person>R Kelly</Person> and <Person>Aaliyah</Person>
+<Person>Timbaland</Person> took to social <Artifact.Instrumentality>media</Artifact.Instrumentality>
+<Person.Creator.Maker>Producer</Person.Creator.Maker> <Person>Williams</Person> seemed pleased with the <Artifact.Creation.Product>movie</Artifact.Creation.Product>
+<Person.Creator.Maker>Producer</Person.Creator.Maker> <Person>Williams</Person>
+<Person>Aaliyah</Person> <Artifact.Creation.Product>movie</Artifact.Creation.Product> broke the <Artifact.Instrumentality.System.Network.Computer_network>Internet</Artifact.Instrumentality.System.Network.Computer_network>
+<Person>Errbody</Person> got an opinion
+<Digit>36</Digit> -hour <Event.Act.Activity>effort</Event.Act.Activity> to save the life of Dr <Person>Martin Salia</Person>
+Dr <Person>Martin Salia</Person>
+<Person>Martin Salia</Person> at the <Organization>Nebraska Medical Center</Organization>
+<Person>ZMapp</Person> , <Structure.Building.Medical_building>hospital</Structure.Building.Medical_building> <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker> disclosed <Weekday>Monday</Weekday>
+<Person>ZMapp</Person> , <Structure.Building.Medical_building>hospital</Structure.Building.Medical_building> <Person.Worker.Skilled_worker>officials</Person.Worker.Skilled_worker>
+treating <Person.Case>patients</Person.Case> in <Location.Country>Sierra Leone</Location.Country>
+arrived in <Location.City>Omaha</Location.City> on <Weekday>Saturday</Weekday>
+<Person>Salia</Person> succumbed to the disease at <Digit>4</Digit> am <Weekday>Monday</Weekday>
+<Person>Salia</Person> succumbed to the disease
+<Person>ZMapp</Person> was one of <Digit>two</Digit> unproven medical <Event.Act.Activity.Work.Care>treatments</Event.Act.Activity.Work.Care> healthcare <Person>workers</Person>
+reverse the <Event.Act.Activity.Education>course</Event.Act.Activity.Education> of <Person>Salia</Person> 's illness
+<Person>Salia</Person> 's illness
+Dr <Person>Daniel Johnson</Person> , the <Structure.Building.Medical_building>hospital</Structure.Building.Medical_building> 's critical <Event.Act.Activity.Work>care</Event.Act.Activity.Work> <Person.Leader.Head.Administrator>director</Person.Leader.Head.Administrator>
+Dr <Person>Daniel Johnson</Person>
+<Person>Salia</Person> began constant kidney <Event.Act.Activity.Work.Investigation.Analysis.Chemical_analysis>dialysis</Event.Act.Activity.Work.Investigation.Analysis.Chemical_analysis>
+<Person>Johnson</Person> told <Person.Communicator>reporters</Person.Communicator>
+<Person>Salia</Person> was being flown there for <Event.Act.Activity.Work.Care>treatment</Event.Act.Activity.Work.Care>
+Dr <Person>Christopher Kratochvil</Person>
+Dr <Person>Christopher Kratochvil</Person> , vice <Person.Leader.Head.Administrator.Executive.Minister.Cabinet_minister>chancellor</Person.Leader.Head.Administrator.Executive.Minister.Cabinet_minister> for clinical <Event.Act.Activity.Work.Investigation>research</Event.Act.Activity.Work.Investigation>
+vice <Person.Leader.Head.Administrator.Executive.Minister.Cabinet_minister>chancellor</Person.Leader.Head.Administrator.Executive.Minister.Cabinet_minister> for clinical <Event.Act.Activity.Work.Investigation>research</Event.Act.Activity.Work.Investigation> at the <Organization.Institute>University of Nebraska Medical Center</Organization.Institute>
+<Organization.Company>Mapp Biopharmaceutical Inc</Organization.Company> in <Location.City>San Diego</Location.City>
+<Organization.Government>US Department of Health and Human Services Biomedical Advanced Research and Development Authority</Organization.Government> to initiate <Event.Act.Activity>efforts</Event.Act.Activity>
+<Organization>BARDA</Organization> <Person.Leader.Head.Administrator>Director</Person.Leader.Head.Administrator> <Person>Robin Robinson</Person>
+<Person>Robin Robinson</Person> said in an <Event.Act.Communication.Transmission.Electronic_communication>email</Event.Act.Communication.Transmission.Electronic_communication> <Weekday>Monday</Weekday>
+<Organization>Kentucky BioProcessing</Organization> to produce additional doses
+<Person.Worker.Skilled_worker>Officials</Person.Worker.Skilled_worker> at <Organization>Mapp Biopharmaceutical</Organization> and <Organization>Kentucky BioProcessing</Organization>
+<Event.Act.Speech_act.Request.Questioning>questions</Event.Act.Speech_act.Request.Questioning> from <Organization.Newsagency>The Times</Organization.Newsagency> on <Weekday>Monday</Weekday>
+<Event.Act.Speech_act.Request.Questioning>questions</Event.Act.Speech_act.Request.Questioning> from <Organization.Newsagency>The Times</Organization.Newsagency>
+<Person>Erica Ollmann Saphire</Person> , a <Person.Scientist>researcher</Person.Scientist> at the <Organization.Institute>Scripps Research Institute</Organization.Institute>
+<Organization.Institute>Scripps Research Institute</Organization.Institute> in <Location.City>La Jolla</Location.City>
+paper published <Weekday>Monday</Weekday> in the journal <Organization>PNAS</Organization>
+<Organization.Sportsteam>Houston Rockets</Organization.Sportsteam> <Event.Act.Judgment.Evaluation>Scoring</Event.Act.Judgment.Evaluation> <Person.Preserver.Defender>Guard</Person.Preserver.Defender> <Person.Athlete.Basketballplayer>James Harden</Person.Athlete.Basketballplayer>
+<Organization.Sportsteam>Houston Rockets</Organization.Sportsteam> <Location.Region.Area>Center</Location.Region.Area> <Person.Athlete.Basketballplayer>Dwight Howard</Person.Athlete.Basketballplayer>
+<Organization.Sportsteam>Boston Celtics</Organization.Sportsteam> Power <Person.Contestant.Athlete.Basketball_player>Forward</Person.Contestant.Athlete.Basketball_player> <Person.Athlete.Basketballplayer>Kevin Garnett</Person.Athlete.Basketballplayer>
+<Organization.Sportsteam>Houston Rockets</Organization.Sportsteam> scoring <Person.Preserver.Defender>guard</Person.Preserver.Defender> <Person.Athlete.Basketballplayer>James Harden</Person.Athlete.Basketballplayer>
+<Organization.Sportsteam>Houston Rockets</Organization.Sportsteam> <Location.Region.Area>center</Location.Region.Area> <Person.Athlete.Basketballplayer>Dwight Howard</Person.Athlete.Basketballplayer>
+<Organization.Sportsteam>Boston Celtics</Organization.Sportsteam> power forward <Person.Athlete.Basketballplayer>Kevin Garnett</Person.Athlete.Basketballplayer>
