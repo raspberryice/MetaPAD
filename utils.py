@@ -30,7 +30,7 @@ def SetFromFile(filename,IFLOWER=True):
     ret = set()
     fr = open(filename,'rb')
     for line in fr:
-        word = line.strip('\r\n')
+        word = line.decode('utf8').strip('\r\n')
         if IFLOWER: word = word.lower()
         if word == '': continue
         ret.add(word)
@@ -100,7 +100,7 @@ def XMLToSentence(xml):
         if loop == 100:
             print(xml)
             break
-        pos0 = xml.find('<')
+        pos0 = xml.find('<')  # extract word from tagged
         pos1 = xml.find('>')
         if pos0 > 0:
             part = xml[0:pos0-1]

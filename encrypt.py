@@ -16,7 +16,7 @@ def Encrypt(file_output_encrypted,file_output_label,file_output_positive,file_ou
         xml = line.strip('\r\n')
         if xml == '':
             continue
-        sentence = XMLToSentence(xml)
+        sentence = XMLToSentence(xml) # get class tag and word
         n = len(sentence)
         try:
             if sentence[n - 1][0] == 'PERIOD':
@@ -40,12 +40,12 @@ def Encrypt(file_output_encrypted,file_output_label,file_output_positive,file_ou
                     if not key in key2value:
                         value = ''
                         for c in str(value_int):
-                            value += chr(ord('a')+int(c))
+                            value += chr(ord('a')+int(c))  # encrypted
                         key2value[key] = value
                         value_int += 1
                     text += ' '+key2value[key]
             else:
-                if LEVEL == 'TOP':
+                if LEVEL == 'TOP':  # find top label
                     if '.' in classname:  # TOP - begin
                         pos = classname.find('.')
                         classname = classname[0:pos] # TOP - end

@@ -1,4 +1,4 @@
-export CXX = g++
+export CXX = /usr/local/bin/g++-8
 export CFLAGS = -std=c++11 -Wall -O3 -msse2  -fopenmp  -I..
 
 BIN = ./bin/segphrase_train

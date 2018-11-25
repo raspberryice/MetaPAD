@@ -1,0 +1,98 @@
+WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> in Sichuan WILDCARD <Location.Region.District.Administrative_district>Province</Location.Region.District.Administrative_district>, WILDCARD <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
+WILDCARD <Location.Populatedplace.Settlement.City>Deyang</Location.Populatedplace.Settlement.City> WILDCARD <Location.Region.District.Administrative_district.Municipality>City</Location.Region.District.Administrative_district.Municipality>, Sichuan WILDCARD <Location.Region.District.Administrative_district>Province</Location.Region.District.Administrative_district>, one of the WILDCARD <Event.Act.Action.Accomplishment.Feat>hit</Event.Act.Action.Accomplishment.Feat> WILDCARD <Location.Region>areas</Location.Region>
+WILDCARD <Location.Populatedplace.Settlement.City>Deyang</Location.Populatedplace.Settlement.City> WILDCARD <Location.Region.District.Administrative_district.Municipality>City</Location.Region.District.Administrative_district.Municipality> who experienced the WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
+disaster WILDCARD <Event.Act.Activity>efforts</Event.Act.Activity> by the WILDCARD <Location.Populatedplace.Country>Chinese</Location.Populatedplace.Country> WILDCARD <Organization.Polity>Government</Organization.Polity>
+disaster WILDCARD <Event.Act.Activity>efforts</Event.Act.Activity> by the WILDCARD <Organization>Red Cross</Organization>
+WILDCARD <Event.Act.Action.Change.Change_of_state.Improvement.Repair.Reconstruction>rebuilding</Event.Act.Action.Change.Change_of_state.Improvement.Repair.Reconstruction> of WILDCARD <Location.Populatedplace.Settlement.City>Deyang</Location.Populatedplace.Settlement.City>
+WILDCARD <Number>60</Number> miles from the WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>quake</Phenomenon.Natural_phenomenon.Geological_phenomenon>'s WILDCARD <Location.Point.Geographic_point>epicenter</Location.Point.Geographic_point> in Wenchun WILDCARD <Location.Region>County</Location.Region>
+WILDCARD <Event.Happening.Change>death</Event.Happening.Change> toll of WILDCARD <Number>6,000</Number>
+WILDCARD <Location.Populatedplace.Settlement.City>Deyang</Location.Populatedplace.Settlement.City> a WILDCARD <Location.Region.District.Administrative_district.Municipality>city</Location.Region.District.Administrative_district.Municipality> of about WILDCARD <Number>4</Number> million people
+WILDCARD <Person.Officeholder>Kim Jong-il</Person.Officeholder> on <Date>2008-05-13</Date> sent a message of sympathy to WILDCARD <Person.Officeholder>Hu Jintao</Person.Officeholder>
+a WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> hit WILDCARD <Location.Populatedplace.Settlement>Wenchuan county</Location.Populatedplace.Settlement> in WILDCARD <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
+WILDCARD <Number>1.5</Number> billion won in cash
+WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> in WILDCARD <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
+<Date>2008-05-12</Date> WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
+WILDCARD <Number>200</Number> kilometers away from the WILDCARD <Location.Point.Geographic_point>epicenter</Location.Point.Geographic_point> of the WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
+WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> rocked a WILDCARD <Location>region</Location> of southwest WILDCARD <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
+killing about WILDCARD <Number>10,000</Number> people
+measuring WILDCARD <Number>7.8</Number> on the Richter scale
+struck in <Date>2008-05-13</Date>
+the WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> struck at <Date>2008-05-12</Date>
+WILDCARD <Event.Happening.Change>death</Event.Happening.Change> toll was approaching WILDCARD <Number>10,000</Number>
+WILDCARD <Number>216</Number> WILDCARD <Event.Happening.Change>deaths</Event.Happening.Change>
+WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>quake</Phenomenon.Natural_phenomenon.Geological_phenomenon> struck WILDCARD <Number>55</Number> miles west-northwest of the Sichuan provincial capital of WILDCARD <Location.Populatedplace.Settlement.City>Chengdu</Location.Populatedplace.Settlement.City>
+centered WILDCARD <Number>18</Number> miles below the WILDCARD <Artifact>surface</Artifact>
+WILDCARD <Artifact.Fabric>felt</Artifact.Fabric> as far away as WILDCARD <Location.Populatedplace.Region.Administrativeregion>Bangkok</Location.Populatedplace.Region.Administrativeregion>
+WILDCARD <Person.Communicator.Negotiator.Representative.Head_of_state>Premier</Person.Communicator.Negotiator.Representative.Head_of_state> WILDCARD <Person.Officeholder>Wen Jiabao</Person.Officeholder>
+WILDCARD <Number>3,000</Number> to WILDCARD <Number>5,000</Number> people are believed to have died
+WILDCARD <Number>80</Number> percent of the WILDCARD <Structure>buildings</Structure> collapsed
+WILDCARD <Number>10,000</Number> people were injured
+up to WILDCARD <Number>900</Number> WILDCARD <Person.Enrollee>students</Person.Enrollee> were feared buried
+evacuated from WILDCARD <Location.Populatedplace.Country>mainland China</Location.Populatedplace.Country>
+WILDCARD <Location.Populatedplace.Country>China</Location.Populatedplace.Country> WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> in WILDCARD <Number>20</Number>
+hit the WILDCARD <Location.Region.District.Administrative_district.Municipality>city</Location.Region.District.Administrative_district.Municipality> of WILDCARD <Location.Populatedplace.Settlement.City>Tangshan</Location.Populatedplace.Settlement.City>
+killing WILDCARD <Number>242,000</Number> people
+to help WILDCARD <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
+<Date>2008-05-12</Date> deadly WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> that struck the WILDCARD <Location.Populatedplace.Country>Chinese</Location.Populatedplace.Country>
+WILDCARD <Event.Naturalevent.Earthquake>earthquake measuring 7.8</Event.Naturalevent.Earthquake> on the richter scale
+WILDCARD <Event.Act.Action.Accomplishment.Feat>hit</Event.Act.Action.Accomplishment.Feat> Southwest WILDCARD <Location.Populatedplace.Country>China</Place.PopulatedPlace.Country Sichuan Province <Date>2008-05-12</Date>
+WILDCARD <Location.Populatedplace.Country>Chinese</Location.Populatedplace.Country> WILDCARD <Person>leader</Person> WILDCARD <Person.Officeholder>Hu Jintao</Person.Officeholder>
+WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> <Date>2008-05-12</Date> in WILDCARD <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
+WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> in southwest WILDCARD <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
+WILDCARD <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake> in WILDCARD <Location.Populatedplace.Province>Sichuan province</Location.Populatedplace.Province>
+left WILDCARD <Number>80,000</Number> people dead
+WILDCARD <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake> that struck WILDCARD <Location.Populatedplace.Province>Sichuan</Location.Populatedplace.Province> <Date>2008-05-12</Date>
+WILDCARD <Person.Communicator.Negotiator.Representative.Head_of_state>Premier</Person.Communicator.Negotiator.Representative.Head_of_state> WILDCARD <Person.Officeholder>Wen Jiabao</Person.Officeholder>
+WILDCARD <Number>50,000</Number> WILDCARD <Organization.Militaryunit>PLA</Organization.Militaryunit> WILDCARD <Person.Worker.Skilled_worker.Serviceman.Enlisted_person>soldiers</Person.Worker.Skilled_worker.Serviceman.Enlisted_person> were dispatched
+WILDCARD <Event.Happening.Change>death</Event.Happening.Change> toll may top WILDCARD <Number>80,000</Number>
+<Date>2008-05-12</Date> WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
+WILDCARD <Event.Happening.Change>death</Event.Happening.Change> toll has passed WILDCARD <Number>60,000</Number>
+WILDCARD <Number>4,000</Number> remain missing
+WILDCARD <Number>5.36</Number> million WILDCARD <Structure>buildings</Structure> are known to have been destroyed
+A total of WILDCARD <Number>45.5</Number> million people have been affected
+WILDCARD <Number>352,290</Number> people injured
+toll at <Date>2008-05-17</Date> was WILDCARD <Number>60,560</Number>
+magnitude WILDCARD <Number>8.0</Number> WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
+<Date>2008-05</Date> devastating WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
+the WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>quake</Phenomenon.Natural_phenomenon.Geological_phenomenon>, which happened <Date>2008-05-22</Date> in WILDCARD <Location.Populatedplace.Province>Sichuan</Location.Populatedplace.Province>
+WILDCARD <Person.Unfortunate>victims</Person.Unfortunate> of the WILDCARD <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake>
+rebuilding WILDCARD <Number>26</Number> WILDCARD <Organization.Institution.Educational_institution>schools</Organization.Institution.Educational_institution>
+<Date>2008-05-12</Date> WILDCARD <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake>
+allocated WILDCARD <Number>$10,000</Number> from its WILDCARD <Event.Happening.Juncture.Crisis>emergency</Event.Happening.Juncture.Crisis> fund
+WILDCARD <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake> in WILDCARD <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
+WILDCARD <Event.Happening.Change>death</Event.Happening.Change> toll from WILDCARD <Location.Populatedplace.Country>China</Location.Populatedplace.Country> WILDCARD <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake>
+WILDCARD <Event.Happening.Change>death</Event.Happening.Change> toll increased to WILDCARD <Number>55,740</Number> as of <Date>2008-05-23</Date>
+WILDCARD <Number>24,960</Number> were still listed as missing
+WILDCARD <Number>8.0</Number> WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>quake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
+sympathies to the people in WILDCARD <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
+loss of lives in the WILDCARD <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake>
+WILDCARD <Location.Populatedplace.Country>Israel</Location.Populatedplace.Country> could help
+WILDCARD <Location.Populatedplace.Country>Israel</Location.Populatedplace.Country> donation
+donate WILDCARD <Number>1.5</Number> million dollars in aid for WILDCARD <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake> relief
+aid will arrive in <Date>2008-05-24</Date>
+The WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>, centered in WILDCARD <Location.Populatedplace.Settlement>Wenchuan County</Location.Populatedplace.Settlement>
+has killed WILDCARD <Number>40,075</Number> people nationwide as of <Date>2008-05-20</Date>
+WILDCARD <Location.Populatedplace.Settlement.City>Tangshan</Location.Populatedplace.Settlement.City> was levelled by a WILDCARD <Number>7.8</Number> WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>quake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
+claimed over WILDCARD <Number>240,000</Number> lives
+flee her WILDCARD <Location.Populatedplace.Settlement.City>Dujiangyan</Location.Populatedplace.Settlement.City>
+WILDCARD <Number>2.9</Number> million WILDCARD <Structure.Building>houses</Structure.Building> were flattened
+nearly WILDCARD <Number>14</Number> million others damaged
+suffered WILDCARD <Number>67</Number> billion yuan of direct economic loss
+WILDCARD <Location.Populatedplace.Country>Chinese</Location.Populatedplace.Country> economy suffered a loss of over WILDCARD <Number>500</Number> billion yuan
+WILDCARD <Event.Naturalevent.Earthquake>Tangshan earthquake</Event.Naturalevent.Earthquake> struck in <Date>1976-XX-XX</Date>
+WILDCARD <Event.Naturalevent.Earthquake>earthquake</Event.Naturalevent.Earthquake> which hit WILDCARD <Location.Populatedplace.Country>China</Location.Populatedplace.Country>
+confirmed WILDCARD <Event.Happening.Change>deaths</Event.Happening.Change> exceed WILDCARD <Number>34,000</Number>
+measured WILDCARD <Number>7.9</Number> on the Richter scale
+WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon.Earthquake.Tremor>aftershock</Phenomenon.Natural_phenomenon.Geological_phenomenon.Earthquake.Tremor> <Date>2008-05-16</Date>
+WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> damaged WILDCARD <Organization.Company>PetroChina</Organization.Company>
+As of <Date>2008-05-14</Date> almost WILDCARD <Number>15,000</Number> people had died
+WILDCARD <Location.Populatedplace.Country>China</Location.Populatedplace.Country> WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> in WILDCARD <Duration>30Y</Duration>
+The magnitude of the WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>quake</Phenomenon.Natural_phenomenon.Geological_phenomenon> was WILDCARD <Number>7.9</Number>
+felt by people in WILDCARD <Location.Populatedplace.Settlement>Shanghai</Location.Populatedplace.Settlement> about WILDCARD <Number>1,700</Number> kilometers away
+<Date>1995-XX-XX</Date> WILDCARD <Event.Naturalevent.Earthquake>Great Hanshin Earthquake</Event.Naturalevent.Earthquake> in WILDCARD <Location.Populatedplace.Region.Administrativeregion>Hyogo Prefecture</Location.Populatedplace.Region.Administrativeregion>
+WILDCARD <Location.Populatedplace.Region.Administrativeregion>Hokkaido</Location.Populatedplace.Region.Administrativeregion> about WILDCARD <Number>1,000</Number> kilometers from the WILDCARD <Location.Point.Geographic_point>epicenter</Location.Point.Geographic_point>
+WILDCARD <Event.Act.Action.Change.Motion.Vibration>tremor</Event.Act.Action.Change.Motion.Vibration> from <Date>2008-05-12</Date> WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>quake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
+A magnitude WILDCARD <Number>5.3</Number> WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon>
+WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> rattled the WILDCARD <Location.Region>county</Location.Region> of WILDCARD <Location.Populatedplace.Settlement>Taitung</Location.Populatedplace.Settlement> at <Date>2008-05-14</Date>
+WILDCARD <Phenomenon.Natural_phenomenon.Geological_phenomenon>earthquake</Phenomenon.Natural_phenomenon.Geological_phenomenon> had an intensity of WILDCARD <Number>3.0</Number>
+WILDCARD <Location.Point.Geographic_point>epicentre</Location.Point.Geographic_point> was located WILDCARD <Number>12.1</Number> kilometres southwest of WILDCARD <Location.Populatedplace.Settlement.City>Taitung City</Location.Populatedplace.Settlement.City>

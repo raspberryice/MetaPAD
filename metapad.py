@@ -9,10 +9,10 @@ def Encrypt(file_output_encrypted,file_output_label,file_output_positive,file_ou
     stopwordset = SetFromFile(file_input_stopwords)
     key2value = {}
     value_int = 1000000
-    fw = open(file_output_encrypted,'w')
-    fr = open(file_input_entitylinking,'rb')
+    fw = open(file_output_encrypted,'w') # encrypted text
+    fr = open(file_input_entitylinking,'rb') # original text
     for lidx,line in tqdm(enumerate(fr)):
-        xml = line.strip('\r\n')
+        xml = line.decode('utf8').strip('\r\n')
         if xml == '':
             continue
         sentence = XMLToSentence(xml)
@@ -24,7 +24,7 @@ def Encrypt(file_output_encrypted,file_output_label,file_output_positive,file_ou
             print(lidx)
 
         text = ''
-        for [classname,words] in sentence:
+        for [classname,words] in sentence:  # no tag means '', encode each word to key,
             if classname == '':
                 try:
                     assert(type(words)==str)
@@ -60,9 +60,10 @@ def Encrypt(file_output_encrypted,file_output_label,file_output_positive,file_ou
             fw.write(text[1:]+'\n')
     fr.close()
     fw.close()
+
     # =====================Read positive patterns =============================
     labelset = set()
-    fr = open(file_input_goodpattern,'rb')
+    fr = open(file_input_goodpattern,'rb') # goodpatten text
     for line in fr:
         xml = line.strip('\r\n')
         sentence = XMLToSentence(xml)
@@ -95,13 +96,13 @@ def Encrypt(file_output_encrypted,file_output_label,file_output_positive,file_ou
                     value_int += 1
                 text += ' '+key2value[key]
         if len(text) > 0:
-            labelset.add(text[1:])
+            labelset.add(text[1:]) # contains the encrypted pattern sentences
     fr.close()
 
     # =============Generate Negative Patterns =========================
 
-    fw = open(file_output_label,'w')
-    fw_positive = open(file_output_positive,'w')
+    fw = open(file_output_label,'w') # output/top-label.txt
+    fw_positive = open(file_output_positive,'w') # output/top-positive.txt
     labels = sorted(labelset)
     n_label = len(labels)
     for label in labels:
@@ -122,11 +123,11 @@ def Encrypt(file_output_encrypted,file_output_label,file_output_positive,file_ou
             label += ' '+wordgroups[k][j]
         label = label[1:]
         if label in labelset: continue
-        fw.write(label+'\t0\n')
+        fw.write(label+'\t0\n')   #substring as new label in negative set
         labelset.add(label)
     fw_positive.close()
     fw.close()
-    fw = open(file_output_key,'w')
+    fw = open(file_output_key,'w') # key- plain text word, value encrypted word  output/top-key.txt
     for [key,value] in sorted(key2value.items(),key=lambda x:x[1]):
         fw.write(value+'\t'+key+'\n')
     fw.close()
@@ -148,7 +149,7 @@ def MPTable(file_output_table,file_output_metapattern,file_input_salient,file_in
     stopwordpatternset = set(['and','or','say','says','said','told','announced'])
     commaset = set([':','-','.',';'])
     key2value = {}
-    fr = open(file_input_key,'rb')
+    fr = open(file_input_key,'rb') # output/top-key.txt
     for line in fr:
         arr = line.strip('\r\n').split('\t')
         key,classname = arr[0],arr[1]
@@ -160,7 +161,7 @@ def MPTable(file_output_table,file_output_metapattern,file_input_salient,file_in
         key2value[key] = value
     fr.close()
     pattern2score = {}
-    fr = open(file_input_salient,'rb')
+    fr = open(file_input_salient,'rb') # output/top-salient.csv
     for line in fr:
         arr = line.strip('\r\n').split(',')
         pattern = ''
@@ -213,7 +214,7 @@ def MPTable(file_output_table,file_output_metapattern,file_input_salient,file_in
         pattern = SentenceToXML(sentence)
         if pattern in pattern2score:
             score = max(score,pattern2score[pattern])
-        pattern2score[pattern] = score
+        pattern2score[pattern] = score  # get all patterns maximum scores
     fr.close()
     fw = open(file_output_metapattern,'w')
     for [pattern,score] in sorted(pattern2score.items(),key=lambda x:-x[1]):
@@ -223,7 +224,7 @@ def MPTable(file_output_table,file_output_metapattern,file_input_salient,file_in
     fw.close()
     index = PatternIndex(file_output_metapattern)
     n_index = len(index)
-    fw = open(file_output_table,'w')
+    fw = open(file_output_table,'w') # output/top-table.txt
     fw.write('MENTION\tXMLBOTTOM\tXML\tPATTERN\tSCORE\tPOS\n')
     mention = 0
     fr = open(file_input_entitylinking,'rb')
@@ -1076,8 +1077,8 @@ def Result(file_output_result,file_input_attribute,NUMTOP_ATTRIBUTE_VALUETYPE,NU
 
 def EncryptFast(file_output_train,file_output_mapping,file_output_casesen,file_output_quality,file_input_entitylinking,file_input_goodpattern,LEVEL):
     key2value = {}
-    fw = open(file_output_train,'w')
-    fw_casesen = open(file_output_casesen,'w')
+    fw = open(file_output_train,'w') # output/top-token-train.txt
+    fw_casesen = open(file_output_casesen,'w') # output/top-token-casesen.txt
     fr = open(file_input_entitylinking,'rb')
     for line in fr:
         xml = line.strip('\r\n')
@@ -1093,13 +1094,13 @@ def EncryptFast(file_output_train,file_output_mapping,file_output_casesen,file_o
                 key = word
                 if not key in key2value:
                     value = len(key2value)
-                    key2value[key] = value
+                    key2value[key] = value # # value is the len of the current dict set
                 text += ' '+str(key2value[key])
                 text_casesen += '0'
             elif classname == 'PERIOD':
                 word = words
                 text += ' '+word
-                text_casesen += '3'
+                text_casesen += '3'  # 3 is end signal
             else:
                 if LEVEL == 'TOP':
                     if '.' in classname:  # TOP - begin
@@ -1110,15 +1111,15 @@ def EncryptFast(file_output_train,file_output_mapping,file_output_casesen,file_o
                     value = len(key2value)
                     key2value[key] = value
                 text += ' '+str(key2value[key])
-                text_casesen += '1'
+                text_casesen += '1'  #  0 is no classname word and 1 is with classname word
         if len(text) > 0:
             fw.write(text[1:]+'\n')
             fw_casesen.write(text_casesen+'\n')
     fr.close()
     fw_casesen.close()
     fw.close()
-    fw = open(file_output_quality,'w')
-    fr = open(file_input_goodpattern,'rb')
+    fw = open(file_output_quality,'w') # output/top-token-quality.txt
+    fr = open(file_input_goodpattern,'rb')  # get good pattern encrypt as before in encryptfast
     for line in fr:
         xml = line.strip('\r\n')
         sentence = XMLToSentence(xml)
@@ -1141,33 +1142,33 @@ def EncryptFast(file_output_train,file_output_mapping,file_output_casesen,file_o
                 if not key in key2value:
                     value = len(key2value)
                     key2value[key] = value
-                text += ' '+str(key2value[key])
+                text += ' '+str(key2value[key])  # encrypted good pattern sentences
         if len(text) > 0:
             fw.write(text[1:]+'\n')
     fr.close()
     fw.close()
-    fw = open(file_output_mapping,'w')
+    fw = open(file_output_mapping,'w')  # output/top-token-mapping.txt
     for [key,value] in key2value.items():
-        fw.write(str(value)+'\t'+key+'\n')
+        fw.write(str(value)+'\t'+key+'\n')  # (value, key)
     fw.close()
 
 def SalientFast(file_output_salient,file_output_key,file_input_phrase,file_input_mapping):
-    fw = open(file_output_key,'w')
-    fr = open(file_input_mapping,'rb')
+    fw = open(file_output_key,'w') # output/top-key.txt
+    fr = open(file_input_mapping,'rb') # output/top-token-mapping.txt
     for line in fr:
         arr = line.strip('\r\n').split('\t')
         key,value = arr[0],arr[1]
         if len(value) > 1 and value[0] == '$':
-            fw.write(key+'\t'+value[1:]+'\t'+''+'\n')
+            fw.write(key+'\t'+value[1:]+'\t'+''+'\n')  # key - encrypted number, value - good pattern text
         else:
             fw.write(key+'\t'+''+'\t'+value+'\n')
     fr.close()
     fw.close()
     fw = open(file_output_salient,'w')
-    fr = open(file_input_phrase,'rb')
+    fr = open(file_input_phrase,'rb') # output/top-token-phrase.txt
     for line in fr:
         arr = line.strip('\r\n').split('\t')
-        fw.write(arr[1].replace(' ','_')+','+arr[0]+'\n')
+        fw.write(arr[1].replace(' ','_')+','+arr[0]+'\n')  # extract candidate text , score ?
     fr.close()
     fw.close()
 
